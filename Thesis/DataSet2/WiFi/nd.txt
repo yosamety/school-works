@@ -1,0 +1,1201 @@
+TIME, SSID, BSSID, SIGNAL, ACTIVE
+17:16:14.800299  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 1592719 bytes (15495 packets) 	TX: 43010631 bytes (29874 packets) 	signal: -64 dBm 	tx bitrate: 12.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:15.801454  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 1846543 bytes (17984 packets) 	TX: 50112648 bytes (34801 packets) 	signal: -56 dBm 	tx bitrate: 150.0 MBit/s MCS 7 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:16.801380  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 2346656 bytes (22828 packets) 	TX: 63374117 bytes (43980 packets) 	signal: -55 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:17.801415  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 2761318 bytes (26893 packets) 	TX: 75249253 bytes (52199 packets) 	signal: -55 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:18.801458  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 3184140 bytes (31038 packets) 	TX: 87208199 bytes (60476 packets) 	signal: -51 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:19.801440  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 3518765 bytes (34318 packets) 	TX: 96616594 bytes (66987 packets) 	signal: -52 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:20.801516  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 3925471 bytes (38305 packets) 	TX: 108222960 bytes (75020 packets) 	signal: -53 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:21.801454  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 4297191 bytes (41949 packets) 	TX: 118793261 bytes (82336 packets) 	signal: -54 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:22.801450  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 4727153 bytes (46164 packets) 	TX: 131068662 bytes (90832 packets) 	signal: -53 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:23.801526  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 5155803 bytes (50363 packets) 	TX: 143251953 bytes (99265 packets) 	signal: -51 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:24.801443  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 5574213 bytes (54465 packets) 	TX: 155141539 bytes (107494 packets) 	signal: -52 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:25.801205  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 5945459 bytes (58104 packets) 	TX: 165922810 bytes (114956 packets) 	signal: -51 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:26.801396  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 6353899 bytes (62108 packets) 	TX: 177438141 bytes (122926 packets) 	signal: -52 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:27.801253  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 6798345 bytes (66465 packets) 	TX: 190142707 bytes (131719 packets) 	signal: -53 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:28.801527  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 7152725 bytes (69939 packets) 	TX: 200213038 bytes (138689 packets) 	signal: -52 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:29.801435  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 7588297 bytes (74209 packets) 	TX: 212695074 bytes (147328 packets) 	signal: -52 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:30.801457  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 7987659 bytes (78124 packets) 	TX: 224671360 bytes (155617 packets) 	signal: -52 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:31.801539  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 8361897 bytes (81793 packets) 	TX: 235928036 bytes (163408 packets) 	signal: -53 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:32.801459  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 8802879 bytes (86048 packets) 	TX: 247774272 bytes (171607 packets) 	signal: -52 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:33.801551  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 9209177 bytes (90031 packets) 	TX: 259281007 bytes (179572 packets) 	signal: -52 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:34.801442  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 9547467 bytes (93304 packets) 	TX: 268348508 bytes (185848 packets) 	signal: -52 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:35.801531  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 9929285 bytes (97047 packets) 	TX: 279223704 bytes (193375 packets) 	signal: -51 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:36.801554  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 10182685 bytes (99531 packets) 	TX: 286399700 bytes (198342 packets) 	signal: -53 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:37.801430  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 10421703 bytes (101874 packets) 	TX: 293350276 bytes (203153 packets) 	signal: -54 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:38.801422  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 10790873 bytes (105493 packets) 	TX: 303784747 bytes (210375 packets) 	signal: -52 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:39.801733  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 11166877 bytes (109179 packets) 	TX: 314470648 bytes (217771 packets) 	signal: -52 dBm 	tx bitrate: 150.0 MBit/s MCS 7 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:40.801418  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 11492085 bytes (112367 packets) 	TX: 323977429 bytes (224351 packets) 	signal: -53 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:41.801624  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 11915793 bytes (116521 packets) 	TX: 336027410 bytes (232691 packets) 	signal: -55 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:42.801480  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 12289447 bytes (120110 packets) 	TX: 346188776 bytes (239724 packets) 	signal: -55 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:43.801429  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 12646785 bytes (123613 packets) 	TX: 356383377 bytes (246780 packets) 	signal: -55 dBm 	tx bitrate: 135.0 MBit/s MCS 6 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:44.801521  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 12891515 bytes (126012 packets) 	TX: 363109978 bytes (251436 packets) 	signal: -53 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:45.801545  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 13248215 bytes (129509 packets) 	TX: 373295983 bytes (258487 packets) 	signal: -53 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:46.801444  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 13622383 bytes (133177 packets) 	TX: 384117714 bytes (265977 packets) 	signal: -53 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:47.801396  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 14073255 bytes (137597 packets) 	TX: 396833840 bytes (274778 packets) 	signal: -51 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:48.801555  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 14543813 bytes (142210 packets) 	TX: 410393846 bytes (284163 packets) 	signal: -52 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:49.801449  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 14982792 bytes (146513 packets) 	TX: 422704009 bytes (292684 packets) 	signal: -53 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:50.801405  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 15380836 bytes (150415 packets) 	TX: 434293117 bytes (300706 packets) 	signal: -52 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:51.801428  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 15801924 bytes (154543 packets) 	TX: 446061323 bytes (308851 packets) 	signal: -52 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:52.801459  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 16112036 bytes (157583 packets) 	TX: 454920744 bytes (314983 packets) 	signal: -52 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:53.801517  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 16478962 bytes (161180 packets) 	TX: 465634100 bytes (322398 packets) 	signal: -52 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:54.801456  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 16913904 bytes (165420 packets) 	TX: 477656696 bytes (330720 packets) 	signal: -51 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:55.801550  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 17232992 bytes (168548 packets) 	TX: 486965512 bytes (337163 packets) 	signal: -52 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:56.801522  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 17349073 bytes (169685 packets) 	TX: 489893208 bytes (339190 packets) 	signal: -55 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:57.801427  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 17716113 bytes (173131 packets) 	TX: 499139889 bytes (345590 packets) 	signal: -54 dBm 	tx bitrate: 300.0 MBit/s MCS 15 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:58.801435  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 18213191 bytes (178004 packets) 	TX: 513240325 bytes (355349 packets) 	signal: -54 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:16:59.801374  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 18687225 bytes (182601 packets) 	TX: 526254121 bytes (364356 packets) 	signal: -56 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:00.801412  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 19041539 bytes (186074 packets) 	TX: 536239197 bytes (371267 packets) 	signal: -54 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:01.801435  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 19437433 bytes (189955 packets) 	TX: 547488648 bytes (379053 packets) 	signal: -52 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:02.801451  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 19857399 bytes (194072 packets) 	TX: 559553079 bytes (387403 packets) 	signal: -56 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:03.801380  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 20271551 bytes (198132 packets) 	TX: 571381975 bytes (395590 packets) 	signal: -51 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:04.801449  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 20532601 bytes (200691 packets) 	TX: 578831076 bytes (400746 packets) 	signal: -53 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:05.801508  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 20785159 bytes (203167 packets) 	TX: 586059092 bytes (405749 packets) 	signal: -54 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:06.801424  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 21137955 bytes (206625 packets) 	TX: 595966374 bytes (412608 packets) 	signal: -54 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:07.801447  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 21460433 bytes (209786 packets) 	TX: 605201613 bytes (419001 packets) 	signal: -53 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:08.801538  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 21748819 bytes (212613 packets) 	TX: 613578404 bytes (424799 packets) 	signal: -53 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:09.801425  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 22098697 bytes (215994 packets) 	TX: 623366960 bytes (431574 packets) 	signal: -55 dBm 	tx bitrate: 300.0 MBit/s MCS 15 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:10.801396  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 22489107 bytes (219821 packets) 	TX: 634976408 bytes (439611 packets) 	signal: -55 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:11.801404  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 22870619 bytes (223561 packets) 	TX: 647128984 bytes (448022 packets) 	signal: -54 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:12.801440  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 23249377 bytes (227274 packets) 	TX: 658758470 bytes (456071 packets) 	signal: -56 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:13.801548  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 23672403 bytes (231421 packets) 	TX: 671647996 bytes (464992 packets) 	signal: -55 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:14.801477  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 24092573 bytes (235540 packets) 	TX: 683582377 bytes (473252 packets) 	signal: -55 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:15.801429  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 24562009 bytes (240142 packets) 	TX: 697119263 bytes (482621 packets) 	signal: -55 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:16.801430  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 25005741 bytes (244492 packets) 	TX: 709812269 bytes (491406 packets) 	signal: -54 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:17.801519  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 25462733 bytes (248972 packets) 	TX: 722617985 bytes (500269 packets) 	signal: -55 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:18.801407  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 25945225 bytes (253702 packets) 	TX: 736487221 bytes (509868 packets) 	signal: -54 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:19.801416  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 26458965 bytes (258696 packets) 	TX: 750723487 bytes (519721 packets) 	signal: -55 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:20.801435  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 26900081 bytes (263020 packets) 	TX: 763110153 bytes (528294 packets) 	signal: -57 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:21.801523  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 27315049 bytes (267088 packets) 	TX: 774930379 bytes (536475 packets) 	signal: -54 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:22.801412  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 27748173 bytes (271334 packets) 	TX: 787247685 bytes (545000 packets) 	signal: -54 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:23.801237  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 28205267 bytes (275815 packets) 	TX: 800316391 bytes (554045 packets) 	signal: -56 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:24.801430  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 28678545 bytes (280356 packets) 	TX: 812892352 bytes (562749 packets) 	signal: -59 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:25.801468  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 28870337 bytes (282236 packets) 	TX: 818237533 bytes (566449 packets) 	signal: -62 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:26.801372  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 29166304 bytes (285137 packets) 	TX: 826714029 bytes (572316 packets) 	signal: -54 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:27.801566  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 29489574 bytes (288306 packets) 	TX: 835894240 bytes (578670 packets) 	signal: -55 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:28.801417  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 29878532 bytes (292119 packets) 	TX: 847020866 bytes (586371 packets) 	signal: -52 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:29.801407  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 30231484 bytes (295579 packets) 	TX: 857092642 bytes (593342 packets) 	signal: -52 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:30.801429  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 30632310 bytes (299508 packets) 	TX: 868768368 bytes (601423 packets) 	signal: -55 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:31.801505  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 31097176 bytes (304017 packets) 	TX: 881610209 bytes (610311 packets) 	signal: -54 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:32.801610  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 31407492 bytes (307059 packets) 	TX: 890469630 bytes (616443 packets) 	signal: -63 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:33.801647  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 31701488 bytes (309941 packets) 	TX: 898873876 bytes (622260 packets) 	signal: -66 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:34.801637  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 31944652 bytes (312324 packets) 	TX: 905760872 bytes (627027 packets) 	signal: -67 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:35.801310  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32050935 bytes (313364 packets) 	TX: 908926993 bytes (629219 packets) 	signal: -79 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:36.801396  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32082623 bytes (313674 packets) 	TX: 909606269 bytes (629690 packets) 	signal: -72 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:37.801406  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32128735 bytes (314124 packets) 	TX: 911094745 bytes (630721 packets) 	signal: -83 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:38.801482  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32167329 bytes (314501 packets) 	TX: 912167061 bytes (631464 packets) 	signal: -83 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:39.801543  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32211227 bytes (314930 packets) 	TX: 913123777 bytes (632127 packets) 	signal: -74 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:40.801598  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32247721 bytes (315287 packets) 	TX: 914138293 bytes (632830 packets) 	signal: -74 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:41.801444  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32287977 bytes (315681 packets) 	TX: 915275634 bytes (633618 packets) 	signal: -75 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:42.801535  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32317217 bytes (315967 packets) 	TX: 916369625 bytes (634376 packets) 	signal: -77 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:43.801430  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32360191 bytes (316388 packets) 	TX: 917356686 bytes (635060 packets) 	signal: -77 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:44.801524  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32381067 bytes (316592 packets) 	TX: 917926142 bytes (635455 packets) 	signal: -79 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:45.801534  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32381307 bytes (316594 packets) 	TX: 918075103 bytes (635559 packets) 	signal: -83 dBm 	tx bitrate: 6.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:46.801573  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32381649 bytes (316597 packets) 	TX: 918193739 bytes (635643 packets) 	signal: -86 dBm 	tx bitrate: 6.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:47.801557  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32381889 bytes (316599 packets) 	TX: 918195310 bytes (635645 packets) 	signal: -85 dBm 	tx bitrate: 13.5 MBit/s MCS 0 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:48.801544  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32382129 bytes (316601 packets) 	TX: 918196901 bytes (635648 packets) 	signal: -85 dBm 	tx bitrate: 6.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:49.801539  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32382129 bytes (316601 packets) 	TX: 918197027 bytes (635649 packets) 	signal: -85 dBm 	tx bitrate: 6.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:50.801543  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32382129 bytes (316601 packets) 	TX: 918197153 bytes (635650 packets) 	signal: -85 dBm 	tx bitrate: 6.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:51.801550  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32382369 bytes (316603 packets) 	TX: 918198724 bytes (635652 packets) 	signal: -85 dBm 	tx bitrate: 13.5 MBit/s MCS 0 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:52.801492  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32382429 bytes (316603 packets) 	TX: 918198850 bytes (635653 packets) 	signal: -85 dBm 	tx bitrate: 13.5 MBit/s MCS 0 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:53.801454  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32390885 bytes (316685 packets) 	TX: 918466301 bytes (635839 packets) 	signal: -84 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:54.801562  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32391635 bytes (316692 packets) 	TX: 918501107 bytes (635864 packets) 	signal: -85 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:55.801549  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32401051 bytes (316782 packets) 	TX: 918764223 bytes (636047 packets) 	signal: -83 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:56.801562  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32418699 bytes (316954 packets) 	TX: 919327899 bytes (636438 packets) 	signal: -83 dBm 	tx bitrate: 45.0 MBit/s MCS 2 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:57.801433  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32463815 bytes (317396 packets) 	TX: 920212365 bytes (637051 packets) 	signal: -78 dBm 	tx bitrate: 45.0 MBit/s MCS 2 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:58.801722  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32520493 bytes (317951 packets) 	TX: 921971056 bytes (638269 packets) 	signal: -72 dBm 	tx bitrate: 45.0 MBit/s MCS 2 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:17:59.801551  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32590293 bytes (318635 packets) 	TX: 923891587 bytes (639599 packets) 	signal: -74 dBm 	tx bitrate: 54.0 MBit/s MCS 9 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:00.801520  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32686583 bytes (319578 packets) 	TX: 926537508 bytes (641431 packets) 	signal: -69 dBm 	tx bitrate: 54.0 MBit/s MCS 9 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:01.801515  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32783005 bytes (320523 packets) 	TX: 929384284 bytes (643402 packets) 	signal: -69 dBm 	tx bitrate: 54.0 MBit/s MCS 9 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:02.801556  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 32894391 bytes (321614 packets) 	TX: 932540290 bytes (645587 packets) 	signal: -75 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:03.801392  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 33020021 bytes (322845 packets) 	TX: 936269961 bytes (648169 packets) 	signal: -67 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:04.801522  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 33186451 bytes (324476 packets) 	TX: 941700397 bytes (651928 packets) 	signal: -64 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:05.801539  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 33403101 bytes (326599 packets) 	TX: 948071528 bytes (656338 packets) 	signal: -66 dBm 	tx bitrate: 135.0 MBit/s MCS 6 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:06.801547  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 33566445 bytes (328200 packets) 	TX: 952923964 bytes (659697 packets) 	signal: -73 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:07.801554  Connected to 00:25:45:a4:0a:8e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 33653009 bytes (329048 packets) 	TX: 955382035 bytes (661399 packets) 	signal: -66 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:08.801368  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 17748 bytes (160 packets) 	TX: 450015 bytes (317 packets) 	signal: -55 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:09.801432  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 400516 bytes (3754 packets) 	TX: 9871237 bytes (6838 packets) 	signal: -56 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:10.801441  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 786552 bytes (7538 packets) 	TX: 20954513 bytes (14509 packets) 	signal: -54 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:11.801425  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 1165052 bytes (11248 packets) 	TX: 31668105 bytes (21926 packets) 	signal: -53 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:12.801410  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 1609906 bytes (15609 packets) 	TX: 44408914 bytes (30745 packets) 	signal: -54 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:13.801380  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 2082066 bytes (20221 packets) 	TX: 57554323 bytes (39844 packets) 	signal: -56 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:14.801532  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 2525594 bytes (24569 packets) 	TX: 70084044 bytes (48516 packets) 	signal: -62 dBm 	tx bitrate: 300.0 MBit/s MCS 15 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:15.801435  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 2867974 bytes (27925 packets) 	TX: 79887050 bytes (55301 packets) 	signal: -62 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:16.801520  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 3200832 bytes (31188 packets) 	TX: 89383716 bytes (61874 packets) 	signal: -61 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:17.801433  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 3480098 bytes (33925 packets) 	TX: 97434055 bytes (67447 packets) 	signal: -60 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:18.801550  Not connected. 
+
+17:18:19.801395  Not connected. 
+
+17:18:20.801598  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 252032 bytes (2338 packets) 	TX: 4464636 bytes (3097 packets) 	signal: -57 dBm 	tx bitrate: 150.0 MBit/s MCS 7 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:21.801403  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 694504 bytes (6630 packets) 	TX: 16845522 bytes (11666 packets) 	signal: -59 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:22.801404  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 1065306 bytes (10265 packets) 	TX: 27503968 bytes (19043 packets) 	signal: -59 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:23.801306  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 1399388 bytes (13540 packets) 	TX: 37036759 bytes (25641 packets) 	signal: -56 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:24.801435  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 1715942 bytes (16613 packets) 	TX: 45793585 bytes (31702 packets) 	signal: -57 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:25.801425  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 2107020 bytes (20410 packets) 	TX: 56518501 bytes (39125 packets) 	signal: -57 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:26.801445  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 2475042 bytes (24018 packets) 	TX: 67091692 bytes (46443 packets) 	signal: -64 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:27.801423  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 2877464 bytes (27963 packets) 	TX: 78686498 bytes (54468 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:28.801345  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 3246226 bytes (31578 packets) 	TX: 90399794 bytes (62575 packets) 	signal: -60 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:29.801427  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 3615528 bytes (35189 packets) 	TX: 102142064 bytes (70703 packets) 	signal: -56 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:30.801354  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 3995918 bytes (38918 packets) 	TX: 113144420 bytes (78318 packets) 	signal: -59 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:31.801242  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 4286140 bytes (41763 packets) 	TX: 121418616 bytes (84045 packets) 	signal: -55 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:32.801432  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 4671276 bytes (45527 packets) 	TX: 132655062 bytes (91822 packets) 	signal: -57 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:33.801411  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 5097872 bytes (49709 packets) 	TX: 145973753 bytes (101040 packets) 	signal: -58 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:34.801391  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 5518144 bytes (53829 packets) 	TX: 158710109 bytes (109855 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:35.801426  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 5936796 bytes (57915 packets) 	TX: 170830895 bytes (118244 packets) 	signal: -58 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:36.801441  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 6281180 bytes (61291 packets) 	TX: 181172886 bytes (125402 packets) 	signal: -58 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:37.801387  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 6698392 bytes (65381 packets) 	TX: 193396267 bytes (133862 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:38.801373  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 7090800 bytes (69211 packets) 	TX: 204200658 bytes (141340 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:39.801434  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 7451198 bytes (72744 packets) 	TX: 214879334 bytes (148731 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:40.801341  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 7841890 bytes (76574 packets) 	TX: 226133120 bytes (156520 packets) 	signal: -57 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:41.801265  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 8212488 bytes (80207 packets) 	TX: 236888381 bytes (163964 packets) 	signal: -57 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:42.801514  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 8578088 bytes (83791 packets) 	TX: 247574282 bytes (171360 packets) 	signal: -57 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:43.801425  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 8936242 bytes (87302 packets) 	TX: 258297753 bytes (178782 packets) 	signal: -57 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:44.801438  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 9387952 bytes (91687 packets) 	TX: 271035554 bytes (187598 packets) 	signal: -56 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:45.801435  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 9795552 bytes (95677 packets) 	TX: 282821100 bytes (195755 packets) 	signal: -59 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:46.801422  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 10227734 bytes (99902 packets) 	TX: 295420181 bytes (204475 packets) 	signal: -59 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:47.801576  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 10610546 bytes (103655 packets) 	TX: 306491897 bytes (212138 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:48.801430  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 10970866 bytes (107151 packets) 	TX: 316841113 bytes (219301 packets) 	signal: -59 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:49.801403  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 11353704 bytes (110904 packets) 	TX: 327912829 bytes (226964 packets) 	signal: -57 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:50.801433  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 11749394 bytes (114783 packets) 	TX: 339659360 bytes (235094 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:51.801388  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 12177940 bytes (118966 packets) 	TX: 351673290 bytes (243410 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:52.801397  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 12610248 bytes (123204 packets) 	TX: 364221796 bytes (252095 packets) 	signal: -58 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:53.801436  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 13064166 bytes (127613 packets) 	TX: 376881567 bytes (260857 packets) 	signal: -58 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:54.801496  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 13482602 bytes (131715 packets) 	TX: 389104948 bytes (269317 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:55.801562  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 13877652 bytes (135546 packets) 	TX: 400261919 bytes (277039 packets) 	signal: -57 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:56.801531  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 13970579 bytes (136456 packets) 	TX: 402799465 bytes (278796 packets) 	signal: -58 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:57.801442  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 14188411 bytes (138548 packets) 	TX: 408656176 bytes (282850 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:58.801451  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 14583093 bytes (142399 packets) 	TX: 420076137 bytes (290754 packets) 	signal: -62 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:18:59.801434  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 14966441 bytes (146157 packets) 	TX: 431140628 bytes (298412 packets) 	signal: -60 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:00.801435  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 15350299 bytes (149920 packets) 	TX: 442427649 bytes (306224 packets) 	signal: -60 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:01.801527  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 15745789 bytes (153763 packets) 	TX: 454312900 bytes (314450 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:02.801650  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 16094151 bytes (157178 packets) 	TX: 464633216 bytes (321593 packets) 	signal: -55 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:03.801437  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 16418951 bytes (160362 packets) 	TX: 474303282 bytes (328286 packets) 	signal: -64 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:04.801496  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 16836613 bytes (164427 packets) 	TX: 486158188 bytes (336491 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:05.801535  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 16940424 bytes (165443 packets) 	TX: 488929824 bytes (338410 packets) 	signal: -57 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:06.801608  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 17085980 bytes (166869 packets) 	TX: 493238940 bytes (341393 packets) 	signal: -56 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:07.801445  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 17568656 bytes (171495 packets) 	TX: 506206496 bytes (350368 packets) 	signal: -55 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:08.801274  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 17884516 bytes (174591 packets) 	TX: 515343357 bytes (356692 packets) 	signal: -55 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:09.801244  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 18280308 bytes (178471 packets) 	TX: 526782103 bytes (364609 packets) 	signal: -58 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:10.801369  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 18679160 bytes (182381 packets) 	TX: 538388469 bytes (372642 packets) 	signal: -56 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:11.801442  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 19120778 bytes (186666 packets) 	TX: 550921080 bytes (381316 packets) 	signal: -57 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:12.801375  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 19478476 bytes (190161 packets) 	TX: 561043431 bytes (388322 packets) 	signal: -59 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:13.801448  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 19796136 bytes (193275 packets) 	TX: 570430277 bytes (394819 packets) 	signal: -59 dBm 	tx bitrate: 150.0 MBit/s MCS 7 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:14.801451  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 20149904 bytes (196743 packets) 	TX: 580643663 bytes (401888 packets) 	signal: -57 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:15.801594  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 20516524 bytes (200337 packets) 	TX: 591388809 bytes (409325 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:16.801347  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 20944260 bytes (204501 packets) 	TX: 603594968 bytes (417774 packets) 	signal: -57 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:17.801404  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 21280202 bytes (207794 packets) 	TX: 613406762 bytes (424566 packets) 	signal: -58 dBm 	tx bitrate: 108.0 MBit/s MCS 11 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:18.801331  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 21644398 bytes (211364 packets) 	TX: 624124571 bytes (431985 packets) 	signal: -65 dBm 	tx bitrate: 300.0 MBit/s MCS 15 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:19.801257  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 22080684 bytes (215641 packets) 	TX: 636743882 bytes (440719 packets) 	signal: -55 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:20.801410  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 22475360 bytes (219493 packets) 	TX: 647923973 bytes (448457 packets) 	signal: -55 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:21.801385  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 22916032 bytes (223813 packets) 	TX: 660778819 bytes (457354 packets) 	signal: -49 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:22.801483  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 23264328 bytes (227227 packets) 	TX: 670808690 bytes (464296 packets) 	signal: -51 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:23.801399  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 23713252 bytes (231585 packets) 	TX: 683133221 bytes (472826 packets) 	signal: -54 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:24.801474  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 24011454 bytes (234508 packets) 	TX: 691802020 bytes (478827 packets) 	signal: -53 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:25.801555  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 24380318 bytes (238124 packets) 	TX: 702646871 bytes (486333 packets) 	signal: -59 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:26.801399  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 24825754 bytes (242472 packets) 	TX: 715231502 bytes (495043 packets) 	signal: -61 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:27.801443  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 25267734 bytes (246767 packets) 	TX: 727879713 bytes (503797 packets) 	signal: -51 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:28.801467  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 25700144 bytes (251006 packets) 	TX: 740376199 bytes (512446 packets) 	signal: -62 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:29.801405  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 26120320 bytes (255074 packets) 	TX: 752368454 bytes (520747 packets) 	signal: -61 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:30.801304  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 26519682 bytes (258989 packets) 	TX: 763986380 bytes (528788 packets) 	signal: -63 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:31.801421  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 26725040 bytes (261002 packets) 	TX: 770067066 bytes (532997 packets) 	signal: -72 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:32.801461  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 26772472 bytes (261466 packets) 	TX: 771382142 bytes (533908 packets) 	signal: -73 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:33.801439  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 26802219 bytes (261756 packets) 	TX: 772191468 bytes (534469 packets) 	signal: -72 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:34.801481  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 26893715 bytes (262652 packets) 	TX: 774786814 bytes (536266 packets) 	signal: -71 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:35.801557  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 27089353 bytes (264569 packets) 	TX: 780179680 bytes (539999 packets) 	signal: -73 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:36.801428  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 27235725 bytes (266003 packets) 	TX: 784497466 bytes (542988 packets) 	signal: -69 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:37.801424  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 27507179 bytes (268664 packets) 	TX: 792414747 bytes (548468 packets) 	signal: -66 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:38.801622  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 27656677 bytes (270129 packets) 	TX: 796797558 bytes (551502 packets) 	signal: -69 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:39.801535  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 27837795 bytes (271904 packets) 	TX: 801934659 bytes (555058 packets) 	signal: -72 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:40.801430  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 27958799 bytes (273090 packets) 	TX: 805423015 bytes (557473 packets) 	signal: -75 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:41.801534  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 28034347 bytes (273830 packets) 	TX: 807602201 bytes (558982 packets) 	signal: -73 dBm 	tx bitrate: 120.0 MBit/s MCS 5 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:42.801417  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 28083033 bytes (274307 packets) 	TX: 809055997 bytes (559989 packets) 	signal: -72 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:43.801549  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 28106150 bytes (274532 packets) 	TX: 809584993 bytes (560356 packets) 	signal: -78 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:44.801538  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 1012 bytes (10 packets) 	TX: 554 bytes (4 packets) 	signal: -65 dBm 	tx bitrate: 12.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:45.801324  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 148160 bytes (1429 packets) 	TX: 3811147 bytes (2644 packets) 	signal: -64 dBm 	tx bitrate: 135.0 MBit/s MCS 7 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:46.801507  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 318157 bytes (3095 packets) 	TX: 8653468 bytes (5996 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:47.801554  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 425391 bytes (4146 packets) 	TX: 11737224 bytes (8131 packets) 	signal: -62 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:48.801572  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 462857 bytes (4513 packets) 	TX: 12795090 bytes (8864 packets) 	signal: -67 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:49.801348  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 524737 bytes (5119 packets) 	TX: 14592796 bytes (10109 packets) 	signal: -66 dBm 	tx bitrate: 243.0 MBit/s MCS 14 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:50.801351  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 709971 bytes (6934 packets) 	TX: 20121492 bytes (13936 packets) 	signal: -66 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:51.801689  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 849611 bytes (8302 packets) 	TX: 24213858 bytes (16769 packets) 	signal: -67 dBm 	tx bitrate: 81.0 MBit/s MCS 10 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:52.801555  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 974047 bytes (9521 packets) 	TX: 27950754 bytes (19356 packets) 	signal: -67 dBm 	tx bitrate: 243.0 MBit/s MCS 14 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:53.801430  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 1176039 bytes (11501 packets) 	TX: 33732325 bytes (23358 packets) 	signal: -67 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:54.801563  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 1327949 bytes (12990 packets) 	TX: 38395466 bytes (26586 packets) 	signal: -66 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:55.801422  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 1664996 bytes (16239 packets) 	TX: 47499092 bytes (32887 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:56.801469  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 2140441 bytes (20849 packets) 	TX: 60728193 bytes (42043 packets) 	signal: -66 dBm 	tx bitrate: 243.0 MBit/s MCS 14 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:57.801563  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 2599200 bytes (25346 packets) 	TX: 74153814 bytes (51335 packets) 	signal: -67 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:58.801469  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 3054593 bytes (29810 packets) 	TX: 87248530 bytes (60398 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:19:59.801624  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 3475681 bytes (33938 packets) 	TX: 99337526 bytes (68765 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:00.801438  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 3958513 bytes (38638 packets) 	TX: 112987122 bytes (78212 packets) 	signal: -65 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:01.801416  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 4377762 bytes (42747 packets) 	TX: 125008203 bytes (86532 packets) 	signal: -64 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:02.801231  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 4793546 bytes (46823 packets) 	TX: 137113094 bytes (94910 packets) 	signal: -65 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:03.801358  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 5244349 bytes (51242 packets) 	TX: 151021345 bytes (104536 packets) 	signal: -63 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:04.801268  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 5698587 bytes (55695 packets) 	TX: 164529331 bytes (113885 packets) 	signal: -66 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:05.801348  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 6106787 bytes (59696 packets) 	TX: 176176157 bytes (121946 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:06.801753  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 6535183 bytes (63895 packets) 	TX: 188523808 bytes (130492 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:07.801620  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 6986973 bytes (68324 packets) 	TX: 201528934 bytes (139493 packets) 	signal: -67 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:08.801490  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 7377369 bytes (72129 packets) 	TX: 212535625 bytes (147111 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:09.801405  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 7797572 bytes (76248 packets) 	TX: 224530696 bytes (155413 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:10.801407  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 8014660 bytes (78376 packets) 	TX: 230794897 bytes (159749 packets) 	signal: -64 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:11.801520  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 8096394 bytes (79177 packets) 	TX: 233166342 bytes (161392 packets) 	signal: -65 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:12.801421  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 8170478 bytes (79903 packets) 	TX: 235283393 bytes (162858 packets) 	signal: -65 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:13.801439  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 8520562 bytes (83317 packets) 	TX: 245069059 bytes (169631 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:14.801436  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 8959092 bytes (87616 packets) 	TX: 257837205 bytes (178468 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:15.801205  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 9379772 bytes (91740 packets) 	TX: 270654481 bytes (187339 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:16.801541  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 9519952 bytes (93114 packets) 	TX: 274557552 bytes (190041 packets) 	signal: -65 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:17.801431  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 9868620 bytes (96532 packets) 	TX: 284781053 bytes (197117 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:18.801446  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 10347032 bytes (101222 packets) 	TX: 299063559 bytes (207002 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:19.801544  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 10613386 bytes (103833 packets) 	TX: 306700510 bytes (212288 packets) 	signal: -63 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:20.801374  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 10666212 bytes (104350 packets) 	TX: 308287246 bytes (213387 packets) 	signal: -66 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:21.801444  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 10741136 bytes (105084 packets) 	TX: 310348060 bytes (214815 packets) 	signal: -65 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:22.801525  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 10935616 bytes (106990 packets) 	TX: 316031371 bytes (218749 packets) 	signal: -66 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:23.801472  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 11399110 bytes (111477 packets) 	TX: 329088517 bytes (227786 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:24.801457  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 11876016 bytes (116152 packets) 	TX: 343007001 bytes (237420 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:25.801690  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 12373314 bytes (120973 packets) 	TX: 357010740 bytes (247113 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:26.801419  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 12853052 bytes (125676 packets) 	TX: 370804836 bytes (256660 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:27.801409  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 13191655 bytes (128995 packets) 	TX: 380392537 bytes (263296 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:28.801403  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 13635112 bytes (133342 packets) 	TX: 393303856 bytes (272233 packets) 	signal: -65 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:29.801405  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 14003976 bytes (136936 packets) 	TX: 403637177 bytes (279385 packets) 	signal: -65 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:30.801412  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 14376818 bytes (140591 packets) 	TX: 414690108 bytes (287035 packets) 	signal: -65 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:31.801399  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 14806168 bytes (144800 packets) 	TX: 427020419 bytes (295569 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:32.801406  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 15277032 bytes (149416 packets) 	TX: 440827520 bytes (305125 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:33.801509  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 15765200 bytes (154180 packets) 	TX: 454737216 bytes (314752 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:34.801417  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 16214134 bytes (158581 packets) 	TX: 467690322 bytes (323717 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:35.801310  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 16695402 bytes (163299 packets) 	TX: 481725807 bytes (333432 packets) 	signal: -66 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:36.801270  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 17176397 bytes (168014 packets) 	TX: 495641283 bytes (343063 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:37.801440  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 17660725 bytes (172762 packets) 	TX: 509659354 bytes (352765 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:38.801458  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 18162633 bytes (177632 packets) 	TX: 523713550 bytes (362492 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:39.801428  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 18583721 bytes (181760 packets) 	TX: 536030856 bytes (371017 packets) 	signal: -66 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:40.801298  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 18942793 bytes (185280 packets) 	TX: 546226902 bytes (378074 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:41.801491  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 19273815 bytes (188525 packets) 	TX: 556024128 bytes (384855 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:42.801531  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 19629521 bytes (192012 packets) 	TX: 566171044 bytes (391878 packets) 	signal: -65 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:43.801423  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 19974652 bytes (195395 packets) 	TX: 576148895 bytes (398784 packets) 	signal: -65 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:44.801456  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 20384826 bytes (199416 packets) 	TX: 588191651 bytes (407119 packets) 	signal: -65 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:45.801532  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 20688716 bytes (202377 packets) 	TX: 596539542 bytes (412897 packets) 	signal: -65 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:46.801378  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 21031060 bytes (205733 packets) 	TX: 606539068 bytes (419818 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:47.801394  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 21444882 bytes (209753 packets) 	TX: 618148324 bytes (427853 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:48.801461  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 21823232 bytes (213462 packets) 	TX: 629433900 bytes (435664 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:49.801406  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 22204846 bytes (217203 packets) 	TX: 640784501 bytes (443520 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:50.801390  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 22669179 bytes (221754 packets) 	TX: 654504902 bytes (453016 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:51.801538  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 23003396 bytes (225030 packets) 	TX: 664094048 bytes (459653 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:52.801550  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 23127727 bytes (226248 packets) 	TX: 667634424 bytes (462104 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:53.801567  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 23434779 bytes (229258 packets) 	TX: 676751055 bytes (468414 packets) 	signal: -65 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:54.801442  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 23863757 bytes (233463 packets) 	TX: 688905076 bytes (476826 packets) 	signal: -65 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:55.801414  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 24243229 bytes (237183 packets) 	TX: 699706577 bytes (484302 packets) 	signal: -66 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:56.801555  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 24358122 bytes (238308 packets) 	TX: 702858248 bytes (486484 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:57.801408  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 24651914 bytes (241188 packets) 	TX: 711539934 bytes (492493 packets) 	signal: -65 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:58.801444  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 25154318 bytes (246060 packets) 	TX: 725556560 bytes (502194 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:20:59.801488  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 25641815 bytes (250784 packets) 	TX: 739487931 bytes (511836 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:00.801353  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 26084119 bytes (255120 packets) 	TX: 752276307 bytes (520687 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:01.801432  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 26564031 bytes (259790 packets) 	TX: 765642683 bytes (529938 packets) 	signal: -66 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:02.801389  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 26948399 bytes (263558 packets) 	TX: 776897914 bytes (537728 packets) 	signal: -64 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:03.801538  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 27311755 bytes (267120 packets) 	TX: 787413305 bytes (545006 packets) 	signal: -64 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:04.801543  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 27663279 bytes (270566 packets) 	TX: 797606461 bytes (552061 packets) 	signal: -65 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:05.801353  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 28059221 bytes (274445 packets) 	TX: 809183927 bytes (560074 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:06.801422  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 28542727 bytes (279156 packets) 	TX: 822845083 bytes (569529 packets) 	signal: -65 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:07.801429  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 29004615 bytes (283684 packets) 	TX: 836452774 bytes (578947 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:08.801217  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 29467613 bytes (288203 packets) 	TX: 849703550 bytes (588118 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:09.801448  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 29917472 bytes (292613 packets) 	TX: 862806936 bytes (597187 packets) 	signal: -65 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:10.801389  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 30396802 bytes (297312 packets) 	TX: 876968062 bytes (606988 packets) 	signal: -64 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:11.801406  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 30884964 bytes (302077 packets) 	TX: 890844597 bytes (616593 packets) 	signal: -65 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:12.801441  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 31364906 bytes (306782 packets) 	TX: 904774523 bytes (626234 packets) 	signal: -64 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:13.801454  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 31788238 bytes (310932 packets) 	TX: 917174194 bytes (634816 packets) 	signal: -64 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:14.801432  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 32258388 bytes (315541 packets) 	TX: 931049210 bytes (644419 packets) 	signal: -64 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:15.801464  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 32707538 bytes (319896 packets) 	TX: 943633841 bytes (653129 packets) 	signal: -66 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:16.801391  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 33081739 bytes (323564 packets) 	TX: 954613077 bytes (660728 packets) 	signal: -64 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:17.801366  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 33415515 bytes (326836 packets) 	TX: 964431978 bytes (667524 packets) 	signal: -65 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:18.801458  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 33822152 bytes (330822 packets) 	TX: 976344684 bytes (675769 packets) 	signal: -64 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:19.801544  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 34278736 bytes (335298 packets) 	TX: 989254440 bytes (684704 packets) 	signal: -67 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:20.801351  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 34684320 bytes (339274 packets) 	TX: 1000826126 bytes (692713 packets) 	signal: -65 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:21.801392  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 35097758 bytes (343327 packets) 	TX: 1012802412 bytes (701002 packets) 	signal: -65 dBm 	tx bitrate: 150.0 MBit/s MCS 7 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:22.801425  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 35468662 bytes (346963 packets) 	TX: 1023472418 bytes (708387 packets) 	signal: -63 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:23.801374  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 35755143 bytes (349771 packets) 	TX: 1031675809 bytes (714065 packets) 	signal: -64 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:24.801376  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 35898110 bytes (351172 packets) 	TX: 1036104860 bytes (717131 packets) 	signal: -61 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:25.801397  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 35971684 bytes (351893 packets) 	TX: 1038341846 bytes (718680 packets) 	signal: -63 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:26.801378  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 36183570 bytes (353970 packets) 	TX: 1044291037 bytes (722798 packets) 	signal: -67 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:27.801573  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 36371534 bytes (355812 packets) 	TX: 1050279243 bytes (726943 packets) 	signal: -66 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:28.801559  Connected to 00:25:45:a3:1f:6e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 36448663 bytes (356567 packets) 	TX: 1052428202 bytes (728432 packets) 	signal: -66 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:29.801370  Not connected. 
+
+17:21:30.801076  Not connected. 
+
+17:21:31.801540  Not connected. 
+
+17:21:32.801539  Not connected. 
+
+17:21:33.801554  Not connected. 
+
+17:21:34.801519  Not connected. 
+
+17:21:35.801539  Not connected. 
+
+17:21:36.801567  Not connected. 
+
+17:21:37.801454  Not connected. 
+
+17:21:38.801541  Not connected. 
+
+17:21:39.801551  Not connected. 
+
+17:21:40.801354  Not connected. 
+
+17:21:41.801533  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 778 bytes (8 packets) 	TX: 548 bytes (4 packets) 	signal: -56 dBm 	tx bitrate: 12.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:42.801592  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 965 bytes (11 packets) 	TX: 707 bytes (6 packets) 	signal: -59 dBm 	tx bitrate: 12.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:43.801544  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 1099 bytes (12 packets) 	TX: 833 bytes (7 packets) 	signal: -64 dBm 	tx bitrate: 12.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:44.801547  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 1233 bytes (13 packets) 	TX: 959 bytes (8 packets) 	signal: -61 dBm 	tx bitrate: 12.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:45.801616  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 1607 bytes (16 packets) 	TX: 1085 bytes (9 packets) 	signal: -68 dBm 	tx bitrate: 12.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:46.801578  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 1741 bytes (17 packets) 	TX: 1211 bytes (10 packets) 	signal: -64 dBm 	tx bitrate: 12.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:47.801542  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 2115 bytes (20 packets) 	TX: 1337 bytes (11 packets) 	signal: -66 dBm 	tx bitrate: 12.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:48.801588  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 2363 bytes (22 packets) 	TX: 2908 bytes (13 packets) 	signal: -67 dBm 	tx bitrate: 18.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:49.801544  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 2741 bytes (25 packets) 	TX: 3034 bytes (14 packets) 	signal: -65 dBm 	tx bitrate: 18.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:50.801546  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 3346 bytes (30 packets) 	TX: 3160 bytes (15 packets) 	signal: -63 dBm 	tx bitrate: 18.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:51.801547  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 3480 bytes (31 packets) 	TX: 3286 bytes (16 packets) 	signal: -57 dBm 	tx bitrate: 18.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:52.801429  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 12620 bytes (111 packets) 	TX: 233167 bytes (176 packets) 	signal: -65 dBm 	tx bitrate: 81.0 MBit/s MCS 10 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:53.801444  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 277263 bytes (2674 packets) 	TX: 7510266 bytes (5214 packets) 	signal: -57 dBm 	tx bitrate: 243.0 MBit/s MCS 14 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:54.801454  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 588701 bytes (5727 packets) 	TX: 16608112 bytes (11511 packets) 	signal: -63 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:55.801532  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 832921 bytes (8121 packets) 	TX: 23473433 bytes (16263 packets) 	signal: -66 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:56.801440  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 996561 bytes (9725 packets) 	TX: 28382224 bytes (19661 packets) 	signal: -66 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:57.801453  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 1419937 bytes (13799 packets) 	TX: 39526190 bytes (27374 packets) 	signal: -61 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:58.801517  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 1786473 bytes (17391 packets) 	TX: 50329136 bytes (34851 packets) 	signal: -65 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:21:59.801430  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 2007335 bytes (19556 packets) 	TX: 56889562 bytes (39392 packets) 	signal: -70 dBm 	tx bitrate: 150.0 MBit/s MCS 7 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:00.801428  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 2254615 bytes (21980 packets) 	TX: 64298203 bytes (44520 packets) 	signal: -70 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:01.801542  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 2357649 bytes (22989 packets) 	TX: 67277919 bytes (46583 packets) 	signal: -70 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:02.801532  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 2401031 bytes (23414 packets) 	TX: 68682585 bytes (47556 packets) 	signal: -70 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:03.801552  Connected to 00:25:45:a4:8f:3e (on wlan0) 	SSID: eduroam 	freq: 5805 	RX: 2442613 bytes (23821 packets) 	TX: 69681206 bytes (48248 packets) 	signal: -68 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:04.801286  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 1018 bytes (10 packets) 	TX: 554 bytes (4 packets) 	signal: -61 dBm 	tx bitrate: 12.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:05.801531  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 255626 bytes (2495 packets) 	TX: 7175011 bytes (4972 packets) 	signal: -57 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:06.801244  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 593176 bytes (5804 packets) 	TX: 17157197 bytes (11881 packets) 	signal: -56 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:07.801541  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 946638 bytes (9269 packets) 	TX: 27626348 bytes (19127 packets) 	signal: -63 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:08.801523  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 1320842 bytes (12921 packets) 	TX: 38073824 bytes (26358 packets) 	signal: -59 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:09.801426  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 1710412 bytes (16740 packets) 	TX: 49395525 bytes (34194 packets) 	signal: -58 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:10.801417  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 2051608 bytes (20085 packets) 	TX: 59265001 bytes (41025 packets) 	signal: -58 dBm 	tx bitrate: 270.0 MBit/s MCS 15 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:11.801272  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 2421678 bytes (23696 packets) 	TX: 69611327 bytes (48186 packets) 	signal: -57 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:12.801411  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 2684156 bytes (26269 packets) 	TX: 77106668 bytes (53374 packets) 	signal: -61 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:13.801252  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 3004264 bytes (29407 packets) 	TX: 86223299 bytes (59684 packets) 	signal: -60 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:14.801433  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 3309684 bytes (32401 packets) 	TX: 95085684 bytes (65819 packets) 	signal: -67 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:15.801437  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 3500900 bytes (34275 packets) 	TX: 100565250 bytes (69612 packets) 	signal: -65 dBm 	tx bitrate: 81.0 MBit/s MCS 10 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:16.801583  Connected to 00:25:45:37:20:2e (on wlan0) 	SSID: eduroam 	freq: 5240 	RX: 3521533 bytes (34476 packets) 	TX: 100981536 bytes (69901 packets) 	signal: -77 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:17.801088  Not connected. 
+
+17:22:18.801523  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 100410 bytes (895 packets) 	TX: 1674032 bytes (1165 packets) 	signal: -72 dBm 	tx bitrate: 108.0 MBit/s MCS 11 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:19.801435  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 251066 bytes (2371 packets) 	TX: 5978813 bytes (4145 packets) 	signal: -70 dBm 	tx bitrate: 108.0 MBit/s MCS 11 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:20.801494  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 398600 bytes (3816 packets) 	TX: 10500344 bytes (7275 packets) 	signal: -69 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:21.801441  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 472144 bytes (4536 packets) 	TX: 12737330 bytes (8824 packets) 	signal: -70 dBm 	tx bitrate: 60.0 MBit/s MCS 3 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:22.801429  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 534402 bytes (5145 packets) 	TX: 14458451 bytes (10016 packets) 	signal: -71 dBm 	tx bitrate: 120.0 MBit/s MCS 5 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:23.801531  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 608288 bytes (5868 packets) 	TX: 16802367 bytes (11639 packets) 	signal: -71 dBm 	tx bitrate: 6.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:24.801413  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 751222 bytes (7269 packets) 	TX: 20845603 bytes (14438 packets) 	signal: -65 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:25.801700  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 918712 bytes (8910 packets) 	TX: 25871439 bytes (17917 packets) 	signal: -62 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:26.801467  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 974578 bytes (9457 packets) 	TX: 27510195 bytes (19052 packets) 	signal: -67 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:27.801534  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 1017282 bytes (9875 packets) 	TX: 28711116 bytes (19884 packets) 	signal: -68 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:28.801549  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 1108196 bytes (10766 packets) 	TX: 31450962 bytes (21781 packets) 	signal: -69 dBm 	tx bitrate: 60.0 MBit/s MCS 3 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:29.801525  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 1199008 bytes (11656 packets) 	TX: 34222598 bytes (23700 packets) 	signal: -70 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:30.801528  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 1336684 bytes (13005 packets) 	TX: 38362649 bytes (26566 packets) 	signal: -68 dBm 	tx bitrate: 120.0 MBit/s MCS 5 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:31.801429  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 1470510 bytes (14316 packets) 	TX: 42306254 bytes (29297 packets) 	signal: -69 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:32.801523  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 1583048 bytes (15419 packets) 	TX: 45765710 bytes (31692 packets) 	signal: -71 dBm 	tx bitrate: 45.0 MBit/s MCS 2 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:33.801451  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 1741690 bytes (16974 packets) 	TX: 50476536 bytes (34953 packets) 	signal: -65 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:34.801451  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 1907574 bytes (18600 packets) 	TX: 55417117 bytes (38373 packets) 	signal: -66 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:35.801432  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 2080832 bytes (20297 packets) 	TX: 60672826 bytes (42012 packets) 	signal: -67 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:36.801531  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 2218054 bytes (21642 packets) 	TX: 64877902 bytes (44923 packets) 	signal: -65 dBm 	tx bitrate: 45.0 MBit/s MCS 2 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:37.801521  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 2312388 bytes (22565 packets) 	TX: 67717807 bytes (46892 packets) 	signal: -66 dBm 	tx bitrate: 54.0 MBit/s MCS 3 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:38.801548  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 2389364 bytes (23319 packets) 	TX: 70162873 bytes (48585 packets) 	signal: -63 dBm 	tx bitrate: 120.0 MBit/s MCS 5 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:39.801567  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 2497924 bytes (24383 packets) 	TX: 73324659 bytes (50774 packets) 	signal: -67 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:40.801528  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 2546202 bytes (24856 packets) 	TX: 74769785 bytes (51775 packets) 	signal: -65 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:41.801529  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 2603990 bytes (25422 packets) 	TX: 76537264 bytes (53000 packets) 	signal: -66 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:42.801414  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 2714896 bytes (26509 packets) 	TX: 79772745 bytes (55240 packets) 	signal: -68 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:43.801434  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 2839263 bytes (27727 packets) 	TX: 83729281 bytes (57979 packets) 	signal: -69 dBm 	tx bitrate: 120.0 MBit/s MCS 5 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:44.801439  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 2964176 bytes (28951 packets) 	TX: 87973372 bytes (60917 packets) 	signal: -68 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:45.801555  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 3064576 bytes (29935 packets) 	TX: 90947308 bytes (62976 packets) 	signal: -72 dBm 	tx bitrate: 54.0 MBit/s MCS 3 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:46.801529  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 3115236 bytes (30431 packets) 	TX: 92545604 bytes (64083 packets) 	signal: -70 dBm 	tx bitrate: 40.5 MBit/s MCS 2 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:47.801536  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 3236852 bytes (31623 packets) 	TX: 96151005 bytes (66579 packets) 	signal: -70 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:48.801463  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 3335080 bytes (32585 packets) 	TX: 99070031 bytes (68600 packets) 	signal: -71 dBm 	tx bitrate: 60.0 MBit/s MCS 3 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:49.801543  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 3359268 bytes (32821 packets) 	TX: 99681392 bytes (69024 packets) 	signal: -72 dBm 	tx bitrate: 81.0 MBit/s MCS 10 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:50.801407  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 3443246 bytes (33644 packets) 	TX: 102230498 bytes (70789 packets) 	signal: -71 dBm 	tx bitrate: 40.5 MBit/s MCS 2 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:51.801559  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 3537737 bytes (34570 packets) 	TX: 105068719 bytes (72755 packets) 	signal: -71 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:52.801276  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 3663025 bytes (35798 packets) 	TX: 108961675 bytes (75450 packets) 	signal: -70 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:53.801434  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 3834552 bytes (37479 packets) 	TX: 114153686 bytes (79044 packets) 	signal: -72 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:54.801416  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 3946478 bytes (38576 packets) 	TX: 117893472 bytes (81633 packets) 	signal: -72 dBm 	tx bitrate: 108.0 MBit/s MCS 11 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:55.801565  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4101346 bytes (40094 packets) 	TX: 122701113 bytes (84961 packets) 	signal: -73 dBm 	tx bitrate: 108.0 MBit/s MCS 11 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:56.801561  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4146777 bytes (40538 packets) 	TX: 123858684 bytes (85763 packets) 	signal: -71 dBm 	tx bitrate: 81.0 MBit/s MCS 10 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:57.801527  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4232591 bytes (41379 packets) 	TX: 126618760 bytes (87674 packets) 	signal: -71 dBm 	tx bitrate: 108.0 MBit/s MCS 5 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:58.801418  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4326805 bytes (42302 packets) 	TX: 129649051 bytes (89772 packets) 	signal: -71 dBm 	tx bitrate: 27.0 MBit/s MCS 8 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:22:59.801554  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4375797 bytes (42782 packets) 	TX: 131102847 bytes (90779 packets) 	signal: -66 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:00.801428  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4446719 bytes (43477 packets) 	TX: 133230013 bytes (92252 packets) 	signal: -70 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:01.801607  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4500949 bytes (44008 packets) 	TX: 134936758 bytes (93435 packets) 	signal: -69 dBm 	tx bitrate: 54.0 MBit/s MCS 3 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:02.801462  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4563135 bytes (44617 packets) 	TX: 136981559 bytes (94851 packets) 	signal: -70 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:03.801549  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4590653 bytes (44886 packets) 	TX: 137735975 bytes (95374 packets) 	signal: -77 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:04.801547  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4616385 bytes (45130 packets) 	TX: 138309766 bytes (95772 packets) 	signal: -69 dBm 	tx bitrate: 60.0 MBit/s MCS 3 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:05.801356  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4649297 bytes (45452 packets) 	TX: 139322837 bytes (96474 packets) 	signal: -71 dBm 	tx bitrate: 30.0 MBit/s MCS 1 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:06.801412  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4692067 bytes (45871 packets) 	TX: 140522313 bytes (97305 packets) 	signal: -70 dBm 	tx bitrate: 6.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:07.801540  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4724571 bytes (46189 packets) 	TX: 141442904 bytes (97943 packets) 	signal: -70 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:08.801490  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4764437 bytes (46578 packets) 	TX: 142552830 bytes (98714 packets) 	signal: -71 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:09.801531  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4788439 bytes (46813 packets) 	TX: 143261006 bytes (99205 packets) 	signal: -67 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:10.801556  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4808023 bytes (47005 packets) 	TX: 143860807 bytes (99621 packets) 	signal: -70 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:11.801538  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4846053 bytes (47377 packets) 	TX: 144888310 bytes (100334 packets) 	signal: -69 dBm 	tx bitrate: 36.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:12.801434  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4895258 bytes (47859 packets) 	TX: 146259710 bytes (101285 packets) 	signal: -70 dBm 	tx bitrate: 30.0 MBit/s MCS 1 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:13.801528  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 4957954 bytes (48473 packets) 	TX: 148068976 bytes (102538 packets) 	signal: -62 dBm 	tx bitrate: 45.0 MBit/s MCS 2 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:14.801505  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 5080113 bytes (49670 packets) 	TX: 151732177 bytes (105074 packets) 	signal: -64 dBm 	tx bitrate: 135.0 MBit/s MCS 6 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:15.801534  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 5227499 bytes (51114 packets) 	TX: 156133773 bytes (108121 packets) 	signal: -64 dBm 	tx bitrate: 121.5 MBit/s MCS 6 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:16.801450  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 5321269 bytes (52033 packets) 	TX: 158888143 bytes (110029 packets) 	signal: -66 dBm 	tx bitrate: 108.0 MBit/s MCS 11 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:17.801452  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 5452917 bytes (53323 packets) 	TX: 162886584 bytes (112797 packets) 	signal: -68 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:18.801449  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 5553317 bytes (54307 packets) 	TX: 165830175 bytes (114835 packets) 	signal: -65 dBm 	tx bitrate: 81.0 MBit/s MCS 10 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:19.801443  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 5695876 bytes (55704 packets) 	TX: 170241886 bytes (117889 packets) 	signal: -65 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:20.801532  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 5744595 bytes (56181 packets) 	TX: 171636437 bytes (118855 packets) 	signal: -68 dBm 	tx bitrate: 30.0 MBit/s MCS 1 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:21.801471  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 5843189 bytes (57146 packets) 	TX: 174546793 bytes (120870 packets) 	signal: -67 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:22.801552  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 5913328 bytes (57833 packets) 	TX: 176606044 bytes (122296 packets) 	signal: -70 dBm 	tx bitrate: 15.0 MBit/s MCS 0 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:23.801433  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6013014 bytes (58810 packets) 	TX: 179620440 bytes (124383 packets) 	signal: -69 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:24.801248  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6104642 bytes (59708 packets) 	TX: 182397856 bytes (126306 packets) 	signal: -65 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:25.801562  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6159889 bytes (60249 packets) 	TX: 184103082 bytes (127487 packets) 	signal: -67 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:26.801524  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6205275 bytes (60693 packets) 	TX: 185471623 bytes (128435 packets) 	signal: -67 dBm 	tx bitrate: 45.0 MBit/s MCS 2 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:27.801533  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6257069 bytes (61200 packets) 	TX: 186921084 bytes (129439 packets) 	signal: -69 dBm 	tx bitrate: 150.0 MBit/s MCS 7 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:28.801450  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6295924 bytes (61580 packets) 	TX: 188068540 bytes (130234 packets) 	signal: -71 dBm 	tx bitrate: 120.0 MBit/s MCS 5 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:29.801404  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6340122 bytes (62013 packets) 	TX: 189487656 bytes (131217 packets) 	signal: -69 dBm 	tx bitrate: 81.0 MBit/s MCS 4 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:30.801436  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6417299 bytes (62769 packets) 	TX: 191700077 bytes (132749 packets) 	signal: -66 dBm 	tx bitrate: 13.5 MBit/s MCS 0 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:31.801564  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6494825 bytes (63529 packets) 	TX: 193954403 bytes (134310 packets) 	signal: -67 dBm 	tx bitrate: 120.0 MBit/s MCS 5 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:32.801526  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6581695 bytes (64380 packets) 	TX: 196564199 bytes (136117 packets) 	signal: -70 dBm 	tx bitrate: 60.0 MBit/s MCS 3 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:33.801440  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6641331 bytes (64964 packets) 	TX: 198289655 bytes (137312 packets) 	signal: -68 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:34.801549  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6712421 bytes (65660 packets) 	TX: 200359021 bytes (138745 packets) 	signal: -66 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:35.801427  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6754069 bytes (66068 packets) 	TX: 201731897 bytes (139696 packets) 	signal: -68 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:36.801445  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6836754 bytes (66878 packets) 	TX: 204270962 bytes (141455 packets) 	signal: -66 dBm 	tx bitrate: 150.0 MBit/s MCS 7 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:37.801538  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 6977036 bytes (68253 packets) 	TX: 208694233 bytes (144517 packets) 	signal: -71 dBm 	tx bitrate: 60.0 MBit/s MCS 3 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:38.801441  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 7099501 bytes (69453 packets) 	TX: 212438354 bytes (147109 packets) 	signal: -75 dBm 	tx bitrate: 108.0 MBit/s MCS 5 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:39.801395  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 7243083 bytes (70860 packets) 	TX: 216740245 bytes (150087 packets) 	signal: -69 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:40.801452  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 7447118 bytes (72859 packets) 	TX: 222898961 bytes (154350 packets) 	signal: -66 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:41.801443  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 7638943 bytes (74739 packets) 	TX: 228718102 bytes (158378 packets) 	signal: -64 dBm 	tx bitrate: 81.0 MBit/s MCS 10 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:42.801451  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 7856811 bytes (76873 packets) 	TX: 235430371 bytes (163025 packets) 	signal: -69 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:43.801546  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 8035649 bytes (78626 packets) 	TX: 241428692 bytes (167177 packets) 	signal: -66 dBm 	tx bitrate: 108.0 MBit/s MCS 11 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:44.801530  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 8254552 bytes (80771 packets) 	TX: 248155529 bytes (171835 packets) 	signal: -69 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:45.801556  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 8425128 bytes (82443 packets) 	TX: 254643705 bytes (176326 packets) 	signal: -66 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:46.801521  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 8595872 bytes (84116 packets) 	TX: 259551051 bytes (179723 packets) 	signal: -65 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:47.801385  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 8781406 bytes (85934 packets) 	TX: 265779127 bytes (184034 packets) 	signal: -67 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:48.801395  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 8902512 bytes (87121 packets) 	TX: 269427996 bytes (186561 packets) 	signal: -65 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:49.801545  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 8953340 bytes (87619 packets) 	TX: 271124552 bytes (187736 packets) 	signal: -66 dBm 	tx bitrate: 135.0 MBit/s MCS 6 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:50.801432  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 9047416 bytes (88541 packets) 	TX: 274023348 bytes (189743 packets) 	signal: -66 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:51.801535  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 9151258 bytes (89559 packets) 	TX: 277063754 bytes (191848 packets) 	signal: -65 dBm 	tx bitrate: 60.0 MBit/s MCS 3 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:52.801443  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 9290484 bytes (90923 packets) 	TX: 281212475 bytes (194720 packets) 	signal: -65 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:53.801555  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 9376943 bytes (91770 packets) 	TX: 283829496 bytes (196532 packets) 	signal: -69 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:54.801413  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 9475027 bytes (92721 packets) 	TX: 286546222 bytes (198413 packets) 	signal: -70 dBm 	tx bitrate: 45.0 MBit/s MCS 2 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:55.801358  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 9511779 bytes (93081 packets) 	TX: 287705312 bytes (199217 packets) 	signal: -72 dBm 	tx bitrate: 121.5 MBit/s MCS 6 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:56.801547  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 9646181 bytes (94398 packets) 	TX: 291728318 bytes (202002 packets) 	signal: -67 dBm 	tx bitrate: 135.0 MBit/s MCS 7 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:57.801528  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 9760795 bytes (95521 packets) 	TX: 295128529 bytes (204356 packets) 	signal: -66 dBm 	tx bitrate: 81.0 MBit/s MCS 4 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:58.801776  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 9855483 bytes (96449 packets) 	TX: 297989755 bytes (206337 packets) 	signal: -69 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:23:59.801404  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 9892028 bytes (96806 packets) 	TX: 299054846 bytes (207075 packets) 	signal: -69 dBm 	tx bitrate: 45.0 MBit/s MCS 2 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:00.801573  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 9916750 bytes (97047 packets) 	TX: 299761577 bytes (207565 packets) 	signal: -67 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:01.801541  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 9943680 bytes (97310 packets) 	TX: 300539113 bytes (208104 packets) 	signal: -70 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:02.801306  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 9995222 bytes (97815 packets) 	TX: 302078164 bytes (209170 packets) 	signal: -70 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:03.801529  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 10081654 bytes (98661 packets) 	TX: 304734200 bytes (211009 packets) 	signal: -65 dBm 	tx bitrate: 54.0 MBit/s MCS 9 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:04.801339  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 10243326 bytes (100245 packets) 	TX: 309476816 bytes (214292 packets) 	signal: -62 dBm 	tx bitrate: 81.0 MBit/s MCS 4 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:05.801464  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 10436171 bytes (102135 packets) 	TX: 315176022 bytes (218237 packets) 	signal: -62 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:06.801524  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 10664851 bytes (104376 packets) 	TX: 322038453 bytes (222987 packets) 	signal: -64 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:07.801532  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 10850964 bytes (106200 packets) 	TX: 327682749 bytes (226894 packets) 	signal: -62 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:08.801355  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 11019704 bytes (107854 packets) 	TX: 332666680 bytes (230344 packets) 	signal: -60 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:09.801525  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 11247706 bytes (110089 packets) 	TX: 339478536 bytes (235059 packets) 	signal: -63 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:10.801410  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 11471424 bytes (112282 packets) 	TX: 346355417 bytes (239819 packets) 	signal: -61 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:11.801617  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 11771540 bytes (115224 packets) 	TX: 355430143 bytes (246100 packets) 	signal: -58 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:12.801509  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 12006656 bytes (117529 packets) 	TX: 362743414 bytes (251162 packets) 	signal: -54 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:13.801532  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 12390915 bytes (121270 packets) 	TX: 373757330 bytes (258785 packets) 	signal: -59 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:14.801385  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 12602597 bytes (123345 packets) 	TX: 380122681 bytes (263191 packets) 	signal: -62 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:15.801258  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 12802243 bytes (125302 packets) 	TX: 386054532 bytes (267297 packets) 	signal: -61 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:16.801408  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 13066251 bytes (127890 packets) 	TX: 394153883 bytes (272903 packets) 	signal: -54 dBm 	tx bitrate: 108.0 MBit/s MCS 11 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:17.801523  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 13258859 bytes (129778 packets) 	TX: 399773614 bytes (276793 packets) 	signal: -50 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:18.801414  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 13484617 bytes (131991 packets) 	TX: 406688139 bytes (281580 packets) 	signal: -49 dBm 	tx bitrate: 30.0 MBit/s MCS 8 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:19.801392  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 13577094 bytes (132897 packets) 	TX: 409465555 bytes (283503 packets) 	signal: -52 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:20.801254  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 13758144 bytes (134672 packets) 	TX: 415057831 bytes (287374 packets) 	signal: -57 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:21.801525  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 13932800 bytes (136384 packets) 	TX: 420619762 bytes (291224 packets) 	signal: -65 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:22.801578  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 14113609 bytes (138156 packets) 	TX: 426220708 bytes (295101 packets) 	signal: -66 dBm 	tx bitrate: 150.0 MBit/s MCS 7 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:23.801362  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 14292142 bytes (139906 packets) 	TX: 431363589 bytes (298661 packets) 	signal: -61 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:24.801533  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 14427426 bytes (141232 packets) 	TX: 435862000 bytes (301775 packets) 	signal: -62 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:25.801442  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 14697179 bytes (143876 packets) 	TX: 443773501 bytes (307251 packets) 	signal: -64 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:26.801433  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 15103275 bytes (147682 packets) 	TX: 454479632 bytes (314661 packets) 	signal: -61 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:27.801532  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 15404411 bytes (150634 packets) 	TX: 463482108 bytes (320892 packets) 	signal: -64 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:28.801439  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 15528169 bytes (151847 packets) 	TX: 467171319 bytes (323446 packets) 	signal: -64 dBm 	tx bitrate: 60.0 MBit/s MCS 9 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:29.801523  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 15712242 bytes (153651 packets) 	TX: 472558405 bytes (327175 packets) 	signal: -63 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:30.801403  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 15960575 bytes (156085 packets) 	TX: 479915026 bytes (332267 packets) 	signal: -60 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:31.801621  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 16190653 bytes (158340 packets) 	TX: 486631512 bytes (336916 packets) 	signal: -63 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:32.801233  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 16303404 bytes (159444 packets) 	TX: 489830868 bytes (339131 packets) 	signal: -66 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:33.801212  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 16386534 bytes (160259 packets) 	TX: 492288939 bytes (340833 packets) 	signal: -65 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:34.801525  Connected to 00:25:45:a3:20:3e (on wlan0) 	SSID: eduroam 	freq: 5200 	RX: 16435186 bytes (160735 packets) 	TX: 493725395 bytes (341828 packets) 	signal: -66 dBm 	tx bitrate: 120.0 MBit/s MCS 5 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:35.801250  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 705 bytes (9 packets) 	TX: 59832 bytes (46 packets) 	signal: -45 dBm 	tx bitrate: 12.0 MBit/s  	bss flags:	short-slot-time 	dtim period:	0 	beacon int:	102 
+
+17:24:36.801484  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 391646 bytes (3821 packets) 	TX: 13170460 bytes (9121 packets) 	signal: -59 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:37.801352  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 802738 bytes (7851 packets) 	TX: 27055591 bytes (18731 packets) 	signal: -61 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:38.801245  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 1065984 bytes (10430 packets) 	TX: 35594362 bytes (24648 packets) 	signal: -58 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:39.801434  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 1391954 bytes (13625 packets) 	TX: 46495568 bytes (32193 packets) 	signal: -60 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:40.801411  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 1724710 bytes (16887 packets) 	TX: 57219039 bytes (39615 packets) 	signal: -54 dBm 	tx bitrate: 135.0 MBit/s MCS 6 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:41.801518  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 2008506 bytes (19669 packets) 	TX: 66871765 bytes (46296 packets) 	signal: -57 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:42.801416  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 2331266 bytes (22833 packets) 	TX: 77404496 bytes (53586 packets) 	signal: -61 dBm 	tx bitrate: 270.0 MBit/s MCS 15 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:43.801550  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 2551768 bytes (24994 packets) 	TX: 84798687 bytes (58704 packets) 	signal: -62 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:44.801260  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 2756412 bytes (27000 packets) 	TX: 91994913 bytes (63685 packets) 	signal: -61 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:45.801382  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 2936882 bytes (28769 packets) 	TX: 97996124 bytes (67839 packets) 	signal: -66 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:46.801411  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 3090472 bytes (30274 packets) 	TX: 102763305 bytes (71139 packets) 	signal: -64 dBm 	tx bitrate: 120.0 MBit/s MCS 5 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:47.801479  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 3254106 bytes (31877 packets) 	TX: 108055021 bytes (74802 packets) 	signal: -63 dBm 	tx bitrate: 108.0 MBit/s MCS 5 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:48.801730  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 3474710 bytes (34039 packets) 	TX: 115583833 bytes (80015 packets) 	signal: -64 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:49.801532  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 3666910 bytes (35923 packets) 	TX: 122008429 bytes (84462 packets) 	signal: -59 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:50.801391  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 3856662 bytes (37783 packets) 	TX: 128785605 bytes (89153 packets) 	signal: -59 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:51.801425  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 3985442 bytes (39045 packets) 	TX: 133370834 bytes (92328 packets) 	signal: -63 dBm 	tx bitrate: 90.0 MBit/s MCS 10 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:52.801394  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 4145968 bytes (40618 packets) 	TX: 138850400 bytes (96121 packets) 	signal: -60 dBm 	tx bitrate: 135.0 MBit/s MCS 7 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:53.801550  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 4381998 bytes (42931 packets) 	TX: 147140609 bytes (101860 packets) 	signal: -60 dBm 	tx bitrate: 120.0 MBit/s MCS 5 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:54.801566  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 4615508 bytes (45220 packets) 	TX: 155557860 bytes (107686 packets) 	signal: -60 dBm 	tx bitrate: 150.0 MBit/s MCS 7 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:55.801441  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 4854730 bytes (47565 packets) 	TX: 164308906 bytes (113743 packets) 	signal: -60 dBm 	tx bitrate: 135.0 MBit/s MCS 7 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:56.801402  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 4908877 bytes (48095 packets) 	TX: 166482312 bytes (115248 packets) 	signal: -62 dBm 	tx bitrate: 81.0 MBit/s MCS 4 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:57.801431  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 5066939 bytes (49644 packets) 	TX: 171220593 bytes (118528 packets) 	signal: -59 dBm 	tx bitrate: 81.0 MBit/s MCS 4 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:58.801439  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 5388169 bytes (52793 packets) 	TX: 184982899 bytes (128053 packets) 	signal: -59 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:24:59.801521  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 5690781 bytes (55759 packets) 	TX: 197898435 bytes (136992 packets) 	signal: -63 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:00.801354  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 6042407 bytes (59206 packets) 	TX: 210896336 bytes (145988 packets) 	signal: -52 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:01.801434  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 6419125 bytes (62899 packets) 	TX: 224901402 bytes (155681 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:02.801534  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 6728775 bytes (65934 packets) 	TX: 235234723 bytes (162833 packets) 	signal: -50 dBm 	tx bitrate: 90.0 MBit/s MCS 4 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:03.801550  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 7005737 bytes (68649 packets) 	TX: 244208299 bytes (169044 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:04.801440  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 7374805 bytes (72267 packets) 	TX: 257748075 bytes (178415 packets) 	signal: -50 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:05.801505  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 7763967 bytes (76082 packets) 	TX: 272221321 bytes (188432 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:06.801431  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 8124569 bytes (79617 packets) 	TX: 288346202 bytes (199592 packets) 	signal: -50 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:07.801564  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 8508631 bytes (83382 packets) 	TX: 303637318 bytes (210175 packets) 	signal: -50 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:08.801527  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 8857809 bytes (86805 packets) 	TX: 318279629 bytes (220309 packets) 	signal: -51 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:09.801529  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 9216473 bytes (90321 packets) 	TX: 331812180 bytes (229675 packets) 	signal: -49 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:10.801552  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 9566977 bytes (93757 packets) 	TX: 343748006 bytes (237936 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:11.801428  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 9944001 bytes (97453 packets) 	TX: 355998842 bytes (246415 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:12.801924  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 10328369 bytes (101221 packets) 	TX: 371196033 bytes (256933 packets) 	signal: -51 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:13.801550  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 10719775 bytes (105058 packets) 	TX: 386638874 bytes (267621 packets) 	signal: -51 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:14.801360  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 11087517 bytes (108663 packets) 	TX: 401067325 bytes (277607 packets) 	signal: -49 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:15.801527  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 11503709 bytes (112743 packets) 	TX: 416484693 bytes (288278 packets) 	signal: -50 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:16.801400  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 11874103 bytes (116374 packets) 	TX: 431215149 bytes (298473 packets) 	signal: -50 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:17.801232  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 12317529 bytes (120613 packets) 	TX: 448654985 bytes (310572 packets) 	signal: -50 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:18.801519  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 12717503 bytes (124534 packets) 	TX: 465633861 bytes (322323 packets) 	signal: -50 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:19.801408  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 13046995 bytes (127764 packets) 	TX: 480163462 bytes (332379 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:20.801448  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 13378221 bytes (131011 packets) 	TX: 492930163 bytes (341215 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:21.801431  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 13793393 bytes (135081 packets) 	TX: 508884534 bytes (352257 packets) 	signal: -50 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:22.801251  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 14138867 bytes (138468 packets) 	TX: 524457069 bytes (363035 packets) 	signal: -49 dBm 	tx bitrate: 270.0 MBit/s MCS 15 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:23.801403  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 14483055 bytes (141834 packets) 	TX: 537550880 bytes (372124 packets) 	signal: -50 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:24.801525  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 14897411 bytes (145896 packets) 	TX: 554636686 bytes (383949 packets) 	signal: -50 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:25.801435  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 15292387 bytes (149768 packets) 	TX: 569359917 bytes (394139 packets) 	signal: -51 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:26.801439  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 15555273 bytes (152345 packets) 	TX: 578980853 bytes (400798 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:27.801525  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 15896393 bytes (155689 packets) 	TX: 592474389 bytes (410137 packets) 	signal: -50 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:28.801522  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 16241083 bytes (159068 packets) 	TX: 604699215 bytes (418598 packets) 	signal: -50 dBm 	tx bitrate: 243.0 MBit/s MCS 14 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:29.801519  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 16459363 bytes (161208 packets) 	TX: 613927111 bytes (424985 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:30.801458  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 16725717 bytes (163819 packets) 	TX: 624585557 bytes (432362 packets) 	signal: -52 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:31.801403  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 17053303 bytes (167030 packets) 	TX: 635361048 bytes (439820 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:32.801416  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 17324247 bytes (169686 packets) 	TX: 644406279 bytes (446081 packets) 	signal: -50 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:33.801435  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 17708207 bytes (173450 packets) 	TX: 659512435 bytes (456536 packets) 	signal: -51 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:34.801402  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 17980681 bytes (176121 packets) 	TX: 669949796 bytes (463760 packets) 	signal: -50 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:35.801369  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 18250911 bytes (178770 packets) 	TX: 678631482 bytes (469769 packets) 	signal: -50 dBm 	tx bitrate: 120.0 MBit/s MCS 11 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:36.801465  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 18604985 bytes (182241 packets) 	TX: 691346163 bytes (478569 packets) 	signal: -50 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:37.801404  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 18975889 bytes (185877 packets) 	TX: 704935069 bytes (487974 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:38.801429  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 19320171 bytes (189252 packets) 	TX: 716836065 bytes (496211 packets) 	signal: -51 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:39.801398  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 19674755 bytes (192728 packets) 	TX: 730809341 bytes (505882 packets) 	signal: -50 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:40.801427  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 20010233 bytes (196017 packets) 	TX: 742869437 bytes (514229 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:41.801424  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 20352985 bytes (199377 packets) 	TX: 755314175 bytes (522843 packets) 	signal: -50 dBm 	tx bitrate: 162.0 MBit/s MCS 12 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:42.801456  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 20633345 bytes (202125 packets) 	TX: 765234649 bytes (529710 packets) 	signal: -51 dBm 	tx bitrate: 108.0 MBit/s MCS 11 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:43.801431  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 21006697 bytes (205785 packets) 	TX: 780064810 bytes (539974 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:44.801532  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 21356793 bytes (209217 packets) 	TX: 793032366 bytes (548949 packets) 	signal: -51 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:45.801524  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 21755237 bytes (213123 packets) 	TX: 808548902 bytes (559688 packets) 	signal: -51 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:46.801545  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 22143889 bytes (216933 packets) 	TX: 822452915 bytes (569312 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:47.801430  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 22508475 bytes (220504 packets) 	TX: 836827329 bytes (579262 packets) 	signal: -50 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:48.801589  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 22945239 bytes (224786 packets) 	TX: 853930475 bytes (591099 packets) 	signal: -51 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:49.801520  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 23396497 bytes (229205 packets) 	TX: 870183961 bytes (602348 packets) 	signal: -50 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:50.801525  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 23716879 bytes (232346 packets) 	TX: 884256942 bytes (612088 packets) 	signal: -50 dBm 	tx bitrate: 300.0 MBit/s MCS 15 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:51.801531  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 24081287 bytes (235918 packets) 	TX: 898962833 bytes (622266 packets) 	signal: -50 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:52.801421  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 24432803 bytes (239364 packets) 	TX: 912835077 bytes (631868 packets) 	signal: -51 dBm 	tx bitrate: 216.0 MBit/s MCS 13 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:53.801432  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 24883267 bytes (243780 packets) 	TX: 929587088 bytes (643462 packets) 	signal: -50 dBm 	tx bitrate: 180.0 MBit/s MCS 12 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:54.801389  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 25329128 bytes (248152 packets) 	TX: 944501210 bytes (653786 packets) 	signal: -51 dBm 	tx bitrate: 300.0 MBit/s MCS 15 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:55.801468  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 25728082 bytes (252063 packets) 	TX: 957705746 bytes (662925 packets) 	signal: -50 dBm 	tx bitrate: 300.0 MBit/s MCS 15 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:56.801436  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 26123122 bytes (255933 packets) 	TX: 973956342 bytes (674172 packets) 	signal: -51 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:57.801361  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 26612120 bytes (260726 packets) 	TX: 992157924 bytes (686771 packets) 	signal: -51 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:58.801563  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 27048374 bytes (265003 packets) 	TX: 1008980740 bytes (698414 packets) 	signal: -51 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:25:59.801278  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 27416086 bytes (268597 packets) 	TX: 1024534846 bytes (709179 packets) 	signal: -51 dBm 	tx bitrate: 300.0 MBit/s MCS 15 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:00.801435  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 27848394 bytes (272835 packets) 	TX: 1041161142 bytes (720686 packets) 	signal: -51 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:01.801575  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 28344758 bytes (277701 packets) 	TX: 1060570508 bytes (734119 packets) 	signal: -51 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:02.801428  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 28781554 bytes (281983 packets) 	TX: 1077403469 bytes (745770 packets) 	signal: -51 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:03.801242  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 29258130 bytes (286655 packets) 	TX: 1095633715 bytes (758387 packets) 	signal: -51 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:04.801431  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 29664734 bytes (290641 packets) 	TX: 1111486936 bytes (769359 packets) 	signal: -51 dBm 	tx bitrate: 270.0 MBit/s MCS 15 40Mhz  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:05.801427  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 30048982 bytes (294403 packets) 	TX: 1127019387 bytes (780110 packets) 	signal: -51 dBm 	tx bitrate: 300.0 MBit/s MCS 15 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:06.801430  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 30494142 bytes (298767 packets) 	TX: 1144668617 bytes (792324 packets) 	signal: -51 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:07.801435  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 30938486 bytes (303123 packets) 	TX: 1161559348 bytes (804014 packets) 	signal: -51 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:08.801455  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 31335298 bytes (307013 packets) 	TX: 1177564314 bytes (815092 packets) 	signal: -51 dBm 	tx bitrate: 300.0 MBit/s MCS 15 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:09.801428  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 31796010 bytes (311529 packets) 	TX: 1196226615 bytes (828008 packets) 	signal: -51 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:10.801536  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 32244128 bytes (315922 packets) 	TX: 1213326871 bytes (839843 packets) 	signal: -51 dBm 	tx bitrate: 270.0 MBit/s MCS 14 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:11.801471  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 32511220 bytes (318538 packets) 	TX: 1223288827 bytes (846738 packets) 	signal: -52 dBm 	tx bitrate: 300.0 MBit/s MCS 15 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:12.801409  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 32665476 bytes (320050 packets) 	TX: 1228410033 bytes (850283 packets) 	signal: -52 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+
+17:26:13.801522  Connected to 68:86:a7:1c:b5:2e (on wlan0) 	SSID: eduroam 	freq: 5180 	RX: 33062288 bytes (323940 packets) 	TX: 1244809464 bytes (861633 packets) 	signal: -51 dBm 	tx bitrate: 240.0 MBit/s MCS 13 40Mhz short GI  	bss flags:	short-slot-time 	dtim period:	1 	beacon int:	102 
+

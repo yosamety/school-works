@@ -1,0 +1,704 @@
+TIME # BYTES FROM IP SEQ# TTL DELAY MS
+PING 10.82.31.73 (10.82.31.73) 56(84) bytes of data.
+[1489980236.705583] 64 bytes from 10.82.31.73: icmp_seq=1 ttl=61 time=1.49 ms
+[1489980237.709259] 64 bytes from 10.82.31.73: icmp_seq=2 ttl=61 time=3.51 ms
+[1489980238.714060] 64 bytes from 10.82.31.73: icmp_seq=3 ttl=61 time=6.66 ms
+[1489980239.714993] 64 bytes from 10.82.31.73: icmp_seq=4 ttl=61 time=5.67 ms
+[1489980240.741135] 64 bytes from 10.82.31.73: icmp_seq=5 ttl=61 time=29.8 ms
+[1489980241.726816] 64 bytes from 10.82.31.73: icmp_seq=6 ttl=61 time=14.5 ms
+[1489980242.729339] 64 bytes from 10.82.31.73: icmp_seq=7 ttl=61 time=15.1 ms
+[1489980243.722643] 64 bytes from 10.82.31.73: icmp_seq=8 ttl=61 time=7.04 ms
+[1489980244.743948] 64 bytes from 10.82.31.73: icmp_seq=9 ttl=61 time=28.0 ms
+[1489980245.728325] 64 bytes from 10.82.31.73: icmp_seq=10 ttl=61 time=11.2 ms
+[1489980246.734420] 64 bytes from 10.82.31.73: icmp_seq=11 ttl=61 time=15.7 ms
+[1489980247.744623] 64 bytes from 10.82.31.73: icmp_seq=12 ttl=61 time=24.6 ms
+[1489980249.732126] 64 bytes from 10.82.31.73: icmp_seq=14 ttl=61 time=1.75 ms
+[1489980250.742986] 64 bytes from 10.82.31.73: icmp_seq=15 ttl=61 time=10.5 ms
+[1489980251.744293] 64 bytes from 10.82.31.73: icmp_seq=16 ttl=61 time=10.1 ms
+[1489980252.746726] 64 bytes from 10.82.31.73: icmp_seq=17 ttl=61 time=11.2 ms
+[1489980253.750741] 64 bytes from 10.82.31.73: icmp_seq=18 ttl=61 time=13.7 ms
+[1489980254.798156] 64 bytes from 10.82.31.73: icmp_seq=19 ttl=61 time=59.0 ms
+[1489980255.745696] 64 bytes from 10.82.31.73: icmp_seq=20 ttl=61 time=5.32 ms
+[1489980256.763651] 64 bytes from 10.82.31.73: icmp_seq=21 ttl=61 time=21.5 ms
+[1489980257.757260] 64 bytes from 10.82.31.73: icmp_seq=22 ttl=61 time=13.2 ms
+[1489980258.754104] 64 bytes from 10.82.31.73: icmp_seq=23 ttl=61 time=8.50 ms
+[1489980259.759283] 64 bytes from 10.82.31.73: icmp_seq=24 ttl=61 time=11.8 ms
+[1489980260.778313] 64 bytes from 10.82.31.73: icmp_seq=25 ttl=61 time=28.6 ms
+[1489980261.765188] 64 bytes from 10.82.31.73: icmp_seq=26 ttl=61 time=13.5 ms
+[1489980262.782113] 64 bytes from 10.82.31.73: icmp_seq=27 ttl=61 time=28.5 ms
+[1489980263.767980] 64 bytes from 10.82.31.73: icmp_seq=28 ttl=61 time=12.4 ms
+[1489980264.767367] 64 bytes from 10.82.31.73: icmp_seq=29 ttl=61 time=10.1 ms
+[1489980265.770822] 64 bytes from 10.82.31.73: icmp_seq=30 ttl=61 time=12.1 ms
+[1489980266.775572] 64 bytes from 10.82.31.73: icmp_seq=31 ttl=61 time=15.6 ms
+[1489980267.775497] 64 bytes from 10.82.31.73: icmp_seq=32 ttl=61 time=13.7 ms
+[1489980268.775519] 64 bytes from 10.82.31.73: icmp_seq=33 ttl=61 time=11.8 ms
+[1489980269.778957] 64 bytes from 10.82.31.73: icmp_seq=34 ttl=61 time=13.2 ms
+[1489980270.773922] 64 bytes from 10.82.31.73: icmp_seq=35 ttl=61 time=6.57 ms
+[1489980271.780705] 64 bytes from 10.82.31.73: icmp_seq=36 ttl=61 time=11.4 ms
+[1489980272.801056] 64 bytes from 10.82.31.73: icmp_seq=37 ttl=61 time=30.1 ms
+[1489980274.028134] 64 bytes from 10.82.31.73: icmp_seq=38 ttl=61 time=255 ms
+[1489980274.793219] 64 bytes from 10.82.31.73: icmp_seq=39 ttl=61 time=20.1 ms
+[1489980275.786379] 64 bytes from 10.82.31.73: icmp_seq=40 ttl=61 time=11.7 ms
+[1489980276.787535] 64 bytes from 10.82.31.73: icmp_seq=41 ttl=61 time=11.6 ms
+[1489980277.855429] 64 bytes from 10.82.31.73: icmp_seq=42 ttl=61 time=79.3 ms
+[1489980278.783119] 64 bytes from 10.82.31.73: icmp_seq=43 ttl=61 time=5.37 ms
+[1489980279.788606] 64 bytes from 10.82.31.73: icmp_seq=44 ttl=61 time=9.31 ms
+[1489980280.793956] 64 bytes from 10.82.31.73: icmp_seq=45 ttl=61 time=13.0 ms
+[1489980281.790855] 64 bytes from 10.82.31.73: icmp_seq=46 ttl=61 time=8.68 ms
+[1489980282.803726] 64 bytes from 10.82.31.73: icmp_seq=47 ttl=61 time=19.6 ms
+[1489980283.797965] 64 bytes from 10.82.31.73: icmp_seq=48 ttl=61 time=12.6 ms
+[1489980284.797976] 64 bytes from 10.82.31.73: icmp_seq=49 ttl=61 time=10.7 ms
+[1489980285.813941] 64 bytes from 10.82.31.73: icmp_seq=50 ttl=61 time=24.6 ms
+[1489980286.798040] 64 bytes from 10.82.31.73: icmp_seq=51 ttl=61 time=6.99 ms
+[1489980287.822309] 64 bytes from 10.82.31.73: icmp_seq=52 ttl=61 time=30.1 ms
+[1489980288.806106] 64 bytes from 10.82.31.73: icmp_seq=53 ttl=61 time=12.5 ms
+[1489980289.822628] 64 bytes from 10.82.31.73: icmp_seq=54 ttl=61 time=27.1 ms
+[1489980290.818558] 64 bytes from 10.82.31.73: icmp_seq=55 ttl=61 time=21.5 ms
+[1489980291.810280] 64 bytes from 10.82.31.73: icmp_seq=56 ttl=61 time=11.5 ms
+[1489980292.811419] 64 bytes from 10.82.31.73: icmp_seq=57 ttl=61 time=10.9 ms
+[1489980293.817427] 64 bytes from 10.82.31.73: icmp_seq=58 ttl=61 time=15.4 ms
+[1489980294.878889] 64 bytes from 10.82.31.73: icmp_seq=59 ttl=61 time=75.0 ms
+[1489980295.862224] 64 bytes from 10.82.31.73: icmp_seq=60 ttl=61 time=57.0 ms
+[1489980296.828324] 64 bytes from 10.82.31.73: icmp_seq=61 ttl=61 time=21.6 ms
+[1489980297.818253] 64 bytes from 10.82.31.73: icmp_seq=62 ttl=61 time=9.63 ms
+[1489980298.825229] 64 bytes from 10.82.31.73: icmp_seq=63 ttl=61 time=14.7 ms
+[1489980299.827146] 64 bytes from 10.82.31.73: icmp_seq=64 ttl=61 time=14.7 ms
+[1489980300.825049] 64 bytes from 10.82.31.73: icmp_seq=65 ttl=61 time=10.6 ms
+[1489980301.828424] 64 bytes from 10.82.31.73: icmp_seq=66 ttl=61 time=12.1 ms
+[1489980302.832849] 64 bytes from 10.82.31.73: icmp_seq=67 ttl=61 time=15.2 ms
+[1489980303.833007] 64 bytes from 10.82.31.73: icmp_seq=68 ttl=61 time=13.9 ms
+[1489980304.831668] 64 bytes from 10.82.31.73: icmp_seq=69 ttl=61 time=11.4 ms
+[1489980305.833020] 64 bytes from 10.82.31.73: icmp_seq=70 ttl=61 time=11.1 ms
+[1489980306.839862] 64 bytes from 10.82.31.73: icmp_seq=71 ttl=61 time=16.6 ms
+[1489980307.839205] 64 bytes from 10.82.31.73: icmp_seq=72 ttl=61 time=14.1 ms
+[1489980308.841662] 64 bytes from 10.82.31.73: icmp_seq=73 ttl=61 time=15.2 ms
+[1489980309.840931] 64 bytes from 10.82.31.73: icmp_seq=74 ttl=61 time=13.0 ms
+[1489980310.846747] 64 bytes from 10.82.31.73: icmp_seq=75 ttl=61 time=17.6 ms
+[1489980311.837814] 64 bytes from 10.82.31.73: icmp_seq=76 ttl=61 time=6.85 ms
+[1489980312.840282] 64 bytes from 10.82.31.73: icmp_seq=77 ttl=61 time=8.20 ms
+[1489980313.885407] 64 bytes from 10.82.31.73: icmp_seq=78 ttl=61 time=51.7 ms
+[1489980314.851891] 64 bytes from 10.82.31.73: icmp_seq=79 ttl=61 time=17.0 ms
+[1489980315.861446] 64 bytes from 10.82.31.73: icmp_seq=80 ttl=61 time=25.1 ms
+[1489980316.850469] 64 bytes from 10.82.31.73: icmp_seq=81 ttl=61 time=12.7 ms
+[1489980317.849681] 64 bytes from 10.82.31.73: icmp_seq=82 ttl=61 time=10.0 ms
+[1489980318.928149] 64 bytes from 10.82.31.73: icmp_seq=83 ttl=61 time=87.0 ms
+[1489980319.902378] 64 bytes from 10.82.31.73: icmp_seq=84 ttl=61 time=59.8 ms
+[1489980320.967808] 64 bytes from 10.82.31.73: icmp_seq=85 ttl=61 time=124 ms
+[1489980321.896530] 64 bytes from 10.82.31.73: icmp_seq=86 ttl=61 time=51.5 ms
+[1489980322.857981] 64 bytes from 10.82.31.73: icmp_seq=87 ttl=61 time=11.0 ms
+[1489980323.867943] 64 bytes from 10.82.31.73: icmp_seq=88 ttl=61 time=19.6 ms
+[1489980324.894273] 64 bytes from 10.82.31.73: icmp_seq=89 ttl=61 time=43.9 ms
+[1489980325.883465] 64 bytes from 10.82.31.73: icmp_seq=90 ttl=61 time=31.9 ms
+[1489980326.862590] 64 bytes from 10.82.31.73: icmp_seq=91 ttl=61 time=9.74 ms
+[1489980327.911673] 64 bytes from 10.82.31.73: icmp_seq=92 ttl=61 time=56.8 ms
+[1489980328.875653] 64 bytes from 10.82.31.73: icmp_seq=93 ttl=61 time=19.7 ms
+[1489980329.866866] 64 bytes from 10.82.31.73: icmp_seq=94 ttl=61 time=8.92 ms
+[1489980331.445405] 64 bytes from 10.82.31.73: icmp_seq=95 ttl=61 time=586 ms
+[1489980332.876887] 64 bytes from 10.82.31.73: icmp_seq=97 ttl=61 time=10.7 ms
+[1489980333.882199] 64 bytes from 10.82.31.73: icmp_seq=98 ttl=61 time=14.0 ms
+[1489980334.879119] 64 bytes from 10.82.31.73: icmp_seq=99 ttl=61 time=9.63 ms
+[1489980335.882596] 64 bytes from 10.82.31.73: icmp_seq=100 ttl=61 time=10.9 ms
+[1489980336.902800] 64 bytes from 10.82.31.73: icmp_seq=101 ttl=61 time=29.7 ms
+[1489980337.887174] 64 bytes from 10.82.31.73: icmp_seq=102 ttl=61 time=12.1 ms
+[1489980338.901979] 64 bytes from 10.82.31.73: icmp_seq=103 ttl=61 time=25.4 ms
+[1489980339.980935] 64 bytes from 10.82.31.73: icmp_seq=104 ttl=61 time=102 ms
+[1489980340.881441] 64 bytes from 10.82.31.73: icmp_seq=105 ttl=61 time=1.39 ms
+[1489980341.887489] 64 bytes from 10.82.31.73: icmp_seq=106 ttl=61 time=5.76 ms
+[1489980342.891863] 64 bytes from 10.82.31.73: icmp_seq=107 ttl=61 time=8.13 ms
+[1489980343.893319] 64 bytes from 10.82.31.73: icmp_seq=108 ttl=61 time=8.20 ms
+[1489980344.892216] 64 bytes from 10.82.31.73: icmp_seq=109 ttl=61 time=5.69 ms
+[1489980345.904990] 64 bytes from 10.82.31.73: icmp_seq=110 ttl=61 time=16.4 ms
+[1489980346.897768] 64 bytes from 10.82.31.73: icmp_seq=111 ttl=61 time=7.49 ms
+[1489980347.907875] 64 bytes from 10.82.31.73: icmp_seq=112 ttl=61 time=15.8 ms
+[1489980348.909527] 64 bytes from 10.82.31.73: icmp_seq=113 ttl=61 time=15.3 ms
+[1489980349.908141] 64 bytes from 10.82.31.73: icmp_seq=114 ttl=61 time=12.2 ms
+[1489980350.911907] 64 bytes from 10.82.31.73: icmp_seq=115 ttl=61 time=14.5 ms
+[1489980351.920428] 64 bytes from 10.82.31.73: icmp_seq=116 ttl=61 time=21.2 ms
+[1489980352.911436] 64 bytes from 10.82.31.73: icmp_seq=117 ttl=61 time=10.6 ms
+[1489980353.923073] 64 bytes from 10.82.31.73: icmp_seq=118 ttl=61 time=20.3 ms
+[1489980354.929480] 64 bytes from 10.82.31.73: icmp_seq=119 ttl=61 time=25.1 ms
+[1489980355.913925] 64 bytes from 10.82.31.73: icmp_seq=120 ttl=61 time=8.17 ms
+[1489980356.924137] 64 bytes from 10.82.31.73: icmp_seq=121 ttl=61 time=16.8 ms
+[1489980357.919438] 64 bytes from 10.82.31.73: icmp_seq=122 ttl=61 time=11.0 ms
+[1489980358.990484] 64 bytes from 10.82.31.73: icmp_seq=123 ttl=61 time=80.6 ms
+[1489980359.955036] 64 bytes from 10.82.31.73: icmp_seq=124 ttl=61 time=43.2 ms
+[1489980360.932435] 64 bytes from 10.82.31.73: icmp_seq=125 ttl=61 time=19.0 ms
+[1489980362.000504] 64 bytes from 10.82.31.73: icmp_seq=126 ttl=61 time=85.6 ms
+[1489980362.923140] 64 bytes from 10.82.31.73: icmp_seq=127 ttl=61 time=7.41 ms
+[1489980363.935072] 64 bytes from 10.82.31.73: icmp_seq=128 ttl=61 time=17.6 ms
+[1489980364.929686] 64 bytes from 10.82.31.73: icmp_seq=129 ttl=61 time=10.3 ms
+[1489980365.929797] 64 bytes from 10.82.31.73: icmp_seq=130 ttl=61 time=8.72 ms
+[1489980366.934478] 64 bytes from 10.82.31.73: icmp_seq=131 ttl=61 time=11.2 ms
+[1489980367.961785] 64 bytes from 10.82.31.73: icmp_seq=132 ttl=61 time=36.9 ms
+[1489980368.993312] 64 bytes from 10.82.31.73: icmp_seq=133 ttl=61 time=67.1 ms
+[1489980369.953937] 64 bytes from 10.82.31.73: icmp_seq=134 ttl=61 time=26.2 ms
+[1489980371.182749] 64 bytes from 10.82.31.73: icmp_seq=135 ttl=61 time=253 ms
+[1489980372.142034] 64 bytes from 10.82.31.73: icmp_seq=136 ttl=61 time=212 ms
+[1489980373.096122] 64 bytes from 10.82.31.73: icmp_seq=137 ttl=61 time=166 ms
+[1489980374.944555] 64 bytes from 10.82.31.73: icmp_seq=139 ttl=61 time=6.16 ms
+[1489980375.945615] 64 bytes from 10.82.31.73: icmp_seq=140 ttl=61 time=5.65 ms
+[1489980376.960175] 64 bytes from 10.82.31.73: icmp_seq=141 ttl=61 time=18.1 ms
+[1489980377.953638] 64 bytes from 10.82.31.73: icmp_seq=142 ttl=61 time=10.0 ms
+[1489980378.960885] 64 bytes from 10.82.31.73: icmp_seq=143 ttl=61 time=16.0 ms
+[1489980380.199047] 64 bytes from 10.82.31.73: icmp_seq=144 ttl=61 time=252 ms
+[1489980381.218887] 64 bytes from 10.82.31.73: icmp_seq=145 ttl=61 time=271 ms
+[1489980385.730797] 64 bytes from 10.82.31.73: icmp_seq=146 ttl=61 time=3782 ms
+[1489980385.735425] 64 bytes from 10.82.31.73: icmp_seq=147 ttl=61 time=2787 ms
+[1489980385.772826] 64 bytes from 10.82.31.73: icmp_seq=148 ttl=61 time=1824 ms
+[1489980385.772917] 64 bytes from 10.82.31.73: icmp_seq=149 ttl=61 time=824 ms
+[1489980396.955808] 64 bytes from 10.82.31.73: icmp_seq=161 ttl=61 time=7.60 ms
+[1489980397.951890] 64 bytes from 10.82.31.73: icmp_seq=162 ttl=61 time=1.64 ms
+[1489980398.954011] 64 bytes from 10.82.31.73: icmp_seq=163 ttl=61 time=1.69 ms
+[1489980399.958734] 64 bytes from 10.82.31.73: icmp_seq=164 ttl=61 time=4.29 ms
+[1489980400.958945] 64 bytes from 10.82.31.73: icmp_seq=165 ttl=61 time=2.75 ms
+[1489980401.997159] 64 bytes from 10.82.31.73: icmp_seq=166 ttl=61 time=38.7 ms
+[1489980403.008369] 64 bytes from 10.82.31.73: icmp_seq=167 ttl=61 time=47.8 ms
+[1489980403.966000] 64 bytes from 10.82.31.73: icmp_seq=168 ttl=61 time=5.33 ms
+[1489980404.989325] 64 bytes from 10.82.31.73: icmp_seq=169 ttl=61 time=26.9 ms
+[1489980406.000232] 64 bytes from 10.82.31.73: icmp_seq=170 ttl=61 time=36.6 ms
+[1489980407.011606] 64 bytes from 10.82.31.73: icmp_seq=171 ttl=61 time=47.1 ms
+[1489980407.986259] 64 bytes from 10.82.31.73: icmp_seq=172 ttl=61 time=21.2 ms
+[1489980408.972156] 64 bytes from 10.82.31.73: icmp_seq=173 ttl=61 time=5.59 ms
+[1489980409.980295] 64 bytes from 10.82.31.73: icmp_seq=174 ttl=61 time=11.8 ms
+[1489980411.010462] 64 bytes from 10.82.31.73: icmp_seq=175 ttl=61 time=40.7 ms
+[1489980412.067224] 64 bytes from 10.82.31.73: icmp_seq=176 ttl=61 time=96.5 ms
+[1489980413.053401] 64 bytes from 10.82.31.73: icmp_seq=177 ttl=61 time=81.8 ms
+[1489980414.017213] 64 bytes from 10.82.31.73: icmp_seq=178 ttl=61 time=45.4 ms
+[1489980415.029862] 64 bytes from 10.82.31.73: icmp_seq=179 ttl=61 time=57.4 ms
+[1489980416.587198] 64 bytes from 10.82.31.73: icmp_seq=180 ttl=61 time=613 ms
+[1489980450.212213] From 10.82.31.73 icmp_seq=211 Destination Host Unreachable
+[1489980450.212319] From 10.82.31.73 icmp_seq=212 Destination Host Unreachable
+[1489980450.212352] From 10.82.31.73 icmp_seq=213 Destination Host Unreachable
+[1489980458.295573] 64 bytes from 10.82.31.73: icmp_seq=222 ttl=61 time=1.44 ms
+[1489980459.297632] 64 bytes from 10.82.31.73: icmp_seq=223 ttl=61 time=1.69 ms
+[1489980460.301420] 64 bytes from 10.82.31.73: icmp_seq=224 ttl=61 time=3.39 ms
+[1489980461.302373] 64 bytes from 10.82.31.73: icmp_seq=225 ttl=61 time=2.55 ms
+[1489980462.341737] 64 bytes from 10.82.31.73: icmp_seq=226 ttl=61 time=39.9 ms
+[1489980463.307146] 64 bytes from 10.82.31.73: icmp_seq=227 ttl=61 time=4.04 ms
+[1489980464.306662] 64 bytes from 10.82.31.73: icmp_seq=228 ttl=61 time=2.12 ms
+[1489980465.307715] 64 bytes from 10.82.31.73: icmp_seq=229 ttl=61 time=1.66 ms
+[1489980466.325389] 64 bytes from 10.82.31.73: icmp_seq=230 ttl=61 time=17.2 ms
+[1489980467.797491] 64 bytes from 10.82.31.73: icmp_seq=231 ttl=61 time=487 ms
+[1489980468.321015] 64 bytes from 10.82.31.73: icmp_seq=232 ttl=61 time=9.60 ms
+[1489980470.326429] 64 bytes from 10.82.31.73: icmp_seq=234 ttl=61 time=4.04 ms
+[1489980471.385020] 64 bytes from 10.82.31.73: icmp_seq=235 ttl=61 time=61.1 ms
+[1489980472.363039] 64 bytes from 10.82.31.73: icmp_seq=236 ttl=61 time=38.0 ms
+[1489980473.335796] 64 bytes from 10.82.31.73: icmp_seq=237 ttl=61 time=9.53 ms
+[1489980474.333983] 64 bytes from 10.82.31.73: icmp_seq=238 ttl=61 time=5.81 ms
+[1489980475.338098] 64 bytes from 10.82.31.73: icmp_seq=239 ttl=61 time=7.82 ms
+[1489980476.336370] 64 bytes from 10.82.31.73: icmp_seq=240 ttl=61 time=5.01 ms
+[1489980477.353501] 64 bytes from 10.82.31.73: icmp_seq=241 ttl=61 time=20.7 ms
+[1489980478.339168] 64 bytes from 10.82.31.73: icmp_seq=242 ttl=61 time=4.37 ms
+[1489980479.439466] 64 bytes from 10.82.31.73: icmp_seq=243 ttl=61 time=102 ms
+[1489980480.365835] 64 bytes from 10.82.31.73: icmp_seq=244 ttl=61 time=28.0 ms
+[1489980481.351407] 64 bytes from 10.82.31.73: icmp_seq=245 ttl=61 time=12.3 ms
+[1489980482.477838] 64 bytes from 10.82.31.73: icmp_seq=246 ttl=61 time=137 ms
+[1489980483.354838] 64 bytes from 10.82.31.73: icmp_seq=247 ttl=61 time=12.7 ms
+[1489980484.357286] 64 bytes from 10.82.31.73: icmp_seq=248 ttl=61 time=13.0 ms
+[1489980485.376487] 64 bytes from 10.82.31.73: icmp_seq=249 ttl=61 time=30.8 ms
+[1489980486.352325] 64 bytes from 10.82.31.73: icmp_seq=250 ttl=61 time=5.46 ms
+[1489980487.366150] 64 bytes from 10.82.31.73: icmp_seq=251 ttl=61 time=17.4 ms
+[1489980488.382671] 64 bytes from 10.82.31.73: icmp_seq=252 ttl=61 time=31.9 ms
+[1489980489.430919] 64 bytes from 10.82.31.73: icmp_seq=253 ttl=61 time=78.8 ms
+[1489980492.374936] 64 bytes from 10.82.31.73: icmp_seq=256 ttl=61 time=4.55 ms
+[1489980493.374038] 64 bytes from 10.82.31.73: icmp_seq=257 ttl=61 time=1.67 ms
+[1489980494.376734] 64 bytes from 10.82.31.73: icmp_seq=258 ttl=61 time=2.28 ms
+[1489980495.410715] 64 bytes from 10.82.31.73: icmp_seq=259 ttl=61 time=34.7 ms
+[1489980496.383941] 64 bytes from 10.82.31.73: icmp_seq=260 ttl=61 time=5.99 ms
+[1489980497.814823] 64 bytes from 10.82.31.73: icmp_seq=261 ttl=61 time=435 ms
+[1489980498.916322] 64 bytes from 10.82.31.73: icmp_seq=262 ttl=61 time=535 ms
+[1489980501.010061] 64 bytes from 10.82.31.73: icmp_seq=263 ttl=61 time=1627 ms
+[1489980501.161139] 64 bytes from 10.82.31.73: icmp_seq=264 ttl=61 time=770 ms
+[1489980504.375990] 64 bytes from 10.82.31.73: icmp_seq=265 ttl=61 time=2986 ms
+[1489980504.382035] 64 bytes from 10.82.31.73: icmp_seq=266 ttl=61 time=1983 ms
+[1489980504.382113] 64 bytes from 10.82.31.73: icmp_seq=267 ttl=61 time=975 ms
+[1489980504.495528] 64 bytes from 10.82.31.73: icmp_seq=268 ttl=61 time=89.0 ms
+[1489980506.328786] 64 bytes from 10.82.31.73: icmp_seq=269 ttl=61 time=920 ms
+[1489980509.156806] 64 bytes from 10.82.31.73: icmp_seq=270 ttl=61 time=2749 ms
+[1489980511.559597] 64 bytes from 10.82.31.73: icmp_seq=271 ttl=61 time=4145 ms
+[1489980511.589934] 64 bytes from 10.82.31.73: icmp_seq=272 ttl=61 time=3167 ms
+[1489980511.593133] 64 bytes from 10.82.31.73: icmp_seq=273 ttl=61 time=2170 ms
+[1489980511.603468] 64 bytes from 10.82.31.73: icmp_seq=274 ttl=61 time=1173 ms
+[1489980512.193588] 64 bytes from 10.82.31.73: icmp_seq=275 ttl=61 time=755 ms
+[1489980514.697614] 64 bytes from 10.82.31.73: icmp_seq=276 ttl=61 time=2259 ms
+[1489980514.808567] 64 bytes from 10.82.31.73: icmp_seq=277 ttl=61 time=1362 ms
+[1489980514.814660] 64 bytes from 10.82.31.73: icmp_seq=278 ttl=61 time=360 ms
+[1489980515.534264] 64 bytes from 10.82.31.73: icmp_seq=279 ttl=61 time=78.5 ms
+[1489980516.474991] 64 bytes from 10.82.31.73: icmp_seq=280 ttl=61 time=17.5 ms
+[1489980517.544958] 64 bytes from 10.82.31.73: icmp_seq=281 ttl=61 time=85.5 ms
+[1489980518.964953] 64 bytes from 10.82.31.73: icmp_seq=282 ttl=61 time=503 ms
+[1489980519.544210] 64 bytes from 10.82.31.73: icmp_seq=283 ttl=61 time=81.3 ms
+[1489980520.983423] 64 bytes from 10.82.31.73: icmp_seq=284 ttl=61 time=518 ms
+[1489980521.480976] 64 bytes from 10.82.31.73: icmp_seq=285 ttl=61 time=15.6 ms
+[1489980522.966225] 64 bytes from 10.82.31.73: icmp_seq=286 ttl=61 time=498 ms
+[1489980523.687709] 64 bytes from 10.82.31.73: icmp_seq=287 ttl=61 time=219 ms
+[1489980524.641994] 64 bytes from 10.82.31.73: icmp_seq=288 ttl=61 time=172 ms
+[1489980525.492700] 64 bytes from 10.82.31.73: icmp_seq=289 ttl=61 time=21.6 ms
+[1489980526.486752] 64 bytes from 10.82.31.73: icmp_seq=290 ttl=61 time=13.7 ms
+[1489980527.498646] 64 bytes from 10.82.31.73: icmp_seq=291 ttl=61 time=23.6 ms
+[1489980528.622986] 64 bytes from 10.82.31.73: icmp_seq=292 ttl=61 time=145 ms
+[1489980529.481326] 64 bytes from 10.82.31.73: icmp_seq=293 ttl=61 time=3.10 ms
+[1489980530.483038] 64 bytes from 10.82.31.73: icmp_seq=294 ttl=61 time=3.33 ms
+[1489980531.491932] 64 bytes from 10.82.31.73: icmp_seq=295 ttl=61 time=10.5 ms
+[1489980532.550641] 64 bytes from 10.82.31.73: icmp_seq=296 ttl=61 time=67.3 ms
+[1489980533.493390] 64 bytes from 10.82.31.73: icmp_seq=297 ttl=61 time=8.43 ms
+[1489980534.588554] 64 bytes from 10.82.31.73: icmp_seq=298 ttl=61 time=101 ms
+[1489980535.520449] 64 bytes from 10.82.31.73: icmp_seq=299 ttl=61 time=31.5 ms
+[1489980536.692671] 64 bytes from 10.82.31.73: icmp_seq=300 ttl=61 time=201 ms
+[1489980537.592416] 64 bytes from 10.82.31.73: icmp_seq=301 ttl=61 time=100 ms
+[1489980538.506756] 64 bytes from 10.82.31.73: icmp_seq=302 ttl=61 time=13.0 ms
+[1489980539.530383] 64 bytes from 10.82.31.73: icmp_seq=303 ttl=61 time=35.2 ms
+[1489980540.523050] 64 bytes from 10.82.31.73: icmp_seq=304 ttl=61 time=26.3 ms
+[1489980541.538452] 64 bytes from 10.82.31.73: icmp_seq=305 ttl=61 time=39.9 ms
+[1489980542.541384] 64 bytes from 10.82.31.73: icmp_seq=306 ttl=61 time=41.5 ms
+[1489980543.762595] 64 bytes from 10.82.31.73: icmp_seq=307 ttl=61 time=260 ms
+[1489980544.529168] 64 bytes from 10.82.31.73: icmp_seq=308 ttl=61 time=26.5 ms
+[1489980545.547081] 64 bytes from 10.82.31.73: icmp_seq=309 ttl=61 time=42.5 ms
+[1489980546.521497] 64 bytes from 10.82.31.73: icmp_seq=310 ttl=61 time=15.2 ms
+[1489980547.826746] 64 bytes from 10.82.31.73: icmp_seq=311 ttl=61 time=318 ms
+[1489980548.567946] 64 bytes from 10.82.31.73: icmp_seq=312 ttl=61 time=59.2 ms
+[1489980549.560676] 64 bytes from 10.82.31.73: icmp_seq=313 ttl=61 time=50.3 ms
+[1489980550.535505] 64 bytes from 10.82.31.73: icmp_seq=314 ttl=61 time=23.4 ms
+[1489980552.324288] 64 bytes from 10.82.31.73: icmp_seq=315 ttl=61 time=810 ms
+[1489980552.533013] 64 bytes from 10.82.31.73: icmp_seq=316 ttl=61 time=19.0 ms
+[1489980553.615255] 64 bytes from 10.82.31.73: icmp_seq=317 ttl=61 time=99.8 ms
+[1489980554.813059] 64 bytes from 10.82.31.73: icmp_seq=318 ttl=61 time=296 ms
+[1489980555.784062] 64 bytes from 10.82.31.73: icmp_seq=319 ttl=61 time=265 ms
+[1489980556.530363] 64 bytes from 10.82.31.73: icmp_seq=320 ttl=61 time=11.1 ms
+[1489980557.844821] 64 bytes from 10.82.31.73: icmp_seq=321 ttl=61 time=324 ms
+[1489980558.893911] 64 bytes from 10.82.31.73: icmp_seq=322 ttl=61 time=371 ms
+[1489980559.554591] 64 bytes from 10.82.31.73: icmp_seq=323 ttl=61 time=31.5 ms
+[1489980560.589755] 64 bytes from 10.82.31.73: icmp_seq=324 ttl=61 time=64.6 ms
+[1489980561.626056] 64 bytes from 10.82.31.73: icmp_seq=325 ttl=61 time=98.8 ms
+[1489980562.782060] 64 bytes from 10.82.31.73: icmp_seq=326 ttl=61 time=253 ms
+[1489980563.803152] 64 bytes from 10.82.31.73: icmp_seq=327 ttl=61 time=273 ms
+[1489980564.635652] 64 bytes from 10.82.31.73: icmp_seq=328 ttl=61 time=105 ms
+[1489980565.936571] 64 bytes from 10.82.31.73: icmp_seq=329 ttl=61 time=404 ms
+[1489980566.549680] 64 bytes from 10.82.31.73: icmp_seq=330 ttl=61 time=15.9 ms
+[1489980567.777121] 64 bytes from 10.82.31.73: icmp_seq=331 ttl=61 time=241 ms
+[1489980569.343602] 64 bytes from 10.82.31.73: icmp_seq=332 ttl=61 time=807 ms
+[1489980569.756316] 64 bytes from 10.82.31.73: icmp_seq=333 ttl=61 time=220 ms
+[1489980571.196406] 64 bytes from 10.82.31.73: icmp_seq=334 ttl=61 time=659 ms
+[1489980579.252146] 64 bytes from 10.82.31.73: icmp_seq=335 ttl=61 time=7715 ms
+[1489980579.909757] 64 bytes from 10.82.31.73: icmp_seq=336 ttl=61 time=7363 ms
+[1489980581.888594] 64 bytes from 10.82.31.73: icmp_seq=337 ttl=61 time=8334 ms
+[1489980581.888696] 64 bytes from 10.82.31.73: icmp_seq=338 ttl=61 time=7326 ms
+[1489980581.888732] 64 bytes from 10.82.31.73: icmp_seq=339 ttl=61 time=6318 ms
+[1489980581.888757] 64 bytes from 10.82.31.73: icmp_seq=340 ttl=61 time=5310 ms
+[1489980581.890581] 64 bytes from 10.82.31.73: icmp_seq=341 ttl=61 time=4304 ms
+[1489980581.890638] 64 bytes from 10.82.31.73: icmp_seq=342 ttl=61 time=3296 ms
+[1489980609.860298] 64 bytes from 10.82.31.73: icmp_seq=373 ttl=61 time=46.1 ms
+[1489980610.852051] 64 bytes from 10.82.31.73: icmp_seq=374 ttl=61 time=36.3 ms
+[1489980611.841986] 64 bytes from 10.82.31.73: icmp_seq=375 ttl=61 time=24.6 ms
+[1489980612.853227] 64 bytes from 10.82.31.73: icmp_seq=376 ttl=61 time=33.8 ms
+[1489980613.839454] 64 bytes from 10.82.31.73: icmp_seq=377 ttl=61 time=18.8 ms
+[1489980614.850917] 64 bytes from 10.82.31.73: icmp_seq=378 ttl=61 time=29.1 ms
+[1489980615.839387] 64 bytes from 10.82.31.73: icmp_seq=379 ttl=61 time=16.1 ms
+[1489980616.833281] 64 bytes from 10.82.31.73: icmp_seq=380 ttl=61 time=8.51 ms
+[1489980617.857361] 64 bytes from 10.82.31.73: icmp_seq=381 ttl=61 time=30.7 ms
+[1489980618.834903] 64 bytes from 10.82.31.73: icmp_seq=382 ttl=61 time=6.18 ms
+[1489980619.884333] 64 bytes from 10.82.31.73: icmp_seq=383 ttl=61 time=54.1 ms
+[1489980620.897633] 64 bytes from 10.82.31.73: icmp_seq=384 ttl=61 time=66.0 ms
+[1489980621.972472] 64 bytes from 10.82.31.73: icmp_seq=385 ttl=61 time=139 ms
+[1489980622.922056] 64 bytes from 10.82.31.73: icmp_seq=386 ttl=61 time=87.2 ms
+[1489980623.845376] 64 bytes from 10.82.31.73: icmp_seq=387 ttl=61 time=9.11 ms
+[1489980624.867098] 64 bytes from 10.82.31.73: icmp_seq=388 ttl=61 time=29.4 ms
+[1489980626.074588] 64 bytes from 10.82.31.73: icmp_seq=389 ttl=61 time=235 ms
+[1489980626.903226] 64 bytes from 10.82.31.73: icmp_seq=390 ttl=61 time=63.4 ms
+[1489980627.849479] 64 bytes from 10.82.31.73: icmp_seq=391 ttl=61 time=7.99 ms
+[1489980628.856974] 64 bytes from 10.82.31.73: icmp_seq=392 ttl=61 time=14.1 ms
+[1489980629.855359] 64 bytes from 10.82.31.73: icmp_seq=393 ttl=61 time=10.9 ms
+[1489980630.852564] 64 bytes from 10.82.31.73: icmp_seq=394 ttl=61 time=6.90 ms
+[1489980631.851521] 64 bytes from 10.82.31.73: icmp_seq=395 ttl=61 time=4.66 ms
+[1489980632.854721] 64 bytes from 10.82.31.73: icmp_seq=396 ttl=61 time=5.90 ms
+[1489980633.869619] 64 bytes from 10.82.31.73: icmp_seq=397 ttl=61 time=19.5 ms
+[1489980634.860532] 64 bytes from 10.82.31.73: icmp_seq=398 ttl=61 time=8.59 ms
+[1489980635.861254] 64 bytes from 10.82.31.73: icmp_seq=399 ttl=61 time=7.43 ms
+[1489980636.861357] 64 bytes from 10.82.31.73: icmp_seq=400 ttl=61 time=5.70 ms
+[1489980637.886636] 64 bytes from 10.82.31.73: icmp_seq=401 ttl=61 time=28.9 ms
+[1489980638.943033] 64 bytes from 10.82.31.73: icmp_seq=402 ttl=61 time=83.9 ms
+[1489980639.886577] 64 bytes from 10.82.31.73: icmp_seq=403 ttl=61 time=26.3 ms
+[1489980640.870106] 64 bytes from 10.82.31.73: icmp_seq=404 ttl=61 time=8.26 ms
+[1489980641.873061] 64 bytes from 10.82.31.73: icmp_seq=405 ttl=61 time=9.52 ms
+[1489980642.930388] 64 bytes from 10.82.31.73: icmp_seq=406 ttl=61 time=64.9 ms
+[1489980643.881487] 64 bytes from 10.82.31.73: icmp_seq=407 ttl=61 time=14.6 ms
+[1489980644.895077] 64 bytes from 10.82.31.73: icmp_seq=408 ttl=61 time=26.1 ms
+[1489980645.902205] 64 bytes from 10.82.31.73: icmp_seq=409 ttl=61 time=31.7 ms
+[1489980647.677579] 64 bytes from 10.82.31.73: icmp_seq=410 ttl=61 time=804 ms
+[1489980647.995654] 64 bytes from 10.82.31.73: icmp_seq=411 ttl=61 time=123 ms
+[1489980698.261725] 64 bytes from 10.82.31.73: icmp_seq=461 ttl=61 time=1.97 ms
+[1489980699.262736] 64 bytes from 10.82.31.73: icmp_seq=462 ttl=61 time=1.55 ms
+[1489980700.264762] 64 bytes from 10.82.31.73: icmp_seq=463 ttl=61 time=1.58 ms
+[1489980701.266770] 64 bytes from 10.82.31.73: icmp_seq=464 ttl=61 time=1.52 ms
+[1489980702.268803] 64 bytes from 10.82.31.73: icmp_seq=465 ttl=61 time=1.56 ms
+[1489980703.271047] 64 bytes from 10.82.31.73: icmp_seq=466 ttl=61 time=1.81 ms
+[1489980704.273243] 64 bytes from 10.82.31.73: icmp_seq=467 ttl=61 time=2.74 ms
+[1489980705.290325] 64 bytes from 10.82.31.73: icmp_seq=468 ttl=61 time=17.6 ms
+[1489980706.350783] 64 bytes from 10.82.31.73: icmp_seq=469 ttl=61 time=76.0 ms
+[1489980707.442629] 64 bytes from 10.82.31.73: icmp_seq=470 ttl=61 time=166 ms
+[1489980708.279096] 64 bytes from 10.82.31.73: icmp_seq=471 ttl=61 time=1.22 ms
+[1489980709.281113] 64 bytes from 10.82.31.73: icmp_seq=472 ttl=61 time=1.59 ms
+[1489980710.282812] 64 bytes from 10.82.31.73: icmp_seq=473 ttl=61 time=1.27 ms
+[1489980711.287239] 64 bytes from 10.82.31.73: icmp_seq=474 ttl=61 time=4.00 ms
+[1489980712.286288] 64 bytes from 10.82.31.73: icmp_seq=475 ttl=61 time=1.62 ms
+[1489980713.288331] 64 bytes from 10.82.31.73: icmp_seq=476 ttl=61 time=1.61 ms
+[1489980714.290418] 64 bytes from 10.82.31.73: icmp_seq=477 ttl=61 time=1.65 ms
+[1489980715.292496] 64 bytes from 10.82.31.73: icmp_seq=478 ttl=61 time=1.65 ms
+[1489980716.294616] 64 bytes from 10.82.31.73: icmp_seq=479 ttl=61 time=1.68 ms
+[1489980717.394725] 64 bytes from 10.82.31.73: icmp_seq=480 ttl=61 time=99.6 ms
+[1489980718.315284] 64 bytes from 10.82.31.73: icmp_seq=481 ttl=61 time=18.2 ms
+[1489980719.302382] 64 bytes from 10.82.31.73: icmp_seq=482 ttl=61 time=3.67 ms
+[1489980720.303568] 64 bytes from 10.82.31.73: icmp_seq=483 ttl=61 time=2.91 ms
+[1489980721.304929] 64 bytes from 10.82.31.73: icmp_seq=484 ttl=61 time=2.92 ms
+[1489980722.306120] 64 bytes from 10.82.31.73: icmp_seq=485 ttl=61 time=2.80 ms
+[1489980723.308380] 64 bytes from 10.82.31.73: icmp_seq=486 ttl=61 time=2.87 ms
+[1489980724.309749] 64 bytes from 10.82.31.73: icmp_seq=487 ttl=61 time=2.91 ms
+[1489980725.311045] 64 bytes from 10.82.31.73: icmp_seq=488 ttl=61 time=2.93 ms
+[1489980726.312371] 64 bytes from 10.82.31.73: icmp_seq=489 ttl=61 time=2.89 ms
+[1489980727.313417] 64 bytes from 10.82.31.73: icmp_seq=490 ttl=61 time=2.61 ms
+[1489980728.315808] 64 bytes from 10.82.31.73: icmp_seq=491 ttl=61 time=2.94 ms
+[1489980729.317170] 64 bytes from 10.82.31.73: icmp_seq=492 ttl=61 time=2.92 ms
+[1489980730.318524] 64 bytes from 10.82.31.73: icmp_seq=493 ttl=61 time=2.92 ms
+[1489980731.319959] 64 bytes from 10.82.31.73: icmp_seq=494 ttl=61 time=2.99 ms
+[1489980732.325282] 64 bytes from 10.82.31.73: icmp_seq=495 ttl=61 time=6.85 ms
+[1489980733.322582] 64 bytes from 10.82.31.73: icmp_seq=496 ttl=61 time=2.86 ms
+[1489980734.327925] 64 bytes from 10.82.31.73: icmp_seq=497 ttl=61 time=6.89 ms
+[1489980735.325295] 64 bytes from 10.82.31.73: icmp_seq=498 ttl=61 time=2.93 ms
+[1489980736.326645] 64 bytes from 10.82.31.73: icmp_seq=499 ttl=61 time=2.90 ms
+[1489980737.334443] 64 bytes from 10.82.31.73: icmp_seq=500 ttl=61 time=9.49 ms
+[1489980738.333003] 64 bytes from 10.82.31.73: icmp_seq=501 ttl=61 time=6.23 ms
+[1489980739.356825] 64 bytes from 10.82.31.73: icmp_seq=502 ttl=61 time=28.5 ms
+[1489980740.334224] 64 bytes from 10.82.31.73: icmp_seq=503 ttl=61 time=4.13 ms
+[1489980741.366683] 64 bytes from 10.82.31.73: icmp_seq=504 ttl=61 time=35.1 ms
+[1489980742.374510] 64 bytes from 10.82.31.73: icmp_seq=505 ttl=61 time=41.6 ms
+[1489980743.376647] 64 bytes from 10.82.31.73: icmp_seq=506 ttl=61 time=41.9 ms
+[1489980744.363355] 64 bytes from 10.82.31.73: icmp_seq=507 ttl=61 time=27.3 ms
+[1489980745.350378] 64 bytes from 10.82.31.73: icmp_seq=508 ttl=61 time=12.7 ms
+[1489980746.377596] 64 bytes from 10.82.31.73: icmp_seq=509 ttl=61 time=37.9 ms
+[1489980747.360647] 64 bytes from 10.82.31.73: icmp_seq=510 ttl=61 time=19.7 ms
+[1489980748.369894] 64 bytes from 10.82.31.73: icmp_seq=511 ttl=61 time=27.0 ms
+[1489980749.371403] 64 bytes from 10.82.31.73: icmp_seq=512 ttl=61 time=27.0 ms
+[1489980750.356690] 64 bytes from 10.82.31.73: icmp_seq=513 ttl=61 time=11.0 ms
+[1489980751.361969] 64 bytes from 10.82.31.73: icmp_seq=514 ttl=61 time=14.9 ms
+[1489980752.369161] 64 bytes from 10.82.31.73: icmp_seq=515 ttl=61 time=20.9 ms
+[1489980753.363799] 64 bytes from 10.82.31.73: icmp_seq=516 ttl=61 time=14.2 ms
+[1489980754.369920] 64 bytes from 10.82.31.73: icmp_seq=517 ttl=61 time=18.8 ms
+[1489980755.371978] 64 bytes from 10.82.31.73: icmp_seq=518 ttl=61 time=19.5 ms
+[1489980756.368956] 64 bytes from 10.82.31.73: icmp_seq=519 ttl=61 time=14.5 ms
+[1489980757.388868] 64 bytes from 10.82.31.73: icmp_seq=520 ttl=61 time=32.6 ms
+[1489980758.436610] 64 bytes from 10.82.31.73: icmp_seq=521 ttl=61 time=78.3 ms
+[1489980759.418988] 64 bytes from 10.82.31.73: icmp_seq=522 ttl=61 time=58.9 ms
+[1489980789.595951] 64 bytes from 10.82.31.73: icmp_seq=552 ttl=61 time=1.58 ms
+[1489980790.598704] 64 bytes from 10.82.31.73: icmp_seq=553 ttl=61 time=2.35 ms
+[1489980791.601211] 64 bytes from 10.82.31.73: icmp_seq=554 ttl=61 time=3.10 ms
+[1489980792.601277] 64 bytes from 10.82.31.73: icmp_seq=555 ttl=61 time=1.67 ms
+[1489980793.604935] 64 bytes from 10.82.31.73: icmp_seq=556 ttl=61 time=3.26 ms
+[1489980794.607559] 64 bytes from 10.82.31.73: icmp_seq=557 ttl=61 time=4.21 ms
+[1489980795.633710] 64 bytes from 10.82.31.73: icmp_seq=558 ttl=61 time=28.7 ms
+[1489980796.608694] 64 bytes from 10.82.31.73: icmp_seq=559 ttl=61 time=1.60 ms
+[1489980797.610744] 64 bytes from 10.82.31.73: icmp_seq=560 ttl=61 time=1.64 ms
+[1489980798.635594] 64 bytes from 10.82.31.73: icmp_seq=561 ttl=61 time=24.4 ms
+[1489980799.618198] 64 bytes from 10.82.31.73: icmp_seq=562 ttl=61 time=5.23 ms
+[1489980800.617401] 64 bytes from 10.82.31.73: icmp_seq=563 ttl=61 time=2.78 ms
+[1489980801.619689] 64 bytes from 10.82.31.73: icmp_seq=564 ttl=61 time=2.83 ms
+[1489980802.652985] 64 bytes from 10.82.31.73: icmp_seq=565 ttl=61 time=34.7 ms
+[1489980803.623319] 64 bytes from 10.82.31.73: icmp_seq=566 ttl=61 time=2.96 ms
+[1489980804.624581] 64 bytes from 10.82.31.73: icmp_seq=567 ttl=61 time=2.86 ms
+[1489980805.626356] 64 bytes from 10.82.31.73: icmp_seq=568 ttl=61 time=3.35 ms
+[1489980806.689704] 64 bytes from 10.82.31.73: icmp_seq=569 ttl=61 time=64.9 ms
+[1489980807.634302] 64 bytes from 10.82.31.73: icmp_seq=570 ttl=61 time=8.27 ms
+[1489980808.684894] 64 bytes from 10.82.31.73: icmp_seq=571 ttl=61 time=57.1 ms
+[1489980809.678108] 64 bytes from 10.82.31.73: icmp_seq=572 ttl=61 time=48.7 ms
+[1489980810.640886] 64 bytes from 10.82.31.73: icmp_seq=573 ttl=61 time=10.4 ms
+[1489980811.661403] 64 bytes from 10.82.31.73: icmp_seq=574 ttl=61 time=29.1 ms
+[1489980812.720670] 64 bytes from 10.82.31.73: icmp_seq=575 ttl=61 time=86.8 ms
+[1489980813.657014] 64 bytes from 10.82.31.73: icmp_seq=576 ttl=61 time=22.0 ms
+[1489980815.808198] 64 bytes from 10.82.31.73: icmp_seq=577 ttl=61 time=1171 ms
+[1489980816.415582] 64 bytes from 10.82.31.73: icmp_seq=578 ttl=61 time=779 ms
+[1489980817.864353] 64 bytes from 10.82.31.73: icmp_seq=580 ttl=61 time=228 ms
+[1489980818.640638] 64 bytes from 10.82.31.73: icmp_seq=581 ttl=61 time=3.14 ms
+[1489980820.653138] 64 bytes from 10.82.31.73: icmp_seq=583 ttl=61 time=7.06 ms
+[1489980821.655550] 64 bytes from 10.82.31.73: icmp_seq=584 ttl=61 time=8.18 ms
+[1489980826.140153] 64 bytes from 10.82.31.73: icmp_seq=588 ttl=61 time=492 ms
+[1489980826.652524] 64 bytes from 10.82.31.73: icmp_seq=589 ttl=61 time=4.58 ms
+[1489980827.694101] 64 bytes from 10.82.31.73: icmp_seq=590 ttl=61 time=44.1 ms
+[1489980828.677648] 64 bytes from 10.82.31.73: icmp_seq=591 ttl=61 time=26.3 ms
+[1489980829.677170] 64 bytes from 10.82.31.73: icmp_seq=592 ttl=61 time=24.1 ms
+[1489980830.847865] 64 bytes from 10.82.31.73: icmp_seq=593 ttl=61 time=193 ms
+[1489980831.676168] 64 bytes from 10.82.31.73: icmp_seq=594 ttl=61 time=20.2 ms
+[1489980834.164528] 64 bytes from 10.82.31.73: icmp_seq=596 ttl=61 time=498 ms
+[1489980835.228758] 64 bytes from 10.82.31.73: icmp_seq=597 ttl=61 time=562 ms
+[1489980836.582435] 64 bytes from 10.82.31.73: icmp_seq=598 ttl=61 time=915 ms
+[1489980838.997643] 64 bytes from 10.82.31.73: icmp_seq=599 ttl=61 time=2331 ms
+[1489980839.597481] 64 bytes from 10.82.31.73: icmp_seq=601 ttl=61 time=915 ms
+[1489980841.225018] 64 bytes from 10.82.31.73: icmp_seq=602 ttl=61 time=1543 ms
+[1489980845.077391] 64 bytes from 10.82.31.73: icmp_seq=607 ttl=61 time=363 ms
+[1489980848.742411] 64 bytes from 10.82.31.73: icmp_seq=611 ttl=61 time=4.09 ms
+[1489980849.741512] 64 bytes from 10.82.31.73: icmp_seq=612 ttl=61 time=1.67 ms
+[1489980850.745542] 64 bytes from 10.82.31.73: icmp_seq=613 ttl=61 time=3.60 ms
+[1489980851.749786] 64 bytes from 10.82.31.73: icmp_seq=614 ttl=61 time=5.82 ms
+[1489980852.781630] 64 bytes from 10.82.31.73: icmp_seq=615 ttl=61 time=36.5 ms
+[1489980853.751137] 64 bytes from 10.82.31.73: icmp_seq=616 ttl=61 time=4.25 ms
+[1489980854.829925] 64 bytes from 10.82.31.73: icmp_seq=617 ttl=61 time=81.4 ms
+[1489980855.774639] 64 bytes from 10.82.31.73: icmp_seq=618 ttl=61 time=24.4 ms
+[1489980856.791494] 64 bytes from 10.82.31.73: icmp_seq=619 ttl=61 time=39.4 ms
+[1489980857.760682] 64 bytes from 10.82.31.73: icmp_seq=620 ttl=61 time=6.96 ms
+[1489980858.762076] 64 bytes from 10.82.31.73: icmp_seq=621 ttl=61 time=7.09 ms
+[1489980859.760195] 64 bytes from 10.82.31.73: icmp_seq=622 ttl=61 time=3.72 ms
+[1489980860.820020] 64 bytes from 10.82.31.73: icmp_seq=623 ttl=61 time=61.4 ms
+[1489980861.785717] 64 bytes from 10.82.31.73: icmp_seq=624 ttl=61 time=25.3 ms
+[1489980862.785622] 64 bytes from 10.82.31.73: icmp_seq=625 ttl=61 time=23.6 ms
+[1489980863.829443] 64 bytes from 10.82.31.73: icmp_seq=626 ttl=61 time=65.3 ms
+[1489980864.802860] 64 bytes from 10.82.31.73: icmp_seq=627 ttl=61 time=37.0 ms
+[1489980865.812652] 64 bytes from 10.82.31.73: icmp_seq=628 ttl=61 time=45.3 ms
+[1489980867.123839] 64 bytes from 10.82.31.73: icmp_seq=629 ttl=61 time=354 ms
+[1489980867.985358] 64 bytes from 10.82.31.73: icmp_seq=630 ttl=61 time=215 ms
+[1489980868.906672] 64 bytes from 10.82.31.73: icmp_seq=631 ttl=61 time=135 ms
+[1489980869.825698] 64 bytes from 10.82.31.73: icmp_seq=632 ttl=61 time=52.8 ms
+[1489980879.850083] 64 bytes from 10.82.31.73: icmp_seq=642 ttl=61 time=3.66 ms
+[1489980880.852087] 64 bytes from 10.82.31.73: icmp_seq=643 ttl=61 time=3.54 ms
+[1489980882.084779] 64 bytes from 10.82.31.73: icmp_seq=644 ttl=61 time=234 ms
+[1489980882.914905] 64 bytes from 10.82.31.73: icmp_seq=645 ttl=61 time=64.0 ms
+[1489980883.898450] 64 bytes from 10.82.31.73: icmp_seq=646 ttl=61 time=46.1 ms
+[1489980884.967150] 64 bytes from 10.82.31.73: icmp_seq=647 ttl=61 time=113 ms
+[1489980885.967971] 64 bytes from 10.82.31.73: icmp_seq=648 ttl=61 time=112 ms
+[1489980886.940530] 64 bytes from 10.82.31.73: icmp_seq=649 ttl=61 time=83.3 ms
+[1489980888.093886] 64 bytes from 10.82.31.73: icmp_seq=650 ttl=61 time=235 ms
+[1489980889.259328] 64 bytes from 10.82.31.73: icmp_seq=651 ttl=61 time=400 ms
+[1489980891.878561] 64 bytes from 10.82.31.73: icmp_seq=654 ttl=61 time=4.17 ms
+[1489980892.887924] 64 bytes from 10.82.31.73: icmp_seq=655 ttl=61 time=11.9 ms
+[1489980893.945869] 64 bytes from 10.82.31.73: icmp_seq=656 ttl=61 time=68.5 ms
+[1489980894.940374] 64 bytes from 10.82.31.73: icmp_seq=657 ttl=61 time=61.1 ms
+[1489980895.945548] 64 bytes from 10.82.31.73: icmp_seq=658 ttl=61 time=64.7 ms
+[1489980896.910376] 64 bytes from 10.82.31.73: icmp_seq=659 ttl=61 time=28.4 ms
+[1489980897.911425] 64 bytes from 10.82.31.73: icmp_seq=660 ttl=61 time=27.6 ms
+[1489980898.899667] 64 bytes from 10.82.31.73: icmp_seq=661 ttl=61 time=13.9 ms
+[1489980899.901478] 64 bytes from 10.82.31.73: icmp_seq=662 ttl=61 time=14.4 ms
+[1489980900.965866] 64 bytes from 10.82.31.73: icmp_seq=663 ttl=61 time=76.9 ms
+[1489980901.937464] 64 bytes from 10.82.31.73: icmp_seq=664 ttl=61 time=47.3 ms
+[1489980902.920733] 64 bytes from 10.82.31.73: icmp_seq=665 ttl=61 time=28.8 ms
+[1489980903.940844] 64 bytes from 10.82.31.73: icmp_seq=666 ttl=61 time=47.6 ms
+[1489980905.544566] 64 bytes from 10.82.31.73: icmp_seq=667 ttl=61 time=649 ms
+[1489980905.946694] 64 bytes from 10.82.31.73: icmp_seq=668 ttl=61 time=51.3 ms
+[1489980906.967874] 64 bytes from 10.82.31.73: icmp_seq=669 ttl=61 time=70.7 ms
+[1489980916.976292] 64 bytes from 10.82.31.73: icmp_seq=679 ttl=61 time=5.86 ms
+[1489980918.039509] 64 bytes from 10.82.31.73: icmp_seq=680 ttl=61 time=67.7 ms
+[1489980919.062438] 64 bytes from 10.82.31.73: icmp_seq=681 ttl=61 time=90.5 ms
+[1489980920.016176] 64 bytes from 10.82.31.73: icmp_seq=682 ttl=61 time=43.5 ms
+[1489980921.622672] 64 bytes from 10.82.31.73: icmp_seq=683 ttl=61 time=649 ms
+[1489980921.982645] 64 bytes from 10.82.31.73: icmp_seq=684 ttl=61 time=9.30 ms
+[1489980922.983119] 64 bytes from 10.82.31.73: icmp_seq=685 ttl=61 time=8.18 ms
+[1489980924.032352] 64 bytes from 10.82.31.73: icmp_seq=686 ttl=61 time=55.9 ms
+[1489980924.997809] 64 bytes from 10.82.31.73: icmp_seq=687 ttl=61 time=21.1 ms
+[1489980926.712632] 64 bytes from 10.82.31.73: icmp_seq=688 ttl=61 time=734 ms
+[1489980927.119462] 64 bytes from 10.82.31.73: icmp_seq=689 ttl=61 time=141 ms
+[1489980928.232410] 64 bytes from 10.82.31.73: icmp_seq=690 ttl=61 time=253 ms
+[1489980944.104424] 64 bytes from 10.82.31.73: icmp_seq=706 ttl=61 time=6.00 ms
+[1489980947.113523] 64 bytes from 10.82.31.73: icmp_seq=709 ttl=61 time=13.3 ms
+[1489980948.103898] 64 bytes from 10.82.31.73: icmp_seq=710 ttl=61 time=1.92 ms
+[1489980949.105259] 64 bytes from 10.82.31.73: icmp_seq=711 ttl=61 time=1.92 ms
+[1489980950.108346] 64 bytes from 10.82.31.73: icmp_seq=712 ttl=61 time=3.65 ms
+[1489980951.111292] 64 bytes from 10.82.31.73: icmp_seq=713 ttl=61 time=4.51 ms
+[1489980952.120108] 64 bytes from 10.82.31.73: icmp_seq=714 ttl=61 time=11.3 ms
+[1489981008.524285] From 10.82.31.73 icmp_seq=767 Destination Host Unreachable
+[1489981008.524402] From 10.82.31.73 icmp_seq=768 Destination Host Unreachable
+[1489981008.524432] From 10.82.31.73 icmp_seq=769 Destination Host Unreachable
+[1489981011.540015] From 10.82.31.73 icmp_seq=770 Destination Host Unreachable
+[1489981011.540114] From 10.82.31.73 icmp_seq=771 Destination Host Unreachable
+[1489981011.540140] From 10.82.31.73 icmp_seq=772 Destination Host Unreachable
+[1489981014.556018] From 10.82.31.73 icmp_seq=773 Destination Host Unreachable
+[1489981014.556127] From 10.82.31.73 icmp_seq=774 Destination Host Unreachable
+[1489981014.556163] From 10.82.31.73 icmp_seq=775 Destination Host Unreachable
+[1489981017.572195] From 10.82.31.73 icmp_seq=776 Destination Host Unreachable
+[1489981017.572281] From 10.82.31.73 icmp_seq=777 Destination Host Unreachable
+[1489981017.572302] From 10.82.31.73 icmp_seq=778 Destination Host Unreachable
+[1489981020.588196] From 10.82.31.73 icmp_seq=779 Destination Host Unreachable
+[1489981020.588295] From 10.82.31.73 icmp_seq=780 Destination Host Unreachable
+[1489981020.588367] From 10.82.31.73 icmp_seq=781 Destination Host Unreachable
+[1489981023.604192] From 10.82.31.73 icmp_seq=782 Destination Host Unreachable
+[1489981023.604281] From 10.82.31.73 icmp_seq=783 Destination Host Unreachable
+[1489981023.604300] From 10.82.31.73 icmp_seq=784 Destination Host Unreachable
+[1489981026.620199] From 10.82.31.73 icmp_seq=785 Destination Host Unreachable
+[1489981026.620299] From 10.82.31.73 icmp_seq=786 Destination Host Unreachable
+[1489981026.620333] From 10.82.31.73 icmp_seq=787 Destination Host Unreachable
+[1489981029.636148] From 10.82.31.73 icmp_seq=788 Destination Host Unreachable
+[1489981029.636230] From 10.82.31.73 icmp_seq=789 Destination Host Unreachable
+[1489981029.636251] From 10.82.31.73 icmp_seq=790 Destination Host Unreachable
+[1489981032.652204] From 10.82.31.73 icmp_seq=791 Destination Host Unreachable
+[1489981032.652308] From 10.82.31.73 icmp_seq=792 Destination Host Unreachable
+[1489981032.652339] From 10.82.31.73 icmp_seq=793 Destination Host Unreachable
+[1489981035.668132] From 10.82.31.73 icmp_seq=794 Destination Host Unreachable
+[1489981035.668219] From 10.82.31.73 icmp_seq=795 Destination Host Unreachable
+[1489981035.668254] From 10.82.31.73 icmp_seq=796 Destination Host Unreachable
+[1489981050.808711] 64 bytes from 10.82.31.73: icmp_seq=812 ttl=61 time=2.35 ms
+[1489981051.809880] 64 bytes from 10.82.31.73: icmp_seq=813 ttl=61 time=1.82 ms
+[1489981052.811805] 64 bytes from 10.82.31.73: icmp_seq=814 ttl=61 time=1.48 ms
+[1489981053.814368] 64 bytes from 10.82.31.73: icmp_seq=815 ttl=61 time=2.25 ms
+[1489981054.823828] 64 bytes from 10.82.31.73: icmp_seq=816 ttl=61 time=10.1 ms
+[1489981055.819905] 64 bytes from 10.82.31.73: icmp_seq=817 ttl=61 time=4.68 ms
+[1489981056.819967] 64 bytes from 10.82.31.73: icmp_seq=818 ttl=61 time=2.71 ms
+[1489981057.820859] 64 bytes from 10.82.31.73: icmp_seq=819 ttl=61 time=1.50 ms
+[1489981058.832684] 64 bytes from 10.82.31.73: icmp_seq=820 ttl=61 time=11.6 ms
+[1489981059.836806] 64 bytes from 10.82.31.73: icmp_seq=821 ttl=61 time=13.8 ms
+[1489981060.834355] 64 bytes from 10.82.31.73: icmp_seq=822 ttl=61 time=10.3 ms
+[1489981061.843643] 64 bytes from 10.82.31.73: icmp_seq=823 ttl=61 time=17.8 ms
+[1489981062.840445] 64 bytes from 10.82.31.73: icmp_seq=824 ttl=61 time=13.4 ms
+[1489981065.099338] 64 bytes from 10.82.31.73: icmp_seq=825 ttl=61 time=1270 ms
+[1489981068.315262] 64 bytes from 10.82.31.73: icmp_seq=826 ttl=61 time=3487 ms
+[1489981070.832130] 64 bytes from 10.82.31.73: icmp_seq=832 ttl=61 time=3.98 ms
+[1489981071.831227] 64 bytes from 10.82.31.73: icmp_seq=833 ttl=61 time=1.65 ms
+[1489981072.833410] 64 bytes from 10.82.31.73: icmp_seq=834 ttl=61 time=1.74 ms
+[1489981073.836239] 64 bytes from 10.82.31.73: icmp_seq=835 ttl=61 time=2.37 ms
+[1489981074.839732] 64 bytes from 10.82.31.73: icmp_seq=836 ttl=61 time=4.05 ms
+[1489981075.842268] 64 bytes from 10.82.31.73: icmp_seq=837 ttl=61 time=5.06 ms
+[1489981076.846270] 64 bytes from 10.82.31.73: icmp_seq=838 ttl=61 time=7.58 ms
+[1489981077.882409] 64 bytes from 10.82.31.73: icmp_seq=839 ttl=61 time=41.7 ms
+[1489981078.862019] 64 bytes from 10.82.31.73: icmp_seq=840 ttl=61 time=19.3 ms
+[1489981079.864545] 64 bytes from 10.82.31.73: icmp_seq=841 ttl=61 time=20.2 ms
+[1489981080.869124] 64 bytes from 10.82.31.73: icmp_seq=842 ttl=61 time=23.1 ms
+[1489981081.852543] 64 bytes from 10.82.31.73: icmp_seq=843 ttl=61 time=5.06 ms
+[1489981082.880834] 64 bytes from 10.82.31.73: icmp_seq=844 ttl=61 time=32.0 ms
+[1489981083.863320] 64 bytes from 10.82.31.73: icmp_seq=845 ttl=61 time=13.2 ms
+[1489981084.877965] 64 bytes from 10.82.31.73: icmp_seq=846 ttl=61 time=26.3 ms
+[1489981085.916869] 64 bytes from 10.82.31.73: icmp_seq=847 ttl=61 time=63.5 ms
+[1489981086.872204] 64 bytes from 10.82.31.73: icmp_seq=848 ttl=61 time=16.9 ms
+[1489981087.895373] 64 bytes from 10.82.31.73: icmp_seq=849 ttl=61 time=38.7 ms
+[1489981088.917844] 64 bytes from 10.82.31.73: icmp_seq=850 ttl=61 time=59.0 ms
+[1489981089.886716] 64 bytes from 10.82.31.73: icmp_seq=851 ttl=61 time=26.4 ms
+[1489981090.869347] 64 bytes from 10.82.31.73: icmp_seq=852 ttl=61 time=7.20 ms
+[1489981091.871668] 64 bytes from 10.82.31.73: icmp_seq=853 ttl=61 time=7.95 ms
+[1489981092.883050] 64 bytes from 10.82.31.73: icmp_seq=854 ttl=61 time=17.9 ms
+[1489981093.896647] 64 bytes from 10.82.31.73: icmp_seq=855 ttl=61 time=30.1 ms
+[1489981151.868180] From 10.82.31.73 icmp_seq=910 Destination Host Unreachable
+[1489981151.868278] From 10.82.31.73 icmp_seq=911 Destination Host Unreachable
+[1489981151.868309] From 10.82.31.73 icmp_seq=912 Destination Host Unreachable
+[1489981154.868141] From 10.82.31.73 icmp_seq=913 Destination Host Unreachable
+[1489981154.868239] From 10.82.31.73 icmp_seq=914 Destination Host Unreachable
+[1489981154.868271] From 10.82.31.73 icmp_seq=915 Destination Host Unreachable
+[1489981157.868021] From 10.82.31.73 icmp_seq=916 Destination Host Unreachable
+[1489981157.868062] From 10.82.31.73 icmp_seq=917 Destination Host Unreachable
+[1489981157.868075] From 10.82.31.73 icmp_seq=918 Destination Host Unreachable
+[1489981160.868115] From 10.82.31.73 icmp_seq=919 Destination Host Unreachable
+[1489981160.868199] From 10.82.31.73 icmp_seq=920 Destination Host Unreachable
+[1489981160.868220] From 10.82.31.73 icmp_seq=921 Destination Host Unreachable
+[1489981163.868150] From 10.82.31.73 icmp_seq=922 Destination Host Unreachable
+[1489981163.868241] From 10.82.31.73 icmp_seq=923 Destination Host Unreachable
+[1489981163.868262] From 10.82.31.73 icmp_seq=924 Destination Host Unreachable
+[1489981166.868152] From 10.82.31.73 icmp_seq=925 Destination Host Unreachable
+[1489981166.868235] From 10.82.31.73 icmp_seq=926 Destination Host Unreachable
+[1489981166.868256] From 10.82.31.73 icmp_seq=927 Destination Host Unreachable
+[1489981169.868153] From 10.82.31.73 icmp_seq=928 Destination Host Unreachable
+[1489981169.868247] From 10.82.31.73 icmp_seq=929 Destination Host Unreachable
+[1489981169.868270] From 10.82.31.73 icmp_seq=930 Destination Host Unreachable
+[1489981172.868163] From 10.82.31.73 icmp_seq=931 Destination Host Unreachable
+[1489981172.868258] From 10.82.31.73 icmp_seq=932 Destination Host Unreachable
+[1489981172.868281] From 10.82.31.73 icmp_seq=933 Destination Host Unreachable
+[1489981175.868159] From 10.82.31.73 icmp_seq=934 Destination Host Unreachable
+[1489981175.868246] From 10.82.31.73 icmp_seq=935 Destination Host Unreachable
+[1489981175.868268] From 10.82.31.73 icmp_seq=936 Destination Host Unreachable
+[1489981178.868204] From 10.82.31.73 icmp_seq=937 Destination Host Unreachable
+[1489981178.868298] From 10.82.31.73 icmp_seq=938 Destination Host Unreachable
+[1489981178.868331] From 10.82.31.73 icmp_seq=939 Destination Host Unreachable
+[1489981181.868158] From 10.82.31.73 icmp_seq=940 Destination Host Unreachable
+[1489981181.868246] From 10.82.31.73 icmp_seq=941 Destination Host Unreachable
+[1489981181.868280] From 10.82.31.73 icmp_seq=942 Destination Host Unreachable
+[1489981184.868147] From 10.82.31.73 icmp_seq=943 Destination Host Unreachable
+[1489981184.868242] From 10.82.31.73 icmp_seq=944 Destination Host Unreachable
+[1489981184.868275] From 10.82.31.73 icmp_seq=945 Destination Host Unreachable
+[1489981187.868017] From 10.82.31.73 icmp_seq=946 Destination Host Unreachable
+[1489981187.868059] From 10.82.31.73 icmp_seq=947 Destination Host Unreachable
+[1489981187.868071] From 10.82.31.73 icmp_seq=948 Destination Host Unreachable
+[1489981190.868138] From 10.82.31.73 icmp_seq=949 Destination Host Unreachable
+[1489981190.868224] From 10.82.31.73 icmp_seq=950 Destination Host Unreachable
+[1489981190.868256] From 10.82.31.73 icmp_seq=951 Destination Host Unreachable
+[1489981193.868655] From 10.82.31.73 icmp_seq=952 Destination Host Unreachable
+[1489981193.868886] From 10.82.31.73 icmp_seq=953 Destination Host Unreachable
+[1489981193.868928] From 10.82.31.73 icmp_seq=954 Destination Host Unreachable
+[1489981196.868158] From 10.82.31.73 icmp_seq=955 Destination Host Unreachable
+[1489981196.868249] From 10.82.31.73 icmp_seq=956 Destination Host Unreachable
+[1489981196.868281] From 10.82.31.73 icmp_seq=957 Destination Host Unreachable
+[1489981199.868162] From 10.82.31.73 icmp_seq=958 Destination Host Unreachable
+[1489981199.868256] From 10.82.31.73 icmp_seq=959 Destination Host Unreachable
+[1489981199.868285] From 10.82.31.73 icmp_seq=960 Destination Host Unreachable
+[1489981202.868136] From 10.82.31.73 icmp_seq=961 Destination Host Unreachable
+[1489981202.868227] From 10.82.31.73 icmp_seq=962 Destination Host Unreachable
+[1489981202.868256] From 10.82.31.73 icmp_seq=963 Destination Host Unreachable
+[1489981205.868108] From 10.82.31.73 icmp_seq=964 Destination Host Unreachable
+[1489981205.868197] From 10.82.31.73 icmp_seq=965 Destination Host Unreachable
+[1489981205.868231] From 10.82.31.73 icmp_seq=966 Destination Host Unreachable
+[1489981208.868158] From 10.82.31.73 icmp_seq=967 Destination Host Unreachable
+[1489981208.868255] From 10.82.31.73 icmp_seq=968 Destination Host Unreachable
+[1489981208.868284] From 10.82.31.73 icmp_seq=969 Destination Host Unreachable
+[1489981211.868153] From 10.82.31.73 icmp_seq=970 Destination Host Unreachable
+[1489981211.868242] From 10.82.31.73 icmp_seq=971 Destination Host Unreachable
+[1489981211.868274] From 10.82.31.73 icmp_seq=972 Destination Host Unreachable
+[1489981214.868111] From 10.82.31.73 icmp_seq=973 Destination Host Unreachable
+[1489981214.868200] From 10.82.31.73 icmp_seq=974 Destination Host Unreachable
+[1489981214.868221] From 10.82.31.73 icmp_seq=975 Destination Host Unreachable
+[1489981217.871895] From 10.82.31.73 icmp_seq=976 Destination Host Unreachable
+[1489981217.871987] From 10.82.31.73 icmp_seq=977 Destination Host Unreachable
+[1489981217.872011] From 10.82.31.73 icmp_seq=978 Destination Host Unreachable
+[1489981220.868217] From 10.82.31.73 icmp_seq=979 Destination Host Unreachable
+[1489981220.868308] From 10.82.31.73 icmp_seq=980 Destination Host Unreachable
+[1489981220.868335] From 10.82.31.73 icmp_seq=981 Destination Host Unreachable
+[1489981223.876137] From 10.82.31.73 icmp_seq=982 Destination Host Unreachable
+[1489981223.876230] From 10.82.31.73 icmp_seq=983 Destination Host Unreachable
+[1489981223.876258] From 10.82.31.73 icmp_seq=984 Destination Host Unreachable
+[1489981226.892120] From 10.82.31.73 icmp_seq=985 Destination Host Unreachable
+[1489981226.892204] From 10.82.31.73 icmp_seq=986 Destination Host Unreachable
+[1489981226.892233] From 10.82.31.73 icmp_seq=987 Destination Host Unreachable
+[1489981229.908159] From 10.82.31.73 icmp_seq=988 Destination Host Unreachable
+[1489981229.908251] From 10.82.31.73 icmp_seq=989 Destination Host Unreachable
+[1489981229.908286] From 10.82.31.73 icmp_seq=990 Destination Host Unreachable
+[1489981232.924158] From 10.82.31.73 icmp_seq=991 Destination Host Unreachable
+[1489981232.924247] From 10.82.31.73 icmp_seq=992 Destination Host Unreachable
+[1489981232.924279] From 10.82.31.73 icmp_seq=993 Destination Host Unreachable
+[1489981235.940185] From 10.82.31.73 icmp_seq=994 Destination Host Unreachable
+[1489981235.940275] From 10.82.31.73 icmp_seq=995 Destination Host Unreachable
+[1489981235.940296] From 10.82.31.73 icmp_seq=996 Destination Host Unreachable
+[1489981238.956135] From 10.82.31.73 icmp_seq=997 Destination Host Unreachable
+[1489981238.956223] From 10.82.31.73 icmp_seq=998 Destination Host Unreachable
+[1489981238.956253] From 10.82.31.73 icmp_seq=999 Destination Host Unreachable
+[1489981241.972121] From 10.82.31.73 icmp_seq=1000 Destination Host Unreachable
+[1489981241.972201] From 10.82.31.73 icmp_seq=1001 Destination Host Unreachable
+[1489981241.972221] From 10.82.31.73 icmp_seq=1002 Destination Host Unreachable
+[1489981244.988152] From 10.82.31.73 icmp_seq=1003 Destination Host Unreachable
+[1489981244.988245] From 10.82.31.73 icmp_seq=1004 Destination Host Unreachable
+[1489981244.988280] From 10.82.31.73 icmp_seq=1005 Destination Host Unreachable
+[1489981248.004069] From 10.82.31.73 icmp_seq=1006 Destination Host Unreachable
+[1489981248.004131] From 10.82.31.73 icmp_seq=1007 Destination Host Unreachable
+[1489981248.004150] From 10.82.31.73 icmp_seq=1008 Destination Host Unreachable
+[1489981251.020144] From 10.82.31.73 icmp_seq=1009 Destination Host Unreachable
+[1489981251.020258] From 10.82.31.73 icmp_seq=1010 Destination Host Unreachable
+[1489981251.020290] From 10.82.31.73 icmp_seq=1011 Destination Host Unreachable
+[1489981254.036135] From 10.82.31.73 icmp_seq=1012 Destination Host Unreachable
+[1489981254.036223] From 10.82.31.73 icmp_seq=1013 Destination Host Unreachable
+[1489981254.036252] From 10.82.31.73 icmp_seq=1014 Destination Host Unreachable
+[1489981257.052131] From 10.82.31.73 icmp_seq=1015 Destination Host Unreachable
+[1489981257.052217] From 10.82.31.73 icmp_seq=1016 Destination Host Unreachable
+[1489981257.052248] From 10.82.31.73 icmp_seq=1017 Destination Host Unreachable
+[1489981260.068065] From 10.82.31.73 icmp_seq=1018 Destination Host Unreachable
+[1489981260.068159] From 10.82.31.73 icmp_seq=1019 Destination Host Unreachable
+[1489981260.068186] From 10.82.31.73 icmp_seq=1020 Destination Host Unreachable
+[1489981263.084160] From 10.82.31.73 icmp_seq=1021 Destination Host Unreachable
+[1489981263.084256] From 10.82.31.73 icmp_seq=1022 Destination Host Unreachable
+[1489981263.084292] From 10.82.31.73 icmp_seq=1023 Destination Host Unreachable
+[1489981266.100257] From 10.82.31.73 icmp_seq=1024 Destination Host Unreachable
+[1489981266.100348] From 10.82.31.73 icmp_seq=1025 Destination Host Unreachable
+[1489981266.100376] From 10.82.31.73 icmp_seq=1026 Destination Host Unreachable
+[1489981269.116209] From 10.82.31.73 icmp_seq=1027 Destination Host Unreachable
+[1489981269.116305] From 10.82.31.73 icmp_seq=1028 Destination Host Unreachable
+[1489981269.116339] From 10.82.31.73 icmp_seq=1029 Destination Host Unreachable
+[1489981272.131974] From 10.82.31.73 icmp_seq=1030 Destination Host Unreachable
+[1489981272.131998] From 10.82.31.73 icmp_seq=1031 Destination Host Unreachable
+[1489981272.132002] From 10.82.31.73 icmp_seq=1032 Destination Host Unreachable
+[1489981275.148124] From 10.82.31.73 icmp_seq=1033 Destination Host Unreachable
+[1489981275.148214] From 10.82.31.73 icmp_seq=1034 Destination Host Unreachable
+[1489981275.148245] From 10.82.31.73 icmp_seq=1035 Destination Host Unreachable
+[1489981278.164014] From 10.82.31.73 icmp_seq=1036 Destination Host Unreachable
+[1489981278.164081] From 10.82.31.73 icmp_seq=1037 Destination Host Unreachable
+[1489981278.164099] From 10.82.31.73 icmp_seq=1038 Destination Host Unreachable
+
+--- 10.82.31.73 ping statistics ---
+1200 packets transmitted, 536 received, +162 errors, 55% packet loss, time 1203031ms
+rtt min/avg/max/mdev = 1.227/241.272/8334.200/896.327 ms, pipe 9

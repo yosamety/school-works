@@ -1,0 +1,1201 @@
+TIME, SSID, BSSID, SIGNAL, ACTIVE
+13:36:57.873476  Not connected. 
+
+13:36:58.874683  Not connected. 
+
+13:36:59.874825  Not connected. 
+
+13:37:00.874821  Not connected. 
+
+13:37:01.874828  Not connected. 
+
+13:37:02.874860  Not connected. 
+
+13:37:03.874792  Not connected. 
+
+13:37:04.874811  Not connected. 
+
+13:37:05.874791  Not connected. 
+
+13:37:06.873973  Not connected. 
+
+13:37:07.874849  Not connected. 
+
+13:37:08.874801  Not connected. 
+
+13:37:09.874842  Not connected. 
+
+13:37:10.874725  Not connected. 
+
+13:37:11.874810  Not connected. 
+
+13:37:12.874826  Not connected. 
+
+13:37:13.874818  Not connected. 
+
+13:37:14.874807  Not connected. 
+
+13:37:15.874855  Not connected. 
+
+13:37:16.874835  Not connected. 
+
+13:37:17.874829  Not connected. 
+
+13:37:18.874808  Not connected. 
+
+13:37:19.874812  Not connected. 
+
+13:37:20.874832  Not connected. 
+
+13:37:21.874745  Not connected. 
+
+13:37:22.874839  Not connected. 
+
+13:37:23.874796  Not connected. 
+
+13:37:24.874856  Not connected. 
+
+13:37:25.874810  Not connected. 
+
+13:37:26.874838  Not connected. 
+
+13:37:27.874812  Not connected. 
+
+13:37:28.874832  Not connected. 
+
+13:37:29.874692  Not connected. 
+
+13:37:30.874831  Not connected. 
+
+13:37:31.874803  Not connected. 
+
+13:37:32.874808  Not connected. 
+
+13:37:33.874816  Not connected. 
+
+13:37:34.874815  Not connected. 
+
+13:37:35.874826  Not connected. 
+
+13:37:36.874643  Not connected. 
+
+13:37:37.874812  Not connected. 
+
+13:37:38.874797  Not connected. 
+
+13:37:39.874638  Not connected. 
+
+13:37:40.874807  Not connected. 
+
+13:37:41.874862  Not connected. 
+
+13:37:42.874677  Not connected. 
+
+13:37:43.874998  Not connected. 
+
+13:37:44.874808  Not connected. 
+
+13:37:45.874814  Not connected. 
+
+13:37:46.874821  Not connected. 
+
+13:37:47.874820  Not connected. 
+
+13:37:48.874690  Not connected. 
+
+13:37:49.874673  Not connected. 
+
+13:37:50.874697  Not connected. 
+
+13:37:51.874691  Not connected. 
+
+13:37:52.874664  Not connected. 
+
+13:37:53.874819  Not connected. 
+
+13:37:54.874841  Not connected. 
+
+13:37:55.874814  Not connected. 
+
+13:37:56.874804  Not connected. 
+
+13:37:57.874711  Not connected. 
+
+13:37:58.874828  Not connected. 
+
+13:37:59.874804  Not connected. 
+
+13:38:00.874828  Not connected. 
+
+13:38:01.874800  Not connected. 
+
+13:38:02.874812  Not connected. 
+
+13:38:03.874864  Not connected. 
+
+13:38:04.874820  Not connected. 
+
+13:38:05.874714  Not connected. 
+
+13:38:06.874726  Not connected. 
+
+13:38:07.874799  Not connected. 
+
+13:38:08.874675  Not connected. 
+
+13:38:09.874838  Not connected. 
+
+13:38:10.874690  Not connected. 
+
+13:38:11.874721  Not connected. 
+
+13:38:12.874823  Not connected. 
+
+13:38:13.874624  Not connected. 
+
+13:38:14.874621  Not connected. 
+
+13:38:15.874643  Not connected. 
+
+13:38:16.874814  Not connected. 
+
+13:38:17.874714  Not connected. 
+
+13:38:18.874812  Not connected. 
+
+13:38:19.874931  Not connected. 
+
+13:38:20.874852  Not connected. 
+
+13:38:21.874811  Not connected. 
+
+13:38:22.874822  Not connected. 
+
+13:38:23.874832  Not connected. 
+
+13:38:24.874827  Not connected. 
+
+13:38:25.874811  Not connected. 
+
+13:38:26.874833  Not connected. 
+
+13:38:27.874814  Not connected. 
+
+13:38:28.874812  Not connected. 
+
+13:38:29.874652  Not connected. 
+
+13:38:30.874815  Not connected. 
+
+13:38:31.874817  Not connected. 
+
+13:38:32.874838  Not connected. 
+
+13:38:33.874705  Not connected. 
+
+13:38:34.874798  Not connected. 
+
+13:38:35.874814  Not connected. 
+
+13:38:36.874836  Not connected. 
+
+13:38:37.874818  Not connected. 
+
+13:38:38.874786  Not connected. 
+
+13:38:39.874837  Not connected. 
+
+13:38:40.874796  Not connected. 
+
+13:38:41.874845  Not connected. 
+
+13:38:42.874796  Not connected. 
+
+13:38:43.874866  Not connected. 
+
+13:38:44.874799  Not connected. 
+
+13:38:45.874815  Not connected. 
+
+13:38:46.874852  Not connected. 
+
+13:38:47.874815  Not connected. 
+
+13:38:48.874834  Not connected. 
+
+13:38:49.874834  Not connected. 
+
+13:38:50.874880  Not connected. 
+
+13:38:51.874804  Not connected. 
+
+13:38:52.874646  Not connected. 
+
+13:38:53.874692  Not connected. 
+
+13:38:54.874815  Not connected. 
+
+13:38:55.874684  Not connected. 
+
+13:38:56.874690  Not connected. 
+
+13:38:57.874674  Not connected. 
+
+13:38:58.874820  Not connected. 
+
+13:38:59.874810  Not connected. 
+
+13:39:00.874832  Not connected. 
+
+13:39:01.874809  Not connected. 
+
+13:39:02.874832  Not connected. 
+
+13:39:03.874682  Not connected. 
+
+13:39:04.874862  Not connected. 
+
+13:39:05.874697  Not connected. 
+
+13:39:06.874822  Not connected. 
+
+13:39:07.874929  Not connected. 
+
+13:39:08.874832  Not connected. 
+
+13:39:09.874628  Not connected. 
+
+13:39:10.874831  Not connected. 
+
+13:39:11.874852  Not connected. 
+
+13:39:12.874863  Not connected. 
+
+13:39:13.874833  Not connected. 
+
+13:39:14.874850  Not connected. 
+
+13:39:15.874840  Not connected. 
+
+13:39:16.874843  Not connected. 
+
+13:39:17.874836  Not connected. 
+
+13:39:18.874654  Not connected. 
+
+13:39:19.874750  Not connected. 
+
+13:39:20.874830  Not connected. 
+
+13:39:21.874666  Not connected. 
+
+13:39:22.874654  Not connected. 
+
+13:39:23.874817  Not connected. 
+
+13:39:24.874862  Not connected. 
+
+13:39:25.874801  Not connected. 
+
+13:39:26.874668  Not connected. 
+
+13:39:27.874804  Not connected. 
+
+13:39:28.874689  Not connected. 
+
+13:39:29.874812  Not connected. 
+
+13:39:30.874644  Not connected. 
+
+13:39:31.874640  Not connected. 
+
+13:39:32.874689  Not connected. 
+
+13:39:33.874701  Not connected. 
+
+13:39:34.874677  Not connected. 
+
+13:39:35.874846  Not connected. 
+
+13:39:36.874832  Not connected. 
+
+13:39:37.874845  Not connected. 
+
+13:39:38.874821  Not connected. 
+
+13:39:39.874820  Not connected. 
+
+13:39:40.874841  Not connected. 
+
+13:39:41.874789  Not connected. 
+
+13:39:42.874808  Not connected. 
+
+13:39:43.874686  Not connected. 
+
+13:39:44.874853  Not connected. 
+
+13:39:45.874848  Not connected. 
+
+13:39:46.874860  Not connected. 
+
+13:39:47.874838  Not connected. 
+
+13:39:48.874822  Not connected. 
+
+13:39:49.875090  Not connected. 
+
+13:39:50.874624  Not connected. 
+
+13:39:51.874684  Not connected. 
+
+13:39:52.874657  Not connected. 
+
+13:39:53.874659  Not connected. 
+
+13:39:54.874841  Not connected. 
+
+13:39:55.874669  Not connected. 
+
+13:39:56.874867  Not connected. 
+
+13:39:57.874823  Not connected. 
+
+13:39:58.874828  Not connected. 
+
+13:39:59.874675  Not connected. 
+
+13:40:00.874603  Not connected. 
+
+13:40:01.874810  Not connected. 
+
+13:40:02.874845  Not connected. 
+
+13:40:03.874829  Not connected. 
+
+13:40:04.874829  Not connected. 
+
+13:40:05.874665  Not connected. 
+
+13:40:06.874862  Not connected. 
+
+13:40:07.874838  Not connected. 
+
+13:40:08.874829  Not connected. 
+
+13:40:09.874651  Not connected. 
+
+13:40:10.874835  Not connected. 
+
+13:40:11.874821  Not connected. 
+
+13:40:12.874824  Not connected. 
+
+13:40:13.874807  Not connected. 
+
+13:40:14.874679  Not connected. 
+
+13:40:15.874638  Not connected. 
+
+13:40:16.874703  Not connected. 
+
+13:40:17.874676  Not connected. 
+
+13:40:18.874784  Not connected. 
+
+13:40:19.874833  Not connected. 
+
+13:40:20.874835  Not connected. 
+
+13:40:21.874833  Not connected. 
+
+13:40:22.874799  Not connected. 
+
+13:40:23.874825  Not connected. 
+
+13:40:24.874843  Not connected. 
+
+13:40:25.874818  Not connected. 
+
+13:40:26.874663  Not connected. 
+
+13:40:27.874687  Not connected. 
+
+13:40:28.874849  Not connected. 
+
+13:40:29.874832  Not connected. 
+
+13:40:30.874842  Not connected. 
+
+13:40:31.874699  Not connected. 
+
+13:40:32.874612  Not connected. 
+
+13:40:33.874685  Not connected. 
+
+13:40:34.874834  Not connected. 
+
+13:40:35.874691  Not connected. 
+
+13:40:36.874822  Not connected. 
+
+13:40:37.874818  Not connected. 
+
+13:40:38.874649  Not connected. 
+
+13:40:39.874824  Not connected. 
+
+13:40:40.874757  Not connected. 
+
+13:40:41.874812  Not connected. 
+
+13:40:42.874704  Not connected. 
+
+13:40:43.874829  Not connected. 
+
+13:40:44.874692  Not connected. 
+
+13:40:45.874810  Not connected. 
+
+13:40:46.874671  Not connected. 
+
+13:40:47.874811  Not connected. 
+
+13:40:48.874832  Not connected. 
+
+13:40:49.874838  Not connected. 
+
+13:40:50.874865  Not connected. 
+
+13:40:51.874820  Not connected. 
+
+13:40:52.874893  Not connected. 
+
+13:40:53.874827  Not connected. 
+
+13:40:54.874685  Not connected. 
+
+13:40:55.875063  Not connected. 
+
+13:40:56.874841  Not connected. 
+
+13:40:57.874735  Not connected. 
+
+13:40:58.874817  Not connected. 
+
+13:40:59.874812  Not connected. 
+
+13:41:00.875009  Not connected. 
+
+13:41:01.874814  Not connected. 
+
+13:41:02.874958  Not connected. 
+
+13:41:03.874840  Not connected. 
+
+13:41:04.874782  Not connected. 
+
+13:41:05.874655  Not connected. 
+
+13:41:06.874698  Not connected. 
+
+13:41:07.874692  Not connected. 
+
+13:41:08.874663  Not connected. 
+
+13:41:09.874818  Not connected. 
+
+13:41:10.874808  Not connected. 
+
+13:41:11.874830  Not connected. 
+
+13:41:12.874849  Not connected. 
+
+13:41:13.874851  Not connected. 
+
+13:41:14.874858  Not connected. 
+
+13:41:15.874718  Not connected. 
+
+13:41:16.874822  Not connected. 
+
+13:41:17.874816  Not connected. 
+
+13:41:18.874634  Not connected. 
+
+13:41:19.874643  Not connected. 
+
+13:41:20.874656  Not connected. 
+
+13:41:21.874649  Not connected. 
+
+13:41:22.874848  Not connected. 
+
+13:41:23.874735  Not connected. 
+
+13:41:24.874850  Not connected. 
+
+13:41:25.874824  Not connected. 
+
+13:41:26.875005  Not connected. 
+
+13:41:27.874816  Not connected. 
+
+13:41:28.874840  Not connected. 
+
+13:41:29.874824  Not connected. 
+
+13:41:30.874825  Not connected. 
+
+13:41:31.874802  Not connected. 
+
+13:41:32.875012  Not connected. 
+
+13:41:33.874836  Not connected. 
+
+13:41:34.874832  Not connected. 
+
+13:41:35.874836  Not connected. 
+
+13:41:36.874883  Not connected. 
+
+13:41:37.874824  Not connected. 
+
+13:41:38.874826  Not connected. 
+
+13:41:39.874814  Not connected. 
+
+13:41:40.874844  Not connected. 
+
+13:41:41.874828  Not connected. 
+
+13:41:42.875012  Not connected. 
+
+13:41:43.874993  Not connected. 
+
+13:41:44.875009  Not connected. 
+
+13:41:45.874997  Not connected. 
+
+13:41:46.874830  Not connected. 
+
+13:41:47.874855  Not connected. 
+
+13:41:48.874826  Not connected. 
+
+13:41:49.874674  Not connected. 
+
+13:41:50.874660  Not connected. 
+
+13:41:51.874662  Not connected. 
+
+13:41:52.874710  Not connected. 
+
+13:41:53.874996  Not connected. 
+
+13:41:54.874842  Not connected. 
+
+13:41:55.874826  Not connected. 
+
+13:41:56.874848  Not connected. 
+
+13:41:57.874701  Not connected. 
+
+13:41:58.874859  Not connected. 
+
+13:41:59.874821  Not connected. 
+
+13:42:00.874866  Not connected. 
+
+13:42:01.874818  Not connected. 
+
+13:42:02.874865  Not connected. 
+
+13:42:03.874795  Not connected. 
+
+13:42:04.874849  Not connected. 
+
+13:42:05.874815  Not connected. 
+
+13:42:06.874832  Not connected. 
+
+13:42:07.874809  Not connected. 
+
+13:42:08.874980  Not connected. 
+
+13:42:09.874638  Not connected. 
+
+13:42:10.874845  Not connected. 
+
+13:42:11.874865  Not connected. 
+
+13:42:12.874800  Not connected. 
+
+13:42:13.874685  Not connected. 
+
+13:42:14.874843  Not connected. 
+
+13:42:15.874832  Not connected. 
+
+13:42:16.874638  Not connected. 
+
+13:42:17.874839  Not connected. 
+
+13:42:18.874860  Not connected. 
+
+13:42:19.874814  Not connected. 
+
+13:42:20.874826  Not connected. 
+
+13:42:21.874803  Not connected. 
+
+13:42:22.874864  Not connected. 
+
+13:42:23.874868  Not connected. 
+
+13:42:24.874846  Not connected. 
+
+13:42:25.874802  Not connected. 
+
+13:42:26.874822  Not connected. 
+
+13:42:27.874664  Not connected. 
+
+13:42:28.874864  Not connected. 
+
+13:42:29.874832  Not connected. 
+
+13:42:30.874851  Not connected. 
+
+13:42:31.874815  Not connected. 
+
+13:42:32.874875  Not connected. 
+
+13:42:33.874813  Not connected. 
+
+13:42:34.874839  Not connected. 
+
+13:42:35.874836  Not connected. 
+
+13:42:36.874649  Not connected. 
+
+13:42:37.874802  Not connected. 
+
+13:42:38.874819  Not connected. 
+
+13:42:39.874825  Not connected. 
+
+13:42:40.874813  Not connected. 
+
+13:42:41.874807  Not connected. 
+
+13:42:42.874810  Not connected. 
+
+13:42:43.874827  Not connected. 
+
+13:42:44.874872  Not connected. 
+
+13:42:45.874825  Not connected. 
+
+13:42:46.874840  Not connected. 
+
+13:42:47.874825  Not connected. 
+
+13:42:48.874836  Not connected. 
+
+13:42:49.874808  Not connected. 
+
+13:42:50.874633  Not connected. 
+
+13:42:51.874811  Not connected. 
+
+13:42:52.874666  Not connected. 
+
+13:42:53.874797  Not connected. 
+
+13:42:54.874701  Not connected. 
+
+13:42:55.874799  Not connected. 
+
+13:42:56.874813  Not connected. 
+
+13:42:57.874953  Not connected. 
+
+13:42:58.874823  Not connected. 
+
+13:42:59.874842  Not connected. 
+
+13:43:00.874853  Not connected. 
+
+13:43:01.874837  Not connected. 
+
+13:43:02.874817  Not connected. 
+
+13:43:03.874833  Not connected. 
+
+13:43:04.874823  Not connected. 
+
+13:43:05.874815  Not connected. 
+
+13:43:06.874895  Not connected. 
+
+13:43:07.874729  Not connected. 
+
+13:43:08.874849  Not connected. 
+
+13:43:09.874847  Not connected. 
+
+13:43:10.874837  Not connected. 
+
+13:43:11.874977  Not connected. 
+
+13:43:12.874820  Not connected. 
+
+13:43:13.874822  Not connected. 
+
+13:43:14.875038  Not connected. 
+
+13:43:15.874798  Not connected. 
+
+13:43:16.874705  Not connected. 
+
+13:43:17.874854  Not connected. 
+
+13:43:18.874839  Not connected. 
+
+13:43:19.874843  Not connected. 
+
+13:43:20.874811  Not connected. 
+
+13:43:21.874834  Not connected. 
+
+13:43:22.874722  Not connected. 
+
+13:43:23.874711  Not connected. 
+
+13:43:24.874837  Not connected. 
+
+13:43:25.874823  Not connected. 
+
+13:43:26.874794  Not connected. 
+
+13:43:27.874843  Not connected. 
+
+13:43:28.874849  Not connected. 
+
+13:43:29.874838  Not connected. 
+
+13:43:30.874822  Not connected. 
+
+13:43:31.874695  Not connected. 
+
+13:43:32.874822  Not connected. 
+
+13:43:33.874818  Not connected. 
+
+13:43:34.874799  Not connected. 
+
+13:43:35.874670  Not connected. 
+
+13:43:36.874814  Not connected. 
+
+13:43:37.874870  Not connected. 
+
+13:43:38.874827  Not connected. 
+
+13:43:39.874822  Not connected. 
+
+13:43:40.874817  Not connected. 
+
+13:43:41.874704  Not connected. 
+
+13:43:42.874697  Not connected. 
+
+13:43:43.874871  Not connected. 
+
+13:43:44.874989  Not connected. 
+
+13:43:45.874831  Not connected. 
+
+13:43:46.874974  Not connected. 
+
+13:43:47.874739  Not connected. 
+
+13:43:48.874607  Not connected. 
+
+13:43:49.874799  Not connected. 
+
+13:43:50.874848  Not connected. 
+
+13:43:51.874783  Not connected. 
+
+13:43:52.874647  Not connected. 
+
+13:43:53.874575  Not connected. 
+
+13:43:54.874656  Not connected. 
+
+13:43:55.874652  Not connected. 
+
+13:43:56.874817  Not connected. 
+
+13:43:57.874823  Not connected. 
+
+13:43:58.874764  Not connected. 
+
+13:43:59.874683  Not connected. 
+
+13:44:00.874704  Not connected. 
+
+13:44:01.874811  Not connected. 
+
+13:44:02.874999  Not connected. 
+
+13:44:03.874853  Not connected. 
+
+13:44:04.874831  Not connected. 
+
+13:44:05.874797  Not connected. 
+
+13:44:06.874822  Not connected. 
+
+13:44:07.874814  Not connected. 
+
+13:44:08.874710  Not connected. 
+
+13:44:09.874797  Not connected. 
+
+13:44:10.874655  Not connected. 
+
+13:44:11.874801  Not connected. 
+
+13:44:12.874847  Not connected. 
+
+13:44:13.874646  Not connected. 
+
+13:44:14.874877  Not connected. 
+
+13:44:15.874658  Not connected. 
+
+13:44:16.874839  Not connected. 
+
+13:44:17.874670  Not connected. 
+
+13:44:18.874805  Not connected. 
+
+13:44:19.874849  Not connected. 
+
+13:44:20.874801  Not connected. 
+
+13:44:21.874666  Not connected. 
+
+13:44:22.874800  Not connected. 
+
+13:44:23.874816  Not connected. 
+
+13:44:24.874820  Not connected. 
+
+13:44:25.874821  Not connected. 
+
+13:44:26.874825  Not connected. 
+
+13:44:27.874676  Not connected. 
+
+13:44:28.874800  Not connected. 
+
+13:44:29.874820  Not connected. 
+
+13:44:30.874713  Not connected. 
+
+13:44:31.874704  Not connected. 
+
+13:44:32.874791  Not connected. 
+
+13:44:33.874680  Not connected. 
+
+13:44:34.874904  Not connected. 
+
+13:44:35.874790  Not connected. 
+
+13:44:36.874703  Not connected. 
+
+13:44:37.874656  Not connected. 
+
+13:44:38.874658  Not connected. 
+
+13:44:39.874820  Not connected. 
+
+13:44:40.874671  Not connected. 
+
+13:44:41.874813  Not connected. 
+
+13:44:42.874657  Not connected. 
+
+13:44:43.874816  Not connected. 
+
+13:44:44.874699  Not connected. 
+
+13:44:45.874814  Not connected. 
+
+13:44:46.874704  Not connected. 
+
+13:44:47.874834  Not connected. 
+
+13:44:48.874672  Not connected. 
+
+13:44:49.874833  Not connected. 
+
+13:44:50.874820  Not connected. 
+
+13:44:51.874648  Not connected. 
+
+13:44:52.874703  Not connected. 
+
+13:44:53.874814  Not connected. 
+
+13:44:54.874678  Not connected. 
+
+13:44:55.874677  Not connected. 
+
+13:44:56.874824  Not connected. 
+
+13:44:57.874831  Not connected. 
+
+13:44:58.874822  Not connected. 
+
+13:44:59.874860  Not connected. 
+
+13:45:00.874817  Not connected. 
+
+13:45:01.874982  Not connected. 
+
+13:45:02.874793  Not connected. 
+
+13:45:03.874823  Not connected. 
+
+13:45:04.874712  Not connected. 
+
+13:45:05.874716  Not connected. 
+
+13:45:06.874689  Not connected. 
+
+13:45:07.874949  Not connected. 
+
+13:45:08.874822  Not connected. 
+
+13:45:09.874641  Not connected. 
+
+13:45:10.874799  Not connected. 
+
+13:45:11.874832  Not connected. 
+
+13:45:12.874661  Not connected. 
+
+13:45:13.874727  Not connected. 
+
+13:45:14.874668  Not connected. 
+
+13:45:15.874674  Not connected. 
+
+13:45:16.874841  Not connected. 
+
+13:45:17.874795  Not connected. 
+
+13:45:18.874674  Not connected. 
+
+13:45:19.874836  Not connected. 
+
+13:45:20.874815  Not connected. 
+
+13:45:21.874977  Not connected. 
+
+13:45:22.874852  Not connected. 
+
+13:45:23.874819  Not connected. 
+
+13:45:24.874802  Not connected. 
+
+13:45:25.874985  Not connected. 
+
+13:45:26.874824  Not connected. 
+
+13:45:27.874815  Not connected. 
+
+13:45:28.874803  Not connected. 
+
+13:45:29.874700  Not connected. 
+
+13:45:30.874807  Not connected. 
+
+13:45:31.874634  Not connected. 
+
+13:45:32.874682  Not connected. 
+
+13:45:33.874713  Not connected. 
+
+13:45:34.874844  Not connected. 
+
+13:45:35.874835  Not connected. 
+
+13:45:36.874675  Not connected. 
+
+13:45:37.874816  Not connected. 
+
+13:45:38.874841  Not connected. 
+
+13:45:39.874669  Not connected. 
+
+13:45:40.874808  Not connected. 
+
+13:45:41.874820  Not connected. 
+
+13:45:42.874795  Not connected. 
+
+13:45:43.874969  Not connected. 
+
+13:45:44.874843  Not connected. 
+
+13:45:45.874798  Not connected. 
+
+13:45:46.874823  Not connected. 
+
+13:45:47.874801  Not connected. 
+
+13:45:48.874673  Not connected. 
+
+13:45:49.874673  Not connected. 
+
+13:45:50.874692  Not connected. 
+
+13:45:51.874622  Not connected. 
+
+13:45:52.874875  Not connected. 
+
+13:45:53.874674  Not connected. 
+
+13:45:54.874801  Not connected. 
+
+13:45:55.874665  Not connected. 
+
+13:45:56.874802  Not connected. 
+
+13:45:57.874834  Not connected. 
+
+13:45:58.874647  Not connected. 
+
+13:45:59.874795  Not connected. 
+
+13:46:00.874704  Not connected. 
+
+13:46:01.874554  Not connected. 
+
+13:46:02.874671  Not connected. 
+
+13:46:03.874818  Not connected. 
+
+13:46:04.874815  Not connected. 
+
+13:46:05.874801  Not connected. 
+
+13:46:06.874809  Not connected. 
+
+13:46:07.874830  Not connected. 
+
+13:46:08.874698  Not connected. 
+
+13:46:09.874821  Not connected. 
+
+13:46:10.874716  Not connected. 
+
+13:46:11.874672  Not connected. 
+
+13:46:12.874735  Not connected. 
+
+13:46:13.874807  Not connected. 
+
+13:46:14.874701  Not connected. 
+
+13:46:15.874867  Not connected. 
+
+13:46:16.874801  Not connected. 
+
+13:46:17.874647  Not connected. 
+
+13:46:18.874655  Not connected. 
+
+13:46:19.874669  Not connected. 
+
+13:46:20.874736  Not connected. 
+
+13:46:21.874697  Not connected. 
+
+13:46:22.874847  Not connected. 
+
+13:46:23.874835  Not connected. 
+
+13:46:24.874695  Not connected. 
+
+13:46:25.874844  Not connected. 
+
+13:46:26.874835  Not connected. 
+
+13:46:27.874689  Not connected. 
+
+13:46:28.874661  Not connected. 
+
+13:46:29.874672  Not connected. 
+
+13:46:30.874796  Not connected. 
+
+13:46:31.874598  Not connected. 
+
+13:46:32.874645  Not connected. 
+
+13:46:33.874664  Not connected. 
+
+13:46:34.874838  Not connected. 
+
+13:46:35.874704  Not connected. 
+
+13:46:36.874663  Not connected. 
+
+13:46:37.874639  Not connected. 
+
+13:46:38.874906  Not connected. 
+
+13:46:39.874667  Not connected. 
+
+13:46:40.874813  Not connected. 
+
+13:46:41.874980  Not connected. 
+
+13:46:42.874853  Not connected. 
+
+13:46:43.874851  Not connected. 
+
+13:46:44.874862  Not connected. 
+
+13:46:45.874713  Not connected. 
+
+13:46:46.874635  Not connected. 
+
+13:46:47.874806  Not connected. 
+
+13:46:48.874673  Not connected. 
+
+13:46:49.874804  Not connected. 
+
+13:46:50.874828  Not connected. 
+
+13:46:51.874652  Not connected. 
+
+13:46:52.874805  Not connected. 
+
+13:46:53.874660  Not connected. 
+
+13:46:54.874699  Not connected. 
+
+13:46:55.874614  Not connected. 
+
+13:46:56.874641  Not connected. 
+
