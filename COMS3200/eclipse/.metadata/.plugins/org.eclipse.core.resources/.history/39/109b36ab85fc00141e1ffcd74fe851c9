@@ -1,0 +1,113 @@
+package ass2;
+
+import java.net.*;
+import java.util.*;
+import java.io.*;
+
+public class Content {
+	@SuppressWarnings("resource")
+	public static void main(String[] args) throws IOException {
+
+		int contentPort = 0;
+		int namePort = 0;
+		// ServerSocket serverSocket
+		DatagramSocket contentSocket = null;
+		DatagramSocket clientSocket = new DatagramSocket();
+
+		// check number of arguments
+		if (args.length != 3) {
+			System.err.print("Invalid command line arguments for Content\n");
+			System.exit(1);
+		}
+		// check arguments type
+		try {
+			contentPort = Integer.parseInt(args[0]);
+			namePort = Integer.parseInt(args[2]);
+		} catch (NumberFormatException e) {
+			System.err.println("Content unable to listen on given port\n");
+			System.exit(1);
+		}
+
+		// try to listen on contentPort
+		try {
+			contentSocket = new DatagramSocket(contentPort);
+			System.err.print("Content waiting for incoming connections\n");
+		} catch (IOException e) {
+			System.err.print("Content unable to listen on given port\n");
+			e.printStackTrace();
+		}
+		// set server's ip address
+		InetAddress IPAddress = InetAddress.getByName("127.0.0.1");
+		byte[] sendData = new byte[1024];
+		byte[] receiveData = new byte[1024];
+
+
+		// send register request to name server
+		String msg = "r Content " + contentPort + " 127.0.0.1";
+		sendData = msg.getBytes();
+		// send the message to server
+		DatagramPacket sendPacket = new DatagramPacket(sendData,
+				sendData.length, IPAddress, namePort);
+		clientSocket.send(sendPacket);
+		// receive reply message from server
+		DatagramPacket receivePacket = new DatagramPacket(receiveData,
+				receiveData.length);
+		clientSocket.receive(receivePacket);
+		
+				
+		String reply = new String(receivePacket.getData());
+		
+		reply = reply.substring(0, receivePacket.getLength());
+		
+
+		if (!reply.equals("registered")) {
+			
+			System.err.print("Content registration with NameServer failed\n");
+			System.exit(1);
+		}
+
+		
+		// read content file
+		Map<String, String> contentData = new HashMap<String, String>();
+		// Open the file
+		FileInputStream fstream = new FileInputStream(args[1]);
+		BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
+
+		String strLine;
+
+		// Read File Line By Line
+		while ((strLine = br.readLine()) != null) {
+			String[] splitted = strLine.split("\\s+");
+			contentData.put(splitted[0], splitted[1]);
+		}
+
+		// Close the input stream
+		br.close();
+
+		// start listening
+		while (true) {
+
+			byte[] sendData2 = new byte[1024];
+			byte[] receiveData2 = new byte[1024];
+			DatagramPacket receivePacket2 = new DatagramPacket(receiveData2,
+					receiveData2.length);
+			contentSocket.receive(receivePacket2);
+
+			String msg2 = new String(receivePacket2.getData());
+			msg2 = msg2.substring(0, receivePacket2.getLength());
+			String contentReply = contentData.get(msg2);
+			
+
+			// get the port of the client
+			InetAddress IPAddress2 = receivePacket2.getAddress();
+			int port = receivePacket2.getPort();
+
+			sendData2 = contentReply.getBytes();
+			// send the message back to the client
+			DatagramPacket sendPacket2 = new DatagramPacket(sendData2,
+					sendData2.length, IPAddress, port);
+			contentSocket.send(sendPacket2);
+		}
+
+	}
+}

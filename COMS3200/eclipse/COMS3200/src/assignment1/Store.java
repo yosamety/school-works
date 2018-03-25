@@ -1,0 +1,221 @@
+package ass1;
+
+import java.net.*;
+import java.util.*;
+import java.io.*;
+
+public class Store {
+
+	@SuppressWarnings("resource")
+	public static void main(String[] args) throws IOException {
+
+		int stockPort = 0;
+		int namePort = 0;
+		ServerSocket serverSocket = null;
+
+		// check number of arguments
+		if (args.length != 3) {
+			System.err.print("Invalid command line arguments for store\n");
+			System.exit(1);
+		}
+		// check arguments type
+		try {
+			stockPort = Integer.parseInt(args[0]);
+			namePort = Integer.parseInt(args[2]);
+		} catch (NumberFormatException e) {
+			System.err.println("Invalid command line arguments for Store\n");
+			System.exit(1);
+		}
+
+		// open socket to contact name server
+		Socket nameSocket = null;
+		PrintWriter outName = null;
+		BufferedReader inName = null;
+
+		try {
+			// Connect to the process listening on namePort on this host
+			// (localhost)
+			nameSocket = new Socket("127.0.0.1", namePort);
+			outName = new PrintWriter(nameSocket.getOutputStream(), true);
+			// "true" means flush at end of line
+			inName = new BufferedReader(new InputStreamReader(
+					nameSocket.getInputStream()));
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+		// send register request to name server
+		outName.println("r Store " + stockPort + " 127.0.0.1");
+		// Wait for a reply
+		String reply = inName.readLine();
+		if (reply != "registered") {
+			System.err.print("Registration with NameServer failed\n");
+			System.exit(1);
+		}
+		// send look up for bank and content
+		// send lookup request to name server for bank
+		outName.println("l Bank");
+		// Wait for a reply
+		String reply2 = inName.readLine();
+		List<String> Bank = new ArrayList<String>();
+		if (reply != "Error: Process has not registered with the Name Server\n") {
+			Bank = Arrays.asList(reply2.substring(1, reply2.length() - 1)
+					.split(", "));
+
+		} else {
+			System.err.print("Bank has not registered\n");
+			System.exit(1);
+		}
+		// send lookup request to name server for content
+		outName.println("l Content");
+		// Wait for a reply
+		String reply3 = inName.readLine();
+		List<String> Content = new ArrayList<String>();
+		if (reply != "Error: Process has not registered with the Name Server\n") {
+			Content = Arrays.asList(reply3.substring(1, reply3.length() - 1)
+					.split(", "));
+		} else {
+			System.err.print("Content has not registered\n");
+			System.exit(1);
+		}
+		// done with name server
+		outName.close();
+		inName.close();
+		nameSocket.close();
+
+		// read the stock-file
+		// Open the file
+		FileInputStream fstream = new FileInputStream(args[1]);
+		BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
+
+		String strLine;
+		StringBuilder stocks = new StringBuilder();
+		String[] stock = new String[10];
+		int countStock = 0;
+		// Read File Line By Line
+		while ((strLine = br.readLine()) != null) {
+			stock[countStock] = strLine;
+			stocks.append(strLine);
+			stocks.append("\n");
+			countStock += 1;
+		}
+
+		// Close the input stream
+		br.close();
+
+		// open socket to contact bank server
+		Socket bankSocket = null;
+		PrintWriter outBank = null;
+		BufferedReader inBank = null;
+
+		try {
+			// Connect to the process listening on bankPort on this host
+			// (localhost)
+			bankSocket = new Socket(Bank.get(1), Integer.parseInt(Bank.get(0)));
+			outBank = new PrintWriter(bankSocket.getOutputStream(), true);
+			// "true" means flush at end of line
+			inBank = new BufferedReader(new InputStreamReader(
+					bankSocket.getInputStream()));
+		} catch (Exception e) {
+			System.err.print("Unable to connect with Bank\n");
+			e.printStackTrace();
+			System.exit(1);
+		}
+
+		// open socket to contact content server
+		Socket contentSocket = null;
+		PrintWriter outContent = null;
+		BufferedReader inContent = null;
+
+		try {
+			// Connect to the process listening on bankPort on this host
+			// (localhost)
+			contentSocket = new Socket(Content.get(1), Integer.parseInt(Content
+					.get(0)));
+			outContent = new PrintWriter(contentSocket.getOutputStream(), true);
+			// "true" means flush at end of line
+			inContent = new BufferedReader(new InputStreamReader(
+					contentSocket.getInputStream()));
+		} catch (Exception e) {
+			System.err.print("Unable to connect with Content\n");
+			e.printStackTrace();
+			System.exit(1);
+		}
+
+		// try to listen on portNum
+		try {
+			serverSocket = new ServerSocket(stockPort);
+
+		} catch (IOException e) {
+			System.err.print("Store unable to listen on given port\n");
+			e.printStackTrace();
+		}
+		System.err.println("Store waiting for incoming connections\n");
+
+		Socket connSocket = null;
+		while (true) {
+			try {
+				// block, waiting for a conn. request
+				connSocket = serverSocket.accept();
+				// At this point, we have a connection
+
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			// Now have a socket to use for communication
+			// Create a PrintWriter and BufferedReader for interaction with our
+			// stream "true" means we flush the stream on newline
+			PrintWriter outClient = new PrintWriter(
+					connSocket.getOutputStream(), true);
+			BufferedReader inClient = new BufferedReader(new InputStreamReader(
+					connSocket.getInputStream()));
+			String line;
+			// Read a line from the stream - until the stream closes
+			while ((line = inClient.readLine()) != null) {
+				if (line == "0") {
+					outClient.print(stocks.toString());
+				} else {
+					String[] splitted = line.split("\\s+");
+					int requestItem = Integer.parseInt(splitted[0]) - 1;
+					String[] itemDets = stock[requestItem].split("\\s+");
+					String itemID = itemDets[0];
+					String itemPrice = itemDets[1];
+					// credit card number is splitted[1]
+					outBank.println(itemID + " " + itemPrice + " "
+							+ splitted[1]);
+					// Wait for a reply
+					String bankReply = inBank.readLine();
+					if (bankReply == "0") {
+						outClient.println(itemID + " transaction aborted");
+						break;
+					} else if (bankReply == "1") {
+						outContent.println(itemID);
+						// Wait for a reply
+						String contentReply = inContent.readLine();
+						if (contentReply == null) {
+							outClient.println(itemID + " transaction aborted");
+							break;
+						}
+						String[] splittedContent = line.split("\\s+");
+						outClient.println(itemID + " ($" + itemPrice + ")" + "CONTENT " + splittedContent[1]);
+						break;
+					}
+				}
+
+			}
+
+			outContent.close();
+			inContent.close();
+
+			outBank.close();
+			inBank.close();
+
+			outClient.close();
+			inClient.close();
+
+			connSocket.close();
+		}
+
+	}
+
+}

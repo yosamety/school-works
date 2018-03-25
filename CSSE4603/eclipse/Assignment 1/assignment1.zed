@@ -1,0 +1,123 @@
+\documentclass{article}
+\usepackage{fullpage}
+\usepackage{oz}
+
+\begin{document}
+
+\title{\bf CSSE4603/7032 Models of Software Systems\\[1ex] 
+Assignment 1: Needham-Schroeder Protocol}
+\author{Samuel Teed 43211915} %% replace with your name and student number
+\date{\today}
+\maketitle
+
+Let the given set
+
+\begin{zed} 
+[Comm] 
+\end{zed}
+%
+denote the set of all possible communications. 
+
+Let $Message$ and $EncryptedMessage$ denote the sets of messages and encrypted messages, respectively.
+
+\begin{axdef}
+ Message, EncryptedMessage: \power Comm
+ \end{axdef}
+ 
+The
+actual way a message or encrypted message is internally structured is
+of no concern. Then a key can be thought of as an injective (one-to-one) function that takes
+an element of type communication and converts it into an encrypted
+message. Hence we can define the set of all keys by
+
+\begin{zed} 
+Key == Comm \inj  EncryptedMessage 
+\end{zed}
+
+Suppose the agents and server are identified via their names, and we
+have the given set
+
+\begin{zed} 
+[Name] 
+\end{zed}
+%
+of all possible names.
+
+The following functions allow us to extract information from messages. For a request message sent to a server, $this$ returns the name of the agent which sent the message, and $other$ returns the name of the agent with which it wants to communicate. For a message with a key, $key$ returns the key, and $other$ returns the agent that can be communicated with using that key.
+
+\begin{axdef}
+this: Message \pfun Name\\
+key: Message \pfun Key\\
+other:Message \fun Name
+\where 
+\dom this \cap \dom key = \emptyset\\
+\dom this \cup \dom key = Message
+\end{axdef}
+%
+The predicate states that no message is both a request message (in the domain of $this$) and a key message (in the domain of $key$). Also, all messages are either request or key messages.
+
+An agent is modelled as having a name, the name of the server (which is not an agent), and a table whose entries map names of other agents and the server to the key used to communicate with them.
+
+\begin{schema}{Agent}
+name, serverName: Name\\
+table: Name \pfun Key
+\where
+name \neq serverName
+\end{schema}
+
+Initially, the table contains a single key for communication
+between the agent and the server.
+
+\begin{schema}{Init}
+Agent
+\where
+\dom table = \{serverName\}
+\end{schema}
+
+An agent may request a key for communication with another agent for which it does not already have a key. This
+request is sent to the server via a non-encrypted message containing the agent's name
+and that of the other agent.
+
+\begin{schema}{RequestKey}
+\Xi Agent\\
+request!:Message
+\where
+\exists receiver:Name@\\
+receiver \notin dom(table)\\
+this(request!) = name\\
+other(request!) = receiver
+\end{schema}
+
+An agent may receive a key via an encrypted message from the server
+and add it to its table. This message also contains the name of
+the other agent with which the agent can communicate using the
+received key. A second encrypted message is also received from the
+server, decrypted and its further encrypted content is sent to the other agent.
+
+\begin{schema}{ReceiveKeyFromServer}
+\Delta Agent\\
+messageReceived1?,messageReceived2?:EncryptedMessage\\
+decryptedMessage1,decryptedMessage2!:Message
+\where
+messageReceived1? = table(serverName)(decryptedMessage1)\\
+table' = table \cup \{(other(decryptedMessage1), key(decryptedMessage1))\}\\
+messageReceived2? = table(serverName)(decryptedMessage2!)
+\end{schema}
+
+An agent may receive a key via an encrypted message from another
+agent (but encrypted with the agent's key for communication with the
+server) and add it to its table. The message also contains the
+name of the other agent with which the agent can communicate using the
+received key.
+
+\begin{schema}{ReceiveKeyFromAgent}
+\Delta Agent\\
+messageReceived?:EncryptedMessage\\
+decryptedMessage:Message
+\where
+messageReceived? = table(serverName)(decryptedMessage)\\
+table' = table \cup \{(other(decryptedMessage), key(decryptedMessage))\}
+\end{schema}
+
+
+\end{document}

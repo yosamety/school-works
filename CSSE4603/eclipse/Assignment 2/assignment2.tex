@@ -1,0 +1,209 @@
+\documentclass{article}
+\usepackage{fullpage}
+\usepackage{oz}
+
+\begin{document}
+
+\title{\bf CSSE4603/7032 Models of Software Systems\\[1ex] 
+Assignment 2: Go Card}
+\author{Samuel Teed 43211915}
+\date{\today}
+\maketitle
+
+Let CLASS denote the type a card can be and PEAK indicated 
+whether the time is during peak or off peak. The peak variable can also be used
+by the system to aquire the discounted fare.
+
+\begin{zed}
+CLASS ::= Adult|Child|Concession|Senior\\
+%%MODE ::== Bus|Ferry|Train\\
+PEAK ::= On|Off
+\end{zed}
+
+
+Also let the set of locaitons a card can be used at be denoted by:
+\begin{zed} 
+[PLACE] 
+\end{zed}
+
+When cards are touched on or off the time of the event will be recorded. To know
+if the current journey segment is within an off peak time a set off all off peak
+times needs to exist within the system. 
+
+Therefore let:
+\begin{zed} 
+[TIME] 
+\end{zed}
+denote the set of all posible times, and let OFFPEAK be a subset of TIME.
+Therefore:
+\begin{zed}
+OFFPEAK \subseteq TIME
+\end{zed}
+In regards to this system time will natrual numbers which refer to minutes.
+
+
+A segment will be any two points where the card has been touched on at one point and then touched off at the other.
+
+\begin{schema}{Segment}
+startLocation: PLACE\\
+endLocation: PLACE\\
+startTime: \nat\\
+endTime: \nat\\
+date: \nat
+%%transport:MODE
+\end{schema}
+
+As an entire segment cannot be known until the card has been touched off the card will need to store the intial segment 
+data before it reached its destiniation. This data can be kept in a PartialSegment schema.
+
+\begin{schema}{PartialSegment}
+startLocation: PLACE\\
+startTime: \nat\\
+date: \nat
+%%transport:MODE
+\end{schema}
+
+An incentive allows cards who are involved in nine (9) journeys in a single week be given free travel for the remainder of 
+that week. A function which can take the date of a journeys last segment and find out what week the journey occured in
+while keep track of this.
+
+\begin{axdef}
+GetWeek: Segment \fun \nat
+\end{axdef}
+
+A Journey is a sequence of segments as well as the week which the journey
+took place.
+
+\begin{schema}{Journey}
+segments: \seq(Segment)\\
+week: \nat
+\where
+week = GetWeek(head(segments))
+\end{schema}
+
+The card stores what class the card is, all of its previous Journeys as well as
+its current balance and the current partial segment if the card is current in transit, other wise the currentSegemnt will be null.
+
+\begin{schema}{Card}
+class:CLASS\\
+balance:\num\\
+history:\seq(Journey)\\
+currentSegment:PartialSegment
+\end{schema}
+
+When the user enters a vehicle they touch on their Go Card. The function will take in where the card has been touched on,
+time and date. This initial segment data is stored in the cards currentSegment variable.
+
+\begin{schema}{Touch On}
+\Delta Card\\
+location?: PLACE\\
+time?: \nat\\
+date?: \nat
+%%transport?:MODE
+\where
+currentSegment = null\\
+\exists partialsegment:PartialSegment@\\
+\t1 partialsegment.startLocation = location?\\
+\t1 partialsegment.startTime = time?\\
+\t1 partialsegment.date = date?\\
+%%partialsegment.transport = transport?\\
+currentSegment' = partialsegment\\
+balance' = balance\\
+history' = history
+\end{schema}
+
+A function within the system will need to exist which can take start and end
+locations and then be able to evaluate how many zones were
+traveled through, therefore determining the cost of travelling between the
+locations.
+
+\begin{axdef}
+FareCalculation: PLACE \cross PLACE \fun \nat
+\end{axdef}
+
+If the card has been used in nine (9) or more journeys in the current week (Monday-Sunday), the card will not be charged
+for the current journey. To allow for this the IsFree function will return the numbers 1 or 0; 1 if
+the card has not been on nine journeys and 0 if it has. The returned number will be multipled by the amount being deducted from 
+the cards balance, so if the card is entitled to a free journey the charge will be zero, otherwise it is unaffected.
+
+\begin{axdef}
+IsFree: Card \fun \nat
+\where
+\forall card:Card@\\
+\exists thisWeek: \nat | thisWeek = Head(card.history).week \land\\
+\exists weeksJourneys: \seq (Journey) | weeksJourneys = card.history | card.history.week = thisWeek\\
+\t1 \#weekJourneys >= 9 \implies IsFree = 0 \\
+\t1 \#weekJourneys < 9 \implies IsFree = 1 
+\end{axdef}
+
+A function will need to check if the segment occured during an off-peak time; if the segment is within an off-peak time
+the cost will be discounted.
+
+\begin{axdef}
+IsPeak: Segment \fun PEAK
+\where
+\forall segment:Segment @\\
+segment.startTime \in OFFPEAK \land segment.endTime \in OFFPEAK \implies IsPeak
+= Off
+\end{axdef}
+
+When the user has completed a segment they will touch off their Go Card. At this time the Touch Off function will check if 
+the user has just copmleted a new journey or added to a current one. This is done by checking if the card has been used 3 
+times in the last 3 and a half hours. The cards balance is then deducted the
+amount of the segment multipled by any incentive discounts that might apply.
+
+\begin{schema}{Touch Off}
+\Delta Card\\
+location?: PLACE\\
+time?: \nat\\
+date?: \nat
+%%transport?:MODE
+\where
+\exists newSegment: Segment \land\\
+\exists newJourney, lastJourney:Journey@\\
+\t1 newSegment.startLocation = currentSegment.startLocation\land\\
+\t1 newSegment.endLocation = location?\land\\
+\t1 newSegment.startTime = currentSegment.startTime\land\\
+\t1 newSegment.endTime = time?\land\\
+\t1 newSegment.date = date?\land\\
+%%\t1 newSegment.transport = transport?\\
+\t1 lastJourney = Head(history)\\
+\t1 \#lastJourney.segments = 3 \lor \\
+\t1 Head(lastJourney.segments).endTime <= time?-210 \implies \\
+\t1 \t1 newJourney = \langle newSegment \rangle\\
+\t1 \t1 history' = newJourney \cat history \\
+\t1 \t1 balance' = balance - FareCalculation(newSegment.startLocation,
+newSegment.endLocation) \cross\\
+\t1 \t1 \t1 IsPeak(newSegment) \cross class \cross IsFree(history')\\ 
+\t1 \#lastJourney.segments < 3 \land \\
+\t1 Head(lastJourney.segments).endTime > time?-210 \implies \\
+\t1 \t1 \#lastJourney.segments = 1 \implies balance' = balance - \\
+\t1 \t1 \t1
+(FareCalculation(Head(lastJourney).startLocation,newSegment.endLocation)
+-\\
+\t1 \t1 \t1 
+FareCalculation(Head(lastJourney).startLocation,Head(lastJourney).endLocation))
+\cross\\
+\t1 \t1 \t1  IsPeak(newSegment) \cross class \cross IsFree(history)\\ 
+%%comment
+\t1 \t1 \#lastJourney.segments = 2 \implies balance' = balance - \\
+\t1 \t1 \t1
+(FareCalculation(Tail(lastJourney).startLocation,newSegment.endLocation)
+-\\
+\t1 \t1 \t1 
+FareCalculation(Tail(lastJourney).startLocation,Head(lastJourney).endLocation))
+\cross\\
+\t1 \t1 \t1  IsPeak(newSegment) \cross class \cross IsFree(history)\\ 
+\t1 \t1 Head(history') = newSegment \cat Head(history)\\
+currentSegment' = null	
+\end{schema}
+
+
+
+With the above specification, operations TouchOn and TouchOff can be combined to
+form the operation:
+\begin{zed} 
+Touch == TouchOn \lor TouchOff
+\end{zed}
+
+\end{document}

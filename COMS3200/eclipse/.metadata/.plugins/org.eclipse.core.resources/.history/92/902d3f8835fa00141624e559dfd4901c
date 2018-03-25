@@ -1,0 +1,334 @@
+package ass2;
+
+import java.net.*;
+import java.util.*;
+import java.io.*;
+
+public class Store {
+
+	@SuppressWarnings("resource")
+	public static void main(String[] args) throws IOException {
+
+		int stockPort = 0;
+		int namePort = 0;
+		//ServerSocket serverSocket = null;
+		DatagramSocket storeSocket = null;
+		DatagramSocket clientSocket = new DatagramSocket();
+
+		// check number of arguments
+		if (args.length != 3) {
+			System.err.print("Invalid command line arguments for store\n");
+			System.exit(1);
+		}
+		// check arguments type
+		try {
+			stockPort = Integer.parseInt(args[0]);
+			namePort = Integer.parseInt(args[2]);
+		} catch (NumberFormatException e) {
+			System.err.println("Invalid command line arguments for Store\n");
+			System.exit(1);
+		}
+
+		// open socket to contact name server
+//		Socket nameSocket = null;
+//		PrintWriter outName = null;
+//		BufferedReader inName = null;
+
+//		try {
+//			// Connect to the process listening on namePort on this host
+//			// (localhost)
+//			nameSocket = new Socket("127.0.0.1", namePort);
+//			outName = new PrintWriter(nameSocket.getOutputStream(), true);
+//			// "true" means flush at end of line
+//			inName = new BufferedReader(new InputStreamReader(
+//					nameSocket.getInputStream()));
+//		} catch (Exception e) {
+//			e.printStackTrace();
+//		}
+
+//		// send register request to name server
+//		outName.println("r Store " + stockPort + " 127.0.0.1");
+//		// Wait for a reply
+//		String reply = inName.readLine();
+//		if (reply != "registered") {
+//			System.err.print("Registration with NameServer failed\n");
+//			System.exit(1);
+//		}
+		
+		// set server's ip address
+		InetAddress IPAddress = InetAddress.getByName("127.0.0.1");
+		byte[] sendData = new byte[1024];
+		byte[] receiveData = new byte[1024];
+		
+		// send register request to name server
+		// outName.println("r Content " + contentPort + " 127.0.0.1");
+		String msg = "r Store " + stockPort + " 127.0.0.1";
+		sendData = msg.getBytes();
+		// send the message to server
+		DatagramPacket sendPacket = new DatagramPacket(sendData,
+				sendData.length, IPAddress, namePort);
+		clientSocket.send(sendPacket);
+		
+		// receive reply message from server
+		DatagramPacket receivePacket = new DatagramPacket(receiveData,
+				receiveData.length);
+		clientSocket.receive(receivePacket);
+		
+				
+		String reply = new String(receivePacket.getData());
+		
+		reply = reply.substring(0, receivePacket.getLength());
+		
+		// inName.readLine();
+		if (!reply.equals("registered")) {
+			
+			System.err.print("Store registration with NameServer failed\n");
+			System.exit(1);
+		}
+		System.err.print("registered\n");//REMOVE THIS
+		// send look up for bank and content
+		byte[] sendDatalb = new byte[1024];
+		byte[] receiveDatalb = new byte[1024];
+		// send lookup request to name server for bank
+		//outName.println("l Bank");
+		String lb = "l Bank";
+		sendData = lb.getBytes();
+		DatagramPacket sendPacketn = new DatagramPacket(sendData, sendData.length, IPAddress, namePort);
+		clientSocket.send(sendPacketn);
+		// Wait for a reply
+		DatagramPacket receivePacketlb = new DatagramPacket(receiveDatalb,
+				receiveDatalb.length);
+		clientSocket.receive(receivePacketlb);
+		
+				
+		String replylb = new String(receivePacketlb.getData());
+		
+		replylb = replylb.substring(0, receivePacketlb.getLength());
+		//String reply2 = inName.readLine();
+		List<String> Bank = new ArrayList<String>();
+		if (replylb != "Error: Process has not registered with the Name Server\n") {
+			Bank = Arrays.asList(replylb.substring(1, replylb.length() - 1)
+					.split(", "));
+
+		} else {
+			System.err.print("Bank has not registered\n");
+			System.exit(1);
+		}
+		// send lookup request to name server for content
+		byte[] sendDatalc = new byte[1024];
+		byte[] receiveDatalc = new byte[1024];
+		//outName.println("l Content");
+		// Wait for a reply
+		//String reply3 = inName.readLine();
+		String lc = "l Content";
+		sendDatalc = lc.getBytes();
+		DatagramPacket sendPacketn2 = new DatagramPacket(sendDatalc, sendDatalc.length, IPAddress, namePort);
+		clientSocket.send(sendPacketn2);
+		// Wait for a reply
+		DatagramPacket receivePacketlc = new DatagramPacket(receiveDatalc,
+				receiveDatalc.length);
+		clientSocket.receive(receivePacketlc);
+		
+				
+		String replylc = new String(receivePacketlc.getData());
+		
+		replylc = replylc.substring(0, receivePacketlc.getLength());
+		List<String> Content = new ArrayList<String>();
+		if (reply != "Error: Process has not registered with the Name Server\n") {
+			Content = Arrays.asList(replylc.substring(1, replylc.length() - 1)
+					.split(", "));
+		} else {
+			System.err.print("Content has not registered\n");
+			System.exit(1);
+		}
+		// done with name server
+//		outName.close();
+//		inName.close();
+//		nameSocket.close();
+		System.err.print("look ups worked\n");
+		// read the stock-file
+		// Open the file
+		FileInputStream fstream = new FileInputStream(args[1]);
+		BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
+
+		String strLine;
+		StringBuilder stocks = new StringBuilder();
+		String[] stock = new String[10];
+		int countStock = 0;
+		// Read File Line By Line
+		while ((strLine = br.readLine()) != null) {
+			stock[countStock] = strLine;
+			stocks.append(strLine);
+			stocks.append("\n");
+			countStock += 1;
+		}
+
+		// Close the input stream
+		br.close();
+
+//		// open socket to contact bank server
+//		Socket bankSocket = null;
+//		PrintWriter outBank = null;
+//		BufferedReader inBank = null;
+//
+//		try {
+//			// Connect to the process listening on bankPort on this host
+//			// (localhost)
+//			bankSocket = new Socket(Bank.get(1), Integer.parseInt(Bank.get(0)));
+//			outBank = new PrintWriter(bankSocket.getOutputStream(), true);
+//			// "true" means flush at end of line
+//			inBank = new BufferedReader(new InputStreamReader(
+//					bankSocket.getInputStream()));
+//		} catch (Exception e) {
+//			System.err.print("Unable to connect with Bank\n");
+//			e.printStackTrace();
+//			System.exit(1);
+//		}
+//
+//		// open socket to contact content server
+//		Socket contentSocket = null;
+//		PrintWriter outContent = null;
+//		BufferedReader inContent = null;
+//
+//		try {
+//			// Connect to the process listening on bankPort on this host
+//			// (localhost)
+//			contentSocket = new Socket(Content.get(1), Integer.parseInt(Content
+//					.get(0)));
+//			outContent = new PrintWriter(contentSocket.getOutputStream(), true);
+//			// "true" means flush at end of line
+//			inContent = new BufferedReader(new InputStreamReader(
+//					contentSocket.getInputStream()));
+//		} catch (Exception e) {
+//			System.err.print("Unable to connect with Content\n");
+//			e.printStackTrace();
+//			System.exit(1);
+//		}
+
+		// try to listen on portNum
+		try {
+			storeSocket = new DatagramSocket(stockPort);
+
+		} catch (IOException e) {
+			System.err.print("Store unable to listen on given port\n");
+			e.printStackTrace();
+		}
+		System.err.println("Store waiting for incoming connections\n");
+
+		//Socket connSocket = null;
+		while (true) {
+//			try {
+//				// block, waiting for a conn. request
+//				connSocket = serverSocket.accept();
+//				// At this point, we have a connection
+//
+//			} catch (IOException e) {
+//				e.printStackTrace();
+//			}
+//			// Now have a socket to use for communication
+//			// Create a PrintWriter and BufferedReader for interaction with our
+//			// stream "true" means we flush the stream on newline
+//			PrintWriter outClient = new PrintWriter(
+//					connSocket.getOutputStream(), true);
+//			BufferedReader inClient = new BufferedReader(new InputStreamReader(
+//					connSocket.getInputStream()));
+//			String line;
+			// Read a line from the stream - until the stream closes
+			//while ((line = inClient.readLine()) != null) {
+			
+			byte[] sendDataC = new byte[1024];
+			byte[] receiveDataC = new byte[1024];
+			// receive data
+			DatagramPacket receivePacket2 = new DatagramPacket(receiveDataC, receiveDataC.length);
+			storeSocket.receive(receivePacket2);
+			String line = new String(receivePacket2.getData());
+			
+			line = line.substring(0, receivePacket2.getLength());
+			// get the port of the client
+						InetAddress IPAddress2 = receivePacket.getAddress();
+						int port = receivePacket.getPort();
+						byte[] sendDataC2 = new byte[1024];
+						byte[] receiveDataC2 = new byte[1024];
+				if (line == "0") {
+					//outClient.print(stocks.toString());
+					sendDataC2 = stocks.toString().getBytes();
+					DatagramPacket sendPacket2 = new DatagramPacket(sendDataC2, sendDataC2.length, IPAddress2, port);
+					storeSocket.send(sendPacket2);
+				} else {
+					String[] splitted = line.split("\\s+");
+					int requestItem = Integer.parseInt(splitted[0]) - 1;
+					String[] itemDets = stock[requestItem].split("\\s+");
+					String itemID = itemDets[0];
+					String itemPrice = itemDets[1];
+					// credit card number is splitted[1]
+					String bankMsg = itemID + " " + itemPrice + " "
+							+ splitted[1];
+					sendDataC2 = bankMsg.getBytes();
+					DatagramPacket sendPacket2 = new DatagramPacket(sendDataC2, sendDataC2.length, IPAddress2, Integer.parseInt(Bank.get(0)));
+					storeSocket.send(sendPacket2);
+					// Wait for a reply
+					//String bankReply = inBank.readLine();
+					DatagramPacket receivePacket3 = new DatagramPacket(receiveDataC2, receiveDataC2.length);
+					storeSocket.receive(receivePacket3);
+					String bankLine = new String(receivePacket3.getData());
+					
+					bankLine = bankLine.substring(0, receivePacket3.getLength());
+					byte[] sendDataB = new byte[1024];
+					byte[] receiveDataB = new byte[1024];
+					if (bankLine == "0") {
+						//outClient.println(itemID + " transaction aborted");
+						String clientMsg = itemID + " transaction aborted";
+						sendDataB = clientMsg.getBytes();
+						DatagramPacket sendPacket3 = new DatagramPacket(sendDataB, sendDataB.length, IPAddress2, port);
+						storeSocket.send(sendPacket3);
+						break;
+					} else if (bankLine == "1") {
+						//outContent.println(itemID);
+						String contentMsg = itemID;
+						sendDataB = contentMsg.getBytes();
+						DatagramPacket sendPacket3 = new DatagramPacket(sendDataB, sendDataB.length, IPAddress2, Integer.parseInt(Content.get(0)));
+						storeSocket.send(sendPacket3);
+						// Wait for a reply
+						//String contentReply = inContent.readLine();
+						DatagramPacket receivePacket4 = new DatagramPacket(receiveDataB, receiveDataB.length);
+						storeSocket.receive(receivePacket4);
+						String contentReply = new String(receivePacket4.getData());
+						
+						contentReply = contentReply.substring(0, receivePacket4.getLength());
+						byte[] sendDataC3 = new byte[1024];
+						byte[] receiveDataC3 = new byte[1024];
+						if (contentReply == null) {
+							//outClient.println(itemID + " transaction aborted");
+							String clientMsg = itemID + " transaction aborted";
+							sendDataC3 = clientMsg.getBytes();
+							DatagramPacket sendPacket4 = new DatagramPacket(sendDataC3, sendDataC3.length, IPAddress2, port);
+							storeSocket.send(sendPacket4);
+							break;
+						}
+						String[] splittedContent = line.split("\\s+");
+						//outClient.println(itemID + " ($" + itemPrice + ")" + "CONTENT " + splittedContent[1]);
+						String clientMsg2 = itemID + " ($" + itemPrice + ")" + "CONTENT " + splittedContent[1];
+						sendDataC3 = clientMsg2.getBytes();
+						DatagramPacket sendPacket5 = new DatagramPacket(sendDataC3, sendDataC3.length, IPAddress2, port);
+						storeSocket.send(sendPacket5);
+						break;
+					}
+				}
+
+			}
+
+//			outContent.close();
+//			inContent.close();
+//
+//			outBank.close();
+//			inBank.close();
+//
+//			outClient.close();
+//			inClient.close();
+//
+//			connSocket.close();
+		
+
+	}
+
+}

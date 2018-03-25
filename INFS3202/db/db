@@ -1,0 +1,6 @@
+#!/bin/bash
+#to enable JDBC (TC)
+sudo chmod 777 /opt/local/share/tomcat/lib/
+cp ./jdbc.jar /opt/local/share/tomcat/lib/
+sudo chmod 555 /opt/local/share/tomcat/lib/
+sudo svcadm restart tomcat

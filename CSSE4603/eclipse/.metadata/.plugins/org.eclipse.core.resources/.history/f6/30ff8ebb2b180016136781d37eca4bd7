@@ -1,0 +1,216 @@
+\documentclass{article}
+\usepackage{fullpage}
+\usepackage{oz}
+
+\begin{document}
+
+\title{\bf CSSE4603/7032 Models of Software Systems\\[1ex] 
+Assignment 3: MSMIE}
+\author{Name and Student Number} %% replace with your name and student number
+\date{\today}
+\maketitle
+
+
+The required definition of $current\_config$  is
+
+\begin{axdef}
+current\_config:Ref\cross Ref \fun CONFIG
+\ST
+\forall r, n:Ref@\\
+\t1 r=n=null \implies current\_config(r,n) = wii\\
+\t1 r\neq null \land n\neq null \implies current\_config(r,n) = wrn\\
+\t1 r\neq null \land n=null \implies current\_config(r,n) = wri\\
+\t1 r=null \land n\neq null \implies current\_config(r,n) = wni
+\end{axdef}
+
+The proof of refinement follows.
+
+\subsection*{Initialisation}
+
+\noindent{\bf Lemma 1}
+
+\begin{argue}
+\exi MSMIE\dot MSMIEInit \land R\\
+\iff & [definitions of $MSMIE$, $MSMIEInit$ and $R$]\\
+\exi config:CONFIG;readers:\pset PID\dot\\
+\t1 (config\mem \{wii,wni\}\iff readers=\emptyset)\land \\
+\t1 config=wii\land\\
+\t1 config=current\_config(r,n) \land readers=readers1\land\\
+\t1 w\neq null \land w\neq r \land w\neq n \land (r=n \implies r=n=null) \land (r=null \iff readers1=\emptyset)\\
+\iff & [one-point-rule (config)]\\
+\exi readers:\pset PID\dot\\
+\t1 (current\_config(r,n)\mem \{wii,wni\}\iff readers=\emptyset)\land \\
+\t1 current\_config(r,n)=wii\land\\
+\t1 readers=readers1\land\\
+\t1 w\neq null \land w\neq r \land w\neq n \land (r=n \implies r=n=null) \land (r=null \iff readers1=\emptyset)\\
+\iff & [one-point-rule (readers)]\\
+\t1 (current\_config(r,n)\mem \{wii,wni\}\iff readers=\emptyset)\land \\
+\t1 current\_config(r,n)=wii\land\\
+\t1 w\neq null \land w\neq r \land w\neq n \land (r=n \implies r=n=null) \land (r=null \iff readers=\emptyset)\\
+\iff & [simplify (current\_config definition)]\\
+\t1 r=n=null \land readers=\emptyset \land\\
+\t1 w\neq null \land w\neq r \land w\neq n
+\end{argue}
+
+\noindent{\bf Theorem 1}
+
+\begin{zed}
+MSMIEInit1 \vdash \exi MSMIE\dot MSMIEInit \land R
+\end{zed}
+
+
+\begin{displaymath}
+\begin{array}{lll}
+1 & r = n = null  & MSMIEInit1\\
+2 & readers=\emptyset & MSMEI1\\
+3 &  w\neq null \land w\neq r \land w\neq n  & MSMEI1\\
+\end{array}
+\end{displaymath}
+
+
+\subsection*{Applicability}
+
+\noindent{\bf Lemma 2}
+
+\begin{argue}
+\pre Write\\
+\iff & [definition of $Write$]\\
+\exi config':CONFIG; readers':\pset PID\dot\\
+\t1 (config\mem \{wii,wni\}\iff readers=\emptyset)\land\\
+\t1 (config'\mem \{wii,wni\}\iff readers'=\emptyset)\land\\
+\t1 config' =next\_config(config)\land readers'=readers\\
+\iff & [one-point-rule (config')]\\
+\exi readers':\pset PID\dot\\
+\t1 (config\mem \{wii,wni\}\iff readers=\emptyset)\land\\
+\t1 (next\_config(config)\mem \{wii,wni\}\iff readers'=\emptyset)\land\\
+\t1 readers'=readers\\
+\iff & [one-point-rule (readers')]\\
+\t1 (config\mem \{wii,wni\}\iff readers=\emptyset)\land\\
+\t1 (next\_config(config)\mem \{wii,wni\}\iff readers=\emptyset)\\
+\iff & [simplify (\iff definition)]\\
+\t1 (config\mem \{wii,wni\}\iff readers=\emptyset)\\
+\end{argue}
+
+\noindent{\bf Assumption 1}: There are at least three non-null values of $Ref$. That is, if $x$ and $y$ are any values of $Ref$ then the following holds. 
+
+\[\exi z:Ref\dot z\neq null \land z\neq x \land z\neq y\]
+
+\noindent{\bf Lemma 3}
+
+\begin{argue}
+\pre Write1\\
+\iff & [definition of $Write1$]\\
+\exi w',r',n':Ref; readers1':\pset ID\dot\\
+\t1 w\neq null \land w\neq r \land w\neq n \land (r=n \implies r=n=null) \land (r=null \iff readers1=\emptyset)\land\\
+\t1 w'\neq null \land w'\neq r' \land w'\neq n' \land (r'=n' \implies r'=n'=null) \land (r'=null \iff readers1'=\emptyset)\land\\
+\t1 n'=w \land r'=r \land readers1'=readers1\\
+\iff & [Assumption 1]\\
+\exi r',n':Ref; readers1':\pset ID\dot\\
+\t1 w\neq null \land w\neq r \land w\neq n \land (r=n \implies r=n=null) \land (r=null \iff readers1=\emptyset)\land\\
+\t1 (r'=n' \implies r'=n'=null) \land (r'=null \iff readers1'=\emptyset)\land\\
+\t1 n'=w \land r'=r \land readers1'=readers1\\
+\iff & [one-point-rule (r')]\\
+\exi n':Ref; readers1':\pset ID\dot\\
+\t1 w\neq null \land w\neq r \land w\neq n \land (r=n \implies r=n=null) \land (r=null \iff readers1=\emptyset)\land\\
+\t1 (r=n' \implies r=n'=null) \land (r=null \iff readers1'=\emptyset)\land\\
+\t1 n'=w \land readers1'=readers1\\
+\iff & [one-point-rule (n')]\\
+\exi readers1':\pset ID\dot\\
+\t1 w\neq null \land w\neq r \land w\neq n \land (r=n \implies r=n=null) \land (r=null \iff readers1=\emptyset)\land\\
+\t1 (r=w \implies r=w=null) \land (r=null \iff readers1'=\emptyset)\land\\
+\t1 readers1'=readers1\\
+\iff & [one-point-rule (readers1')]\\
+\t1 w\neq null \land w\neq r \land w\neq n \land \\
+\t1 (r=n \implies r=n=null) \land
+(r=null \iff readers1=\emptyset)\land\\
+\t1 (r=w \implies r=w=null) \land (r=null \iff readers1=\emptyset)\\
+\iff & [simplify duplication]\\
+\t1 w\neq null \land w\neq r \land w\neq n \land \\
+\t1 (r=n \implies r=n=null) \land
+(r=null \iff readers1=\emptyset)\land\\
+\t1 (r=w \implies r=w=null)\\
+\iff & [simplify (w \neq null)]\\
+\t1 w\neq null \land w\neq r \land w\neq n \land \\
+\t1 (r=n \implies r=n=null) \land
+(r=null \iff readers1=\emptyset)\\
+\end{argue}
+
+\noindent{\bf Theorem 2}
+
+\[R \land \pre Write \vdash \pre Write1\]
+
+\begin{displaymath}
+\begin{array}{lll}
+1 & w\neq null \land w\neq r \land w\neq n & MSMEI1 \\
+2 & (r=n \implies r=n=null) & MSMEI1 \\
+3 & (r=null \iff readers1=\emptyset) & MSMEI1\\
+\end{array}
+\end{displaymath}
+
+\subsubsection*{Correctness}
+
+\noindent{\bf Lemma 4}
+
+\begin{argue}
+\exi MSMIE'\dot Write \land R'\\
+\iff & [definitions of $MSMIE'$, $Write$ and $R'$]\\
+\exi config':CONFIG; readers':\pset PID\dot\\
+\t1 (config'\mem \{wii,wni\} \iff readers'=\emptyset) \land\\
+\t1 (config\mem \{wii,wni\} \iff readers=\emptyset) \land\\
+\t1 config'=next\_config(config)\land readers'=readers\land\\
+\t1 w'\neq null \land w'\neq r' \land w'\neq n' \land (r'=n' \implies r'=n'=null) \land (r'=null \iff readers1'=\emptyset)\land\\
+\t1 config'=current\_config(r',n')\land readers'=readers1'\\
+\iff & [one-point-rule (config')]\\
+\exi readers':\pset PID\dot\\
+\t1 (current\_config(r',n')\mem \{wii,wni\} \iff readers'=\emptyset) \land\\
+\t1 (config\mem \{wii,wni\} \iff readers=\emptyset) \land\\
+\t1 current\_config(r',n')=next\_config(config)\land readers'=readers\land\\
+\t1 w'\neq null \land w'\neq r' \land w'\neq n' \land (r'=n' \implies r'=n'=null) \land (r'=null \iff readers1'=\emptyset)\land\\
+\t1 readers'=readers1'\\
+\iff & [one-point-rule (readers')]\\
+\t1 (current\_config(r',n')\mem \{wii,wni\} \iff readers1'=\emptyset) \land\\
+\t1 (config\mem \{wii,wni\} \iff readers=\emptyset) \land\\
+\t1 current\_config(r',n')=next\_config(config)\land readers1'=readers\land\\
+\t1 w'\neq null \land w'\neq r' \land w'\neq n' \land (r'=n' \implies r'=n'=null) \land (r'=null \iff readers1'=\emptyset)\land\\
+\iff & [simplify (current\_config definition)]\\
+\t1 (r' = null \iff readers1'=\emptyset) \land\\
+\t1 (config\mem \{wii,wni\} \iff readers=\emptyset) \land\\
+\t1 current\_config(r',n')=next\_config(config)\land readers1'=readers\land\\
+\t1 w'\neq null \land w'\neq r' \land w'\neq n' \land (r'=n' \implies
+r'=n'=null) \land (r'=null \iff readers1'=\emptyset)\land\\
+\iff & [simplify duplication]\\
+\t1 (r' = null \iff readers1'=\emptyset) \land\\
+\t1 (config\mem \{wii,wni\} \iff readers=\emptyset) \land\\
+\t1 current\_config(r',n')=next\_config(config)\land readers1'=readers\land\\
+\t1 w'\neq null \land w'\neq r' \land w'\neq n' \land (r'=n' \implies
+r'=n'=null)\\
+\iff & [simplify (next\_config definition)]\\
+\t1 (r' = null \iff readers1'=\emptyset) \land\\
+\t1 (config\mem \{wii,wni\} \iff readers=\emptyset) \land\\
+\t1 current\_config(r',n') \mem \{wni,wrn\} \land readers1'=readers\land\\
+\t1 w'\neq null \land w'\neq r' \land w'\neq n' \land (r'=n' \implies
+r'=n'=null) \\
+\end{argue}
+
+
+\noindent{\bf Theorem 3}
+
+\[R \land \pre Write \land Write1 \vdash \exists MSMIE'\dot Write \land R'\]
+
+\begin{displaymath}
+\begin{array}{lll}
+1 & config\mem \{wii,wni\} \iff readers=\emptyset & preWrite\\
+2 & 
+\ldots
+\end{array}
+\end{displaymath}
+
+
+
+
+
+
+
+
+
+\end{document}

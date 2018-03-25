@@ -1,0 +1,36 @@
+.rest{
+	float:left;
+	width: 400px;
+}
+.map{
+	float:left;
+}
+.rc{
+	float:left;
+}
+.infoButton{
+	background:#686C75;
+	border:10px;
+	width: 120px;
+	height: 20px;
+	
+	color: #F3E9D0;
+	margin-left: 3px;
+	margin-right: 3px;
+	
+	
+}
+
+.img {
+	width:160px;
+	height:160px;
+}
+
+#map-canvas {
+	width: 500px;
+	height: 400px;
+	}
+
+
+
+

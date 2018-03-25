@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Assignment 1/assignment1.tex&apos; to &apos;assignment1.zed&apos;" description="Rename resource &apos;assignment1.tex&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="assignment1.tex" name="assignment1.zed" stamp="1461134411168" updateReferences="true"/>
+</session>

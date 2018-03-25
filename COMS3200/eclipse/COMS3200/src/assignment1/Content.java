@@ -1,0 +1,120 @@
+package ass1;
+
+import java.net.*;
+import java.util.*;
+import java.io.*;
+
+public class Content {
+	@SuppressWarnings("resource")
+	public static void main(String[] args) throws IOException {
+		
+		int contentPort = 0;
+		int namePort = 0;
+		ServerSocket serverSocket = null;
+
+		// check number of arguments
+		if (args.length != 3) {
+			System.err.print("Invalid command line arguments for Content\n");
+			System.exit(1);
+		}
+		// check arguments type
+		try {
+			contentPort = Integer.parseInt(args[0]);
+			namePort = Integer.parseInt(args[2]);
+		} catch (NumberFormatException e) {
+			System.err.println("Content unable to listen on given port\n");
+			System.exit(1);
+		}
+		
+		// try to listen on portNum
+				try {
+					serverSocket = new ServerSocket(contentPort);
+					System.err.print("Content waiting for incoming connections\n");
+				} catch (IOException e) {
+					System.err.print("Content unable to listen on given port\n");
+					e.printStackTrace();
+				}
+
+		// open socket to contact name server
+		Socket nameSocket = null;
+		PrintWriter outName = null;
+		BufferedReader inName = null;
+
+		try {
+			// Connect to the process listening on namePort on this host
+			// (localhost)
+			nameSocket = new Socket("127.0.0.1", namePort);
+			outName = new PrintWriter(nameSocket.getOutputStream(), true);
+			// "true" means flush at end of line
+			inName = new BufferedReader(new InputStreamReader(
+					nameSocket.getInputStream()));
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+		// send register request to name server
+		outName.println("r Content " + contentPort + " 127.0.0.1");
+		// Wait for a reply
+		String reply = inName.readLine();
+		if (reply != "registered") {
+			System.err.print("Content registration with NameServer failed\n");
+			System.exit(1);
+		}
+		outName.close();
+		inName.close();
+		nameSocket.close();
+		
+		//read content file
+		Map<String,String> contentData = new HashMap<String,String>();
+				// Open the file
+				FileInputStream fstream = new FileInputStream(args[1]);
+				BufferedReader br = new BufferedReader(new InputStreamReader(fstream));
+
+				String strLine;
+				
+				
+				// Read File Line By Line
+				while ((strLine = br.readLine()) != null) {
+					String[] splitted = strLine.split("\\s+"); 
+					contentData.put(splitted[0], splitted[1]);
+				}
+
+				// Close the input stream
+				br.close();
+		
+		Socket connSocket = null;
+		//start listening
+		while(true) {
+        	try {
+				// block, waiting for a conn. request
+				connSocket = serverSocket.accept();
+				// At this point, we have a connection
+				
+		    } catch (IOException e) {
+		    	e.printStackTrace();
+		    }
+		    // Now have a socket to use for communication
+		    // Create a PrintWriter and BufferedReader for interaction with our stream "true" means we flush the stream on newline
+		    PrintWriter outContent = new PrintWriter(connSocket.getOutputStream(), true);
+		    BufferedReader inContent = new BufferedReader(new InputStreamReader(connSocket.getInputStream()));
+		    String line;
+		    // Read a line from the stream - until the stream closes
+		    while ((line=inContent.readLine()) != null) {
+		    	String contentReply = contentData.get(line);
+		    	outContent.println(line + " " + contentReply);
+		    }
+		    
+
+		    outContent.close();
+		    inContent.close();
+		    connSocket.close();
+        }
+		
+		
+		
+		
+		
+		
+		
+	}
+}
